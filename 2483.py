@@ -1,0 +1,5 @@
+n = int(input())
+print('Feliz nat',end='')
+print('a'* n,end='')
+print('l!')
+print(end='')
