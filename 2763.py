@@ -1,0 +1,5 @@
+v = input()
+print(f'{v[0]}{v[1]}{v[2]}')
+print(f'{v[4]}{v[5]}{v[6]}')
+print(f'{v[8]}{v[9]}{v[10]}')
+print(f'{v[12]}{v[13]}')
