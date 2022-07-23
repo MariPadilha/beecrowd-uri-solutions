@@ -1,20 +1,19 @@
 
-# Geometria Computacional (7 / 82)
+# Geometria Computacional (0 / 82)
 
 
 
 ## Problemas resolvidos
 
-  - [x]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Flores de Fogo](https://github.com/potigol/beecrowd/blob/master/src/1000/1039.poti)
-  - [x]  [1296](https://www.beecrowd.com.br/judge/pt/problems/view/1296) - [Medianas](https://github.com/potigol/beecrowd/blob/master/src/1200/1296.poti)
-  - [x]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Dividindo a Coca](https://github.com/potigol/beecrowd/blob/master/src/1500/1549.poti)
-  - [x]  [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - [Tribol](https://github.com/potigol/beecrowd/blob/master/src/1800/1875.poti)
-  - [x]  [2158](https://www.beecrowd.com.br/judge/pt/problems/view/2158) - [Ajudando o Tio Cláudio](https://github.com/potigol/beecrowd/blob/master/src/2100/2158.poti)
-  - [x]  [2840](https://www.beecrowd.com.br/judge/pt/problems/view/2840) - [Balão++](https://github.com/potigol/beecrowd/blob/master/src/2800/2840.poti)
-  - [x]  [3152](https://www.beecrowd.com.br/judge/pt/problems/view/3152) - [Samuel, O Cafeicultor](https://github.com/potigol/beecrowd/blob/master/src/3100/3152.poti)
+  - [ ]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - Dividindo a Coca
+  - [ ]  [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - Tribol
+  - [ ]  [2158](https://www.beecrowd.com.br/judge/pt/problems/view/2158) - Ajudando o Tio Cláudio
+  - [ ]  [2840](https://www.beecrowd.com.br/judge/pt/problems/view/2840) - Balão++
+  - [ ]  [3152](https://www.beecrowd.com.br/judge/pt/problems/view/3152) - Samuel, O Cafeicultor
 
 ## Problemas não resolvidos
 
+  - [ ]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - Flores de Fogo
   - [ ]  [1102](https://www.beecrowd.com.br/judge/pt/problems/view/1102) - Ataque Fulminante
   - [ ]  [1108](https://www.beecrowd.com.br/judge/pt/problems/view/1108) - Torres de Telefonia Celular
   - [ ]  [1124](https://www.beecrowd.com.br/judge/pt/problems/view/1124) - Elevador
@@ -27,6 +26,7 @@
   - [ ]  [1293](https://www.beecrowd.com.br/judge/pt/problems/view/1293) - Romeu e Julieta!
   - [ ]  [1294](https://www.beecrowd.com.br/judge/pt/problems/view/1294) - A Maior e Menor Caixa
   - [ ]  [1295](https://www.beecrowd.com.br/judge/pt/problems/view/1295) - Problema dos Pares Mais Próximos
+  - [ ]  [1296](https://www.beecrowd.com.br/judge/pt/problems/view/1296) - Medianas
   - [ ]  [1315](https://www.beecrowd.com.br/judge/pt/problems/view/1315) - Não tão Convexo
   - [ ]  [1336](https://www.beecrowd.com.br/judge/pt/problems/view/1336) - Cerca do Jardim
   - [ ]  [1345](https://www.beecrowd.com.br/judge/pt/problems/view/1345) - Região Segura
