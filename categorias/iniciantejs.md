@@ -4,10 +4,10 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/beecrowd/blob/master/src/1000/1000.poti)
-  - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/beecrowd/blob/master/src/1000/1001.poti)
-  - [x]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/beecrowd/blob/master/src/1000/1002.poti)
-  - [x]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/beecrowd/blob/master/src/1000/1003.poti)
+  - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1000.js)
+  - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1001.js)
+  - [x]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1002.js)
+  - [x]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1003.js)
   - [x]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/potigol/beecrowd/blob/master/src/1000/1004.poti)
   - [x]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/potigol/beecrowd/blob/master/src/1000/1005.poti)
   - [x]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1006.poti)
