@@ -1,26 +1,7 @@
 # Strings (0 / 148)
 
-
-
 ## Problemas resolvidos
 
-  - [ ]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
-  - [ ]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - Comparação de Substring
-  - [ ]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - Combinador
-  - [ ]  [1239](https://www.beecrowd.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
-  - [ ]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II
-  - [ ]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - Cifra de César
-  - [ ]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - Frequência de Letras
-  - [ ]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - Array Hash
-  - [ ]  [1262](https://www.beecrowd.com.br/judge/pt/problems/view/1262) - Leitura Múltipla
-  - [ ]  [1263](https://www.beecrowd.com.br/judge/pt/problems/view/1263) - Aliteração
-  - [ ]  [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) - Mensagem Oculta
-  - [ ]  [1273](https://www.beecrowd.com.br/judge/pt/problems/view/1273) - Justificador
-  - [ ]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - Faixa de Letras
-  - [ ]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - Pouca Frequência
-  - [ ]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - Justificador II
-  - [ ]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros
-  - [ ]  [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) - Um-Dois-Três
   - [ ]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - Imagem
   - [ ]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - Frase Completa
   - [ ]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - Conversa Internacional
@@ -75,12 +56,29 @@
   - [ ]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - LED
   - [ ]  [1222](https://www.beecrowd.com.br/judge/pt/problems/view/1222) - Concurso de Contos
   - [ ]  [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) - Sentença Dançante
+  - [ ]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - De Dentro para Fora  
+  - [ ]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - Comparação de Substring  
+  - [ ]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - Combinador  
+  - [ ]  [1239](https://www.beecrowd.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo  
+  - [ ]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II 
   - [ ]  [1243](https://www.beecrowd.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta
+  - [ ]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - Cifra de César  
   - [ ]  [1254](https://www.beecrowd.com.br/judge/pt/problems/view/1254) - Substituição de Tag
+  - [ ]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - Frequência de Letras  
+  - [ ]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - Array Hash  
+  - [ ]  [1262](https://www.beecrowd.com.br/judge/pt/problems/view/1262) - Leitura Múltipla  
+  - [ ]  [1263](https://www.beecrowd.com.br/judge/pt/problems/view/1263) - Aliteração  
+  - [ ]  [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) - Mensagem Oculta  
+  - [ ]  [1273](https://www.beecrowd.com.br/judge/pt/problems/view/1273) - Justificador  
+  - [ ]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - Faixa de Letras  
+  - [ ]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - Pouca Frequência  
+  - [ ]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - Justificador II  
   - [ ]  [1284](https://www.beecrowd.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular
+  - [ ]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros  
   - [ ]  [1305](https://www.beecrowd.com.br/judge/pt/problems/view/1305) - Arredondamento por Valor de Corte
   - [ ]  [1313](https://www.beecrowd.com.br/judge/pt/problems/view/1313) - Dicionário Portuñol
+  - [ ]  [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) - Um-Dois-Três  
   - [ ]  [1335](https://www.beecrowd.com.br/judge/pt/problems/view/1335) - Recuperação de Arquivos
   - [ ]  [1341](https://www.beecrowd.com.br/judge/pt/problems/view/1341) - Crianças em uma Grade
   - [ ]  [1355](https://www.beecrowd.com.br/judge/pt/problems/view/1355) - Compressor
