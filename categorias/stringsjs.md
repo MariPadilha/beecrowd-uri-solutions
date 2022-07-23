@@ -4,9 +4,6 @@
 
 ## Problemas resolvidos
 
-  - [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - Criptografia
-  - [ ]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
-  - [ ]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - LED
   - [ ]  [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) - Sentença Dançante
   - [ ]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
   - [ ]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - Comparação de Substring
@@ -73,7 +70,10 @@
   - [ ]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil
 ## Problemas não resolvidos
 
+  - [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - Criptografia
+  - [ ]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - Revisão de Contrato  
   - [ ]  [1141](https://www.beecrowd.com.br/judge/pt/problems/view/1141) - Cultivando Strings
+  - [ ]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - LED
   - [ ]  [1222](https://www.beecrowd.com.br/judge/pt/problems/view/1222) - Concurso de Contos
   - [ ]  [1243](https://www.beecrowd.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta
