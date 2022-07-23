@@ -2,13 +2,6 @@
 
 ## Problemas resolvidos
 
-  - [ ]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - Imagem
-  - [ ]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - Frase Completa
-  - [ ]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - Conversa Internacional
-  - [ ]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - Avance as Letras
-  - [ ]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - Variações
-  - [ ]  [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - Árvore de Natal
-  - [ ]  [1781](https://www.beecrowd.com.br/judge/pt/problems/view/1781) - Guga e a String
   - [ ]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - Matring
   - [ ]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - Espiral Quadrada
   - [ ]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - Zero vale Zero
@@ -94,16 +87,23 @@
   - [ ]  [1458](https://www.beecrowd.com.br/judge/pt/problems/view/1458) - Campeonato de SMS
   - [ ]  [1491](https://www.beecrowd.com.br/judge/pt/problems/view/1491) - Linguagem de Blogger
   - [ ]  [1503](https://www.beecrowd.com.br/judge/pt/problems/view/1503) - Maior Palíndromo Comum Você Deve Encontrar
+  - [ ]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - Imagem  
   - [ ]  [1519](https://www.beecrowd.com.br/judge/pt/problems/view/1519) - Abreviações
   - [ ]  [1530](https://www.beecrowd.com.br/judge/pt/problems/view/1530) - Quantas Substrings?
+  - [ ]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - Frase Completa  
   - [ ]  [1556](https://www.beecrowd.com.br/judge/pt/problems/view/1556) - Removendo Letras
+  - [ ]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - Conversa Internacional  
   - [ ]  [1586](https://www.beecrowd.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
+  - [ ]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - Avance as Letras  
   - [ ]  [1629](https://www.beecrowd.com.br/judge/pt/problems/view/1629) - DescompactaFACE
+  - [ ]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - Variações  
   - [ ]  [1664](https://www.beecrowd.com.br/judge/pt/problems/view/1664) - Bullshit Bingo
   - [ ]  [1667](https://www.beecrowd.com.br/judge/pt/problems/view/1667) - HTML
   - [ ]  [1686](https://www.beecrowd.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos
   - [ ]  [1726](https://www.beecrowd.com.br/judge/pt/problems/view/1726) - Amigos
   - [ ]  [1737](https://www.beecrowd.com.br/judge/pt/problems/view/1737) - Etaoin Shrdlu
+  - [ ]  [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - Árvore de Natal  
+  - [ ]  [1781](https://www.beecrowd.com.br/judge/pt/problems/view/1781) - Guga e a String
   - [ ]  [1842](https://www.beecrowd.com.br/judge/pt/problems/view/1842) - A Ordem da Fênix
   - [ ]  [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - Numero Para Nome
   - [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
