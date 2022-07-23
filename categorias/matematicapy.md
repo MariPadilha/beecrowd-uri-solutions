@@ -1,6 +1,11 @@
-# Matemática (0 / 269)
+# Matemática (2 / 269)
 
 
+
+## Problemas resolvidos
+
+  - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1197.py)
+  - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1323.py)
 
 ## Problemas não resolvidos
 
@@ -12,7 +17,6 @@
   - [ ]  [1169](https://www.beecrowd.com.br/judge/pt/problems/view/1169) - Trigo no Tabuleiro
   - [ ]  [1170](https://www.beecrowd.com.br/judge/pt/problems/view/1170) - Blobs
   - [ ]  [1193](https://www.beecrowd.com.br/judge/pt/problems/view/1193) - Conversão entre Bases
-  - [ ]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - Volta à Faculdade de Física
   - [ ]  [1198](https://www.beecrowd.com.br/judge/pt/problems/view/1198) - O Bravo Guerreiro Hashmat
   - [ ]  [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - Conversão Simples de Base
   - [ ]  [1202](https://www.beecrowd.com.br/judge/pt/problems/view/1202) - Festival das Noites Brancas
@@ -37,7 +41,6 @@
   - [ ]  [1307](https://www.beecrowd.com.br/judge/pt/problems/view/1307) - Tudo o que Você Precisa é Amor
   - [ ]  [1308](https://www.beecrowd.com.br/judge/pt/problems/view/1308) - Guerreiros Etruscos Nunca Jogam Xadrez  
   - [ ]  [1309](https://www.beecrowd.com.br/judge/pt/problems/view/1309) - Formatação Monetária  
-  - [ ]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - Feynman  
   - [ ]  [1324](https://www.beecrowd.com.br/judge/pt/problems/view/1324) - Bóson de Higgs
   - [ ]  [1338](https://www.beecrowd.com.br/judge/pt/problems/view/1338) - It-Miha
   - [ ]  [1346](https://www.beecrowd.com.br/judge/pt/problems/view/1346) - Brincadeira de Criança
