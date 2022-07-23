@@ -1,4 +1,4 @@
-# Geometria Computacional (7 / 82)
+# Geometria Computacional (0 / 82)
 
 
 
