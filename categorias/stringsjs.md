@@ -4,74 +4,73 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - Criptografia
-  - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
-  - [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - LED
-  - [x]  [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) - Sentença Dançante
-  - [x]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
-  - [x]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - Comparação de Substring
-  - [x]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - Combinador
-  - [x]  [1239](https://www.beecrowd.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
-  - [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II
-  - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - Cifra de César
-  - [x]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - Frequência de Letras
-  - [x]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - Array Hash
-  - [x]  [1262](https://www.beecrowd.com.br/judge/pt/problems/view/1262) - Leitura Múltipla
-  - [x]  [1263](https://www.beecrowd.com.br/judge/pt/problems/view/1263) - Aliteração
-  - [x]  [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) - Mensagem Oculta
-  - [x]  [1273](https://www.beecrowd.com.br/judge/pt/problems/view/1273) - Justificador
-  - [x]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - Faixa de Letras
-  - [x]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - Pouca Frequência
-  - [x]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - Justificador II
-  - [x]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros
-  - [x]  [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) - Um-Dois-Três
-  - [x]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - Imagem
-  - [x]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - Frase Completa
-  - [x]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - Conversa Internacional
-  - [x]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - Avance as Letras
-  - [x]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - Variações
-  - [x]  [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - Árvore de Natal
-  - [x]  [1781](https://www.beecrowd.com.br/judge/pt/problems/view/1781) - Guga e a String
-  - [x]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - Matring
-  - [x]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - Espiral Quadrada
-  - [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - Zero vale Zero
-  - [x]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - Pedra-papel-tesoura-lagarto-Spock
-  - [x]  [2023](https://www.beecrowd.com.br/judge/pt/problems/view/2023) - A Última Criança Boa
-  - [x]  [2062](https://www.beecrowd.com.br/judge/pt/problems/view/2062) - OBI URI
-  - [x]  [2108](https://www.beecrowd.com.br/judge/pt/problems/view/2108) - Contando Caracters
-  - [x]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - A Biblioteca do Senhor Severino
-  - [x]  [2150](https://www.beecrowd.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas
-  - [x]  [2157](https://www.beecrowd.com.br/judge/pt/problems/view/2157) - Sequência Espelho
-  - [x]  [2174](https://www.beecrowd.com.br/judge/pt/problems/view/2174) - Coleção de Pomekon
-  - [x]  [2242](https://www.beecrowd.com.br/judge/pt/problems/view/2242) - Huaauhahhuahau
-  - [x]  [2253](https://www.beecrowd.com.br/judge/pt/problems/view/2253) - Validador de Senhas
-  - [x]  [2356](https://www.beecrowd.com.br/judge/pt/problems/view/2356) - Bactéria I
-  - [x]  [2484](https://www.beecrowd.com.br/judge/pt/problems/view/2484) - Abracadabra
-  - [x]  [2557](https://www.beecrowd.com.br/judge/pt/problems/view/2557) - R+L=J
-  - [x]  [2587](https://www.beecrowd.com.br/judge/pt/problems/view/2587) - Jetiqui
-  - [x]  [2591](https://www.beecrowd.com.br/judge/pt/problems/view/2591) - HameKameKa
-  - [x]  [2651](https://www.beecrowd.com.br/judge/pt/problems/view/2651) - Link Bolado
-  - [x]  [2690](https://www.beecrowd.com.br/judge/pt/problems/view/2690) - Nova Senha RA
-  - [x]  [2691](https://www.beecrowd.com.br/judge/pt/problems/view/2691) - O Matemático
-  - [x]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - Problema com a Calculadora
-  - [x]  [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória
-  - [x]  [2722](https://www.beecrowd.com.br/judge/pt/problems/view/2722) - Pegadinha de Evergreen
-  - [x]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol
-  - [x]  [2815](https://www.beecrowd.com.br/judge/pt/problems/view/2815) - Digitador Gago
-  - [x]  [2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) - Criptotexto
-  - [x]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - Enigma
-  - [x]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - Database of Clients
-  - [x]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
-  - [x]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - Correção de Texto
-  - [x]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - Número da Sorte
-  - [x]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - Dúvida Etária
-  - [x]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - Tijolão
-  - [x]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - Timebomb
-  - [x]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - Números Má Sorte Recarregados
-  - [x]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - Hudinho e o seu Trabalho
-  - [x]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - Jogo de Palavras
-  - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil
-
+  - [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - Criptografia
+  - [ ]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - Revisão de Contrato
+  - [ ]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - LED
+  - [ ]  [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) - Sentença Dançante
+  - [ ]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - De Dentro para Fora
+  - [ ]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - Comparação de Substring
+  - [ ]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - Combinador
+  - [ ]  [1239](https://www.beecrowd.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo
+  - [ ]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II
+  - [ ]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - Cifra de César
+  - [ ]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - Frequência de Letras
+  - [ ]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - Array Hash
+  - [ ]  [1262](https://www.beecrowd.com.br/judge/pt/problems/view/1262) - Leitura Múltipla
+  - [ ]  [1263](https://www.beecrowd.com.br/judge/pt/problems/view/1263) - Aliteração
+  - [ ]  [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) - Mensagem Oculta
+  - [ ]  [1273](https://www.beecrowd.com.br/judge/pt/problems/view/1273) - Justificador
+  - [ ]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - Faixa de Letras
+  - [ ]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - Pouca Frequência
+  - [ ]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - Justificador II
+  - [ ]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros
+  - [ ]  [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) - Um-Dois-Três
+  - [ ]  [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - Imagem
+  - [ ]  [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - Frase Completa
+  - [ ]  [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - Conversa Internacional
+  - [ ]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - Avance as Letras
+  - [ ]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - Variações
+  - [ ]  [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - Árvore de Natal
+  - [ ]  [1781](https://www.beecrowd.com.br/judge/pt/problems/view/1781) - Guga e a String
+  - [ ]  [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - Matring
+  - [ ]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - Espiral Quadrada
+  - [ ]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - Zero vale Zero
+  - [ ]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - Pedra-papel-tesoura-lagarto-Spock
+  - [ ]  [2023](https://www.beecrowd.com.br/judge/pt/problems/view/2023) - A Última Criança Boa
+  - [ ]  [2062](https://www.beecrowd.com.br/judge/pt/problems/view/2062) - OBI URI
+  - [ ]  [2108](https://www.beecrowd.com.br/judge/pt/problems/view/2108) - Contando Caracters
+  - [ ]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - A Biblioteca do Senhor Severino
+  - [ ]  [2150](https://www.beecrowd.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas
+  - [ ]  [2157](https://www.beecrowd.com.br/judge/pt/problems/view/2157) - Sequência Espelho
+  - [ ]  [2174](https://www.beecrowd.com.br/judge/pt/problems/view/2174) - Coleção de Pomekon
+  - [ ]  [2242](https://www.beecrowd.com.br/judge/pt/problems/view/2242) - Huaauhahhuahau
+  - [ ]  [2253](https://www.beecrowd.com.br/judge/pt/problems/view/2253) - Validador de Senhas
+  - [ ]  [2356](https://www.beecrowd.com.br/judge/pt/problems/view/2356) - Bactéria I
+  - [ ]  [2484](https://www.beecrowd.com.br/judge/pt/problems/view/2484) - Abracadabra
+  - [ ]  [2557](https://www.beecrowd.com.br/judge/pt/problems/view/2557) - R+L=J
+  - [ ]  [2587](https://www.beecrowd.com.br/judge/pt/problems/view/2587) - Jetiqui
+  - [ ]  [2591](https://www.beecrowd.com.br/judge/pt/problems/view/2591) - HameKameKa
+  - [ ]  [2651](https://www.beecrowd.com.br/judge/pt/problems/view/2651) - Link Bolado
+  - [ ]  [2690](https://www.beecrowd.com.br/judge/pt/problems/view/2690) - Nova Senha RA
+  - [ ]  [2691](https://www.beecrowd.com.br/judge/pt/problems/view/2691) - O Matemático
+  - [ ]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - Problema com a Calculadora
+  - [ ]  [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória
+  - [ ]  [2722](https://www.beecrowd.com.br/judge/pt/problems/view/2722) - Pegadinha de Evergreen
+  - [ ]  [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - Grace Hopper, a Vovó do Cobol
+  - [ ]  [2815](https://www.beecrowd.com.br/judge/pt/problems/view/2815) - Digitador Gago
+  - [ ]  [2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) - Criptotexto
+  - [ ]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - Enigma
+  - [ ]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - Database of Clients
+  - [ ]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
+  - [ ]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - Correção de Texto
+  - [ ]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - Número da Sorte
+  - [ ]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - Dúvida Etária
+  - [ ]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - Tijolão
+  - [ ]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - Timebomb
+  - [ ]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - Números Má Sorte Recarregados
+  - [ ]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - Hudinho e o seu Trabalho
+  - [ ]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - Jogo de Palavras
+  - [ ]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil
 ## Problemas não resolvidos
 
   - [ ]  [1141](https://www.beecrowd.com.br/judge/pt/problems/view/1141) - Cultivando Strings
