@@ -1,19 +1,6 @@
-# Estruturas e Bibliotecas (33 / 179)
+# Estruturas e Bibliotecas (0 / 179)
 
 
-
-  - [ ]  [2594](https://www.beecrowd.com.br/judge/pt/problems/view/2594) - Eachianos II
-  - [ ]  [2633](https://www.beecrowd.com.br/judge/pt/problems/view/2633) - Churras no Yuri
-  - [ ]  [2654](https://www.beecrowd.com.br/judge/pt/problems/view/2654) - Godofor
-  - [ ]  [2693](https://www.beecrowd.com.br/judge/pt/problems/view/2693) - Van
-  - [ ]  [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - Lista de Compras
-  - [ ]  [2872](https://www.beecrowd.com.br/judge/pt/problems/view/2872) - Protocolo TCP/IP
-  - [ ]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
-  - [ ]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - Amigos
-  - [ ]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - Controlador de Vôo
-  - [ ]  [3171](https://www.beecrowd.com.br/judge/pt/problems/view/3171) - Cordão de Led
-  - [ ]  [3176](https://www.beecrowd.com.br/judge/pt/problems/view/3176) - Time de Duendes
-  - [ ]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - Rico do Mate
 
 ## Problemas não resolvidos
 
@@ -146,13 +133,18 @@
   - [ ]  [2559](https://www.beecrowd.com.br/judge/pt/problems/view/2559) - Sexta-Feira 13
   - [ ]  [2560](https://www.beecrowd.com.br/judge/pt/problems/view/2560) - Surf Aquático
   - [ ]  [2593](https://www.beecrowd.com.br/judge/pt/problems/view/2593) - Eachianos I
+  - [ ]  [2594](https://www.beecrowd.com.br/judge/pt/problems/view/2594) - Eachianos II
+  - [ ]  [2633](https://www.beecrowd.com.br/judge/pt/problems/view/2633) - Churras no Yuri
+  - [ ]  [2654](https://www.beecrowd.com.br/judge/pt/problems/view/2654) - Godofor
   - [ ]  [2655](https://www.beecrowd.com.br/judge/pt/problems/view/2655) - Trilha Perigosa
   - [ ]  [2656](https://www.beecrowd.com.br/judge/pt/problems/view/2656) - Rhombus
   - [ ]  [2658](https://www.beecrowd.com.br/judge/pt/problems/view/2658) - Acordes Intergaláticos
   - [ ]  [2671](https://www.beecrowd.com.br/judge/pt/problems/view/2671) - Decodificando o Texto
+  - [ ]  [2693](https://www.beecrowd.com.br/judge/pt/problems/view/2693) - Van
   - [ ]  [2698](https://www.beecrowd.com.br/judge/pt/problems/view/2698) - Dispositivo Assombrado
   - [ ]  [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - Angariando Fundos
   - [ ]  [2720](https://www.beecrowd.com.br/judge/pt/problems/view/2720) - Presentes Grandes
+  - [ ]  [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - Lista de Compras
   - [ ]  [2734](https://www.beecrowd.com.br/judge/pt/problems/view/2734) - Trocando Presentes
   - [ ]  [2792](https://www.beecrowd.com.br/judge/pt/problems/view/2792) - Golnaldinho
   - [ ]  [2800](https://www.beecrowd.com.br/judge/pt/problems/view/2800) - Brincando de Consultas
@@ -163,6 +155,7 @@
   - [ ]  [2855](https://www.beecrowd.com.br/judge/pt/problems/view/2855) - Números de Sorte
   - [ ]  [2857](https://www.beecrowd.com.br/judge/pt/problems/view/2857) - Fluxo nos Vagões
   - [ ]  [2860](https://www.beecrowd.com.br/judge/pt/problems/view/2860) - A Paz em Spar-Ta
+  - [ ]  [2872](https://www.beecrowd.com.br/judge/pt/problems/view/2872) - Protocolo TCP/IP
   - [ ]  [2889](https://www.beecrowd.com.br/judge/pt/problems/view/2889) - O Tasco é Sempre Vice!
   - [ ]  [2893](https://www.beecrowd.com.br/judge/pt/problems/view/2893) - Fibonac^{k}i
   - [ ]  [2916](https://www.beecrowd.com.br/judge/pt/problems/view/2916) - A Nota
@@ -170,6 +163,7 @@
   - [ ]  [2952](https://www.beecrowd.com.br/judge/pt/problems/view/2952) - A Vida Sustentável
   - [ ]  [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - O Rolê Bad Vibes
   - [ ]  [2961](https://www.beecrowd.com.br/judge/pt/problems/view/2961) - Ô, Que Tanto de Filme!
+  - [ ]  [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - Assuntos Pendentes
   - [ ]  [3045](https://www.beecrowd.com.br/judge/pt/problems/view/3045) - Parque Jurássico
   - [ ]  [3069](https://www.beecrowd.com.br/judge/pt/problems/view/3069) - Sorvete
   - [ ]  [3097](https://www.beecrowd.com.br/judge/pt/problems/view/3097) - Um Desafio Simples
@@ -177,6 +171,10 @@
   - [ ]  [3148](https://www.beecrowd.com.br/judge/pt/problems/view/3148) - O Jardim
   - [ ]  [3149](https://www.beecrowd.com.br/judge/pt/problems/view/3149) - A Noiva do Trevo
   - [ ]  [3155](https://www.beecrowd.com.br/judge/pt/problems/view/3155) - Sócrates e suas Perguntas
+  - [ ]  [3160](https://www.beecrowd.com.br/judge/pt/problems/view/3160) - Amigos
+  - [ ]  [3163](https://www.beecrowd.com.br/judge/pt/problems/view/3163) - Controlador de Vôo
+  - [ ]  [3171](https://www.beecrowd.com.br/judge/pt/problems/view/3171) - Cordão de Led
+  - [ ]  [3176](https://www.beecrowd.com.br/judge/pt/problems/view/3176) - Time de Duendes
   - [ ]  [3186](https://www.beecrowd.com.br/judge/pt/problems/view/3186) - Cache Introspectivo
   - [ ]  [3190](https://www.beecrowd.com.br/judge/pt/problems/view/3190) - Optimal Parking
   - [ ]  [3201](https://www.beecrowd.com.br/judge/pt/problems/view/3201) - Traveling Salesman
@@ -184,3 +182,5 @@
   - [ ]  [3210](https://www.beecrowd.com.br/judge/pt/problems/view/3210) - O Pior Clima de Todos
   - [ ]  [3239](https://www.beecrowd.com.br/judge/pt/problems/view/3239) - Dirty Driving
   - [ ]  [3248](https://www.beecrowd.com.br/judge/pt/problems/view/3248) - Mega Inversões
+  - [ ]  [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - Rico do Mate
+
