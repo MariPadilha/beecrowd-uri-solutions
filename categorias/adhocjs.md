@@ -1,9 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas resolvido
-  - [ ]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos
-  - [ ]  [1708](https://www.beecrowd.com.br/judge/pt/problems/view/1708) - Volta
-  - [ ]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - Máquina de Verificação Automatizada
   - [ ]  [1765](https://www.beecrowd.com.br/judge/pt/problems/view/1765) - Trapézios de Natal
   - [ ]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - CPF 1
   - [ ]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - CPF 2
@@ -274,6 +271,7 @@
   - [ ]  [1588](https://www.beecrowd.com.br/judge/pt/problems/view/1588) - Ajude a Federação
   - [ ]  [1591](https://www.beecrowd.com.br/judge/pt/problems/view/1591) - Dia da Vovó
   - [ ]  [1593](https://www.beecrowd.com.br/judge/pt/problems/view/1593) - Função Binária
+  - [ ]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos  
   - [ ]  [1612](https://www.beecrowd.com.br/judge/pt/problems/view/1612) - Formiguinha
   - [ ]  [1615](https://www.beecrowd.com.br/judge/pt/problems/view/1615) - Insatisfação nas Eleições
   - [ ]  [1618](https://www.beecrowd.com.br/judge/pt/problems/view/1618) - Colisão
@@ -292,6 +290,7 @@
   - [ ]  [1684](https://www.beecrowd.com.br/judge/pt/problems/view/1684) - Maratona Doce
   - [ ]  [1691](https://www.beecrowd.com.br/judge/pt/problems/view/1691) - Super Circunferência
   - [ ]  [1699](https://www.beecrowd.com.br/judge/pt/problems/view/1699) - Jogo Entediante
+  - [ ]  [1708](https://www.beecrowd.com.br/judge/pt/problems/view/1708) - Volta  
   - [ ]  [1710](https://www.beecrowd.com.br/judge/pt/problems/view/1710) - Confederação
   - [ ]  [1712](https://www.beecrowd.com.br/judge/pt/problems/view/1712) - Ecologia
   - [ ]  [1714](https://www.beecrowd.com.br/judge/pt/problems/view/1714) - Letras
@@ -305,6 +304,7 @@
   - [ ]  [1732](https://www.beecrowd.com.br/judge/pt/problems/view/1732) - Abelha Maja
   - [ ]  [1739](https://www.beecrowd.com.br/judge/pt/problems/view/1739) - Sequência de Threebonacci
   - [ ]  [1741](https://www.beecrowd.com.br/judge/pt/problems/view/1741) - Notação Reversa de João
+  - [ ]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - Máquina de Verificação Automatizada  
   - [ ]  [1750](https://www.beecrowd.com.br/judge/pt/problems/view/1750) - Ajude o Cupido
   - [ ]  [1753](https://www.beecrowd.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda
   - [ ]  [1755](https://www.beecrowd.com.br/judge/pt/problems/view/1755) - O Troco
