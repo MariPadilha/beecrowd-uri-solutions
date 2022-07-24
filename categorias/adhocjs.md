@@ -5,7 +5,6 @@
 ## Problemas resolvidos
 
   
-  - [ ]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - Hello Galaxy
   - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado
   - [ ]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - Detetive Watson
   - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores
@@ -266,6 +265,7 @@
   - [ ]  [1496](https://www.beecrowd.com.br/judge/pt/problems/view/1496) - Suba os &quot;Ultras&quot;
   - [ ]  [1508](https://www.beecrowd.com.br/judge/pt/problems/view/1508) - Raio Laser
   - [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição
+  - [ ]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - Hello Galaxy  
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
