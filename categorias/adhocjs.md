@@ -1,30 +1,7 @@
 # Ad-Hoc (0 / 745)
 
-## Problemas res 
-  - [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado
-  - [ ]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - Pares de Números
-  - [ ]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - Parcelamento Sem Juros
-  - [ ]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - Campo de Batalha
-  - [ ]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0
-  - [ ]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0
-  - [ ]  [3094](https://www.beecrowd.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0
-  - [ ]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - Competição de Códigos
-  - [ ]  [3109](https://www.beecrowd.com.br/judge/pt/problems/view/3109) - Trocando de Mesa
-  - [ ]  [3117](https://www.beecrowd.com.br/judge/pt/problems/view/3117) - Atrasadinhos
-  - [ ]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - Lista de Treinamento
-  - [ ]  [3128](https://www.beecrowd.com.br/judge/pt/problems/view/3128) - Regras do Cinema
-  - [ ]  [3129](https://www.beecrowd.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas
-  - [ ]  [3130](https://www.beecrowd.com.br/judge/pt/problems/view/3130) - Caixas Por Todo Lado
-  - [ ]  [3134](https://www.beecrowd.com.br/judge/pt/problems/view/3134) - Balança Equilibrada
-  - [ ]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - Lista de Nomes
-  - [ ]  [3136](https://www.beecrowd.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha
-  - [ ]  [3137](https://www.beecrowd.com.br/judge/pt/problems/view/3137) - Páginas de um Livro
-  - [ ]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - Nasty Hacks
-  - [ ]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - Doorman
-  - [ ]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - Apague Com Segurança
-  - [ ]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - Decora o Rolê!
-  - [ ]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - Felizes são estes Números
-  - [ ]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - Língua do Computador
+
+
 ## Problemas não resolvidos
 
   - [ ]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -692,6 +669,9 @@
   - [ ]  [3054](https://www.beecrowd.com.br/judge/pt/problems/view/3054) - Matriz Super-legal
   - [ ]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - Ponto do Meio  
   - [ ]  [3057](https://www.beecrowd.com.br/judge/pt/problems/view/3057) - Detetive
+  - [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado
+  - [ ]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - Pares de Números
+  - [ ]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - Parcelamento Sem Juros  
   - [ ]  [3062](https://www.beecrowd.com.br/judge/pt/problems/view/3062) - Coleção de Upas
   - [ ]  [3063](https://www.beecrowd.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus
   - [ ]  [3071](https://www.beecrowd.com.br/judge/pt/problems/view/3071) - Melhor Ranking
@@ -699,19 +679,34 @@
   - [ ]  [3077](https://www.beecrowd.com.br/judge/pt/problems/view/3077) - Distribuindo Pequis
   - [ ]  [3085](https://www.beecrowd.com.br/judge/pt/problems/view/3085) - O Grande Dia
   - [ ]  [3087](https://www.beecrowd.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
+  - [ ]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - Campo de Batalha  
+  - [ ]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0
+  - [ ]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0
+  - [ ]  [3094](https://www.beecrowd.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0  
   - [ ]  [3105](https://www.beecrowd.com.br/judge/pt/problems/view/3105) - Dobrando Papel
+  - [ ]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - Competição de Códigos  
+  - [ ]  [3109](https://www.beecrowd.com.br/judge/pt/problems/view/3109) - Trocando de Mesa  
   - [ ]  [3111](https://www.beecrowd.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
   - [ ]  [3112](https://www.beecrowd.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua
   - [ ]  [3113](https://www.beecrowd.com.br/judge/pt/problems/view/3113) - Cadeado Insano
+  - [ ]  [3117](https://www.beecrowd.com.br/judge/pt/problems/view/3117) - Atrasadinhos  
   - [ ]  [3120](https://www.beecrowd.com.br/judge/pt/problems/view/3120) - Jogada de Marketing
   - [ ]  [3121](https://www.beecrowd.com.br/judge/pt/problems/view/3121) - Acionista Por um Dia
   - [ ]  [3122](https://www.beecrowd.com.br/judge/pt/problems/view/3122) - Festa de Final de Ano
   - [ ]  [3123](https://www.beecrowd.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis
   - [ ]  [3125](https://www.beecrowd.com.br/judge/pt/problems/view/3125) - Princesa das Equações
+  - [ ]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - Lista de Treinamento  
   - [ ]  [3127](https://www.beecrowd.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão
+  - [ ]  [3128](https://www.beecrowd.com.br/judge/pt/problems/view/3128) - Regras do Cinema
+  - [ ]  [3129](https://www.beecrowd.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas
+  - [ ]  [3130](https://www.beecrowd.com.br/judge/pt/problems/view/3130) - Caixas Por Todo Lado  
   - [ ]  [3131](https://www.beecrowd.com.br/judge/pt/problems/view/3131) - Índice de Reputação
   - [ ]  [3132](https://www.beecrowd.com.br/judge/pt/problems/view/3132) - DNA Alienígena
   - [ ]  [3133](https://www.beecrowd.com.br/judge/pt/problems/view/3133) - Fila de Navios
+  - [ ]  [3134](https://www.beecrowd.com.br/judge/pt/problems/view/3134) - Balança Equilibrada
+  - [ ]  [3135](https://www.beecrowd.com.br/judge/pt/problems/view/3135) - Lista de Nomes
+  - [ ]  [3136](https://www.beecrowd.com.br/judge/pt/problems/view/3136) - Arquitetura de Pilha
+  - [ ]  [3137](https://www.beecrowd.com.br/judge/pt/problems/view/3137) - Páginas de um Livro  
   - [ ]  [3168](https://www.beecrowd.com.br/judge/pt/problems/view/3168) - Aposta dos Gnomos
   - [ ]  [3172](https://www.beecrowd.com.br/judge/pt/problems/view/3172) - Dali e Dila
   - [ ]  [3175](https://www.beecrowd.com.br/judge/pt/problems/view/3175) - Os Presentes Do Noel
@@ -723,17 +718,23 @@
   - [ ]  [3200](https://www.beecrowd.com.br/judge/pt/problems/view/3200) - Card Trick
   - [ ]  [3202](https://www.beecrowd.com.br/judge/pt/problems/view/3202) - Whac-a-Mole
   - [ ]  [3203](https://www.beecrowd.com.br/judge/pt/problems/view/3203) - Random Walking
+  - [ ]  [3205](https://www.beecrowd.com.br/judge/pt/problems/view/3205) - Nasty Hacks  
   - [ ]  [3206](https://www.beecrowd.com.br/judge/pt/problems/view/3206) - Batida de Robos
   - [ ]  [3212](https://www.beecrowd.com.br/judge/pt/problems/view/3212) - Decomposição do Colar
   - [ ]  [3219](https://www.beecrowd.com.br/judge/pt/problems/view/3219) - Gokigen Naname
   - [ ]  [3222](https://www.beecrowd.com.br/judge/pt/problems/view/3222) - Cifra Playfair
   - [ ]  [3225](https://www.beecrowd.com.br/judge/pt/problems/view/3225) - Ordenação dos Pães
   - [ ]  [3226](https://www.beecrowd.com.br/judge/pt/problems/view/3226) - Seleção de Biscoito
+  - [ ]  [3227](https://www.beecrowd.com.br/judge/pt/problems/view/3227) - Doorman  
   - [ ]  [3228](https://www.beecrowd.com.br/judge/pt/problems/view/3228) - Eco-driving
   - [ ]  [3240](https://www.beecrowd.com.br/judge/pt/problems/view/3240) - Doodling
   - [ ]  [3254](https://www.beecrowd.com.br/judge/pt/problems/view/3254) - Espaço Privado
+  - [ ]  [3263](https://www.beecrowd.com.br/judge/pt/problems/view/3263) - Apague Com Segurança  
   - [ ]  [3278](https://www.beecrowd.com.br/judge/pt/problems/view/3278) - Passageiros de Trem
   - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
+  - [ ]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - Decora o Rolê! 
+  - [ ]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - Felizes são estes Números
+  - [ ]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - Língua do Computador  
   - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait
   - [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez
   - [ ]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - Ancient Towers
