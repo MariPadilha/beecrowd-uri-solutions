@@ -1,13 +1,10 @@
-# Ad-Hoc (193 / 745)
+# Ad-Hoc (0 / 745)
 
 
 
 ## Problemas resolvidos
 
   
-  - [ ]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - Sequências de Granizo
-  - [ ]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - Zerinho ou Um
-  - [ ]  [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) - Mergulho
   - [ ]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - Hello Galaxy
   - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado
   - [ ]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - Detetive Watson
@@ -251,13 +248,16 @@
   - [ ]  [1426](https://www.beecrowd.com.br/judge/pt/problems/view/1426) - Coloque Tijolos na Parede
   - [ ]  [1428](https://www.beecrowd.com.br/judge/pt/problems/view/1428) - Procurando Nessy  
   - [ ]  [1431](https://www.beecrowd.com.br/judge/pt/problems/view/1431) - Níveis de Klingon
+  - [ ]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - Esquerda, Volver!    
   - [ ]  [1438](https://www.beecrowd.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas
   - [ ]  [1440](https://www.beecrowd.com.br/judge/pt/problems/view/1440) - Praça de Alimentação
-  - [ ]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - Esquerda, Volver!  
+  - [ ]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - Sequências de Granizo  
   - [ ]  [1443](https://www.beecrowd.com.br/judge/pt/problems/view/1443) - Engarrafamento
   - [ ]  [1459](https://www.beecrowd.com.br/judge/pt/problems/view/1459) - Foco
   - [ ]  [1460](https://www.beecrowd.com.br/judge/pt/problems/view/1460) - Parreiral
+  - [ ]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - Zerinho ou Um  
   - [ ]  [1470](https://www.beecrowd.com.br/judge/pt/problems/view/1470) - Máquina Dobradora
+  - [ ]  [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) - Mergulho  
   - [ ]  [1472](https://www.beecrowd.com.br/judge/pt/problems/view/1472) - Triângulos
   - [ ]  [1480](https://www.beecrowd.com.br/judge/pt/problems/view/1480) - O Famoso Campo Minado
   - [ ]  [1483](https://www.beecrowd.com.br/judge/pt/problems/view/1483) - Jogo do Bicho
