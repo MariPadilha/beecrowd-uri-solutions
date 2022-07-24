@@ -1,21 +1,6 @@
 # Ad-Hoc (0 / 745)
 
-
-
-## Problemas resolvidos
-
-  
-  - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado
-  - [ ]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - Detetive Watson
-  - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores
-  - [ ]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - Planejando a Energia
-  - [ ]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - Lendo Livros
-  - [ ]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - Feedback
-  - [ ]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - Adivinha
-  - [ ]  [1553](https://www.beecrowd.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes
-  - [ ]  [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados
-  - [ ]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - Relógio Binário
-  - [ ]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - Fábrica de Chocolate
+## Problemas resolvido
   - [ ]  [1609](https://www.beecrowd.com.br/judge/pt/problems/view/1609) - Contando Carneirinhos
   - [ ]  [1708](https://www.beecrowd.com.br/judge/pt/problems/view/1708) - Volta
   - [ ]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - Máquina de Verificação Automatizada
@@ -267,10 +252,21 @@
   - [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição
   - [ ]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - Hello Galaxy  
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas
+  - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado  
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
+  - [ ]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - Detetive Watson  
+  - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores  
+  - [ ]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - Planejando a Energia
+  - [ ]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - Lendo Livros
+  - [ ]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - Feedback
+  - [ ]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - Adivinha
+  - [ ]  [1553](https://www.beecrowd.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes
+  - [ ]  [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados  
   - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048
+  - [ ]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - Relógio Binário  
   - [ ]  [1569](https://www.beecrowd.com.br/judge/pt/problems/view/1569) - Sobe e Desce
+  - [ ]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - Fábrica de Chocolate  
   - [ ]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - Instruções do Robô
   - [ ]  [1575](https://www.beecrowd.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni
   - [ ]  [1576](https://www.beecrowd.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte
