@@ -1,13 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas res  
- 
-
-
-  - [ ]  [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - Corrida 1
-  - [ ]  [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres
-  - [ ]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - Corrida
-  - [ ]  [2397](https://www.beecrowd.com.br/judge/pt/problems/view/2397) - Triângulos
   - [ ]  [2399](https://www.beecrowd.com.br/judge/pt/problems/view/2399) - Campo Minado
   - [ ]  [2402](https://www.beecrowd.com.br/judge/pt/problems/view/2402) - Selos
   - [ ]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - Vice-Campeão
@@ -513,6 +506,10 @@
   - [ ]  [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas
   - [ ]  [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - Pulo do Sapo
   - [ ]  [2393](https://www.beecrowd.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe
+  - [ ]  [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - Corrida 1
+  - [ ]  [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres
+  - [ ]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - Corrida
+  - [ ]  [2397](https://www.beecrowd.com.br/judge/pt/problems/view/2397) - Triângulos  
   - [ ]  [2398](https://www.beecrowd.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro
   - [ ]  [2400](https://www.beecrowd.com.br/judge/pt/problems/view/2400) - Balé
   - [ ]  [2401](https://www.beecrowd.com.br/judge/pt/problems/view/2401) - Calculadora
