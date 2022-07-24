@@ -1,18 +1,7 @@
 # Ad-Hoc (0 / 745)
 
-## Problemas resolvido
-
-  
-  
-  - [ ]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - Farm Robot
-  - [ ]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - Brasil e Alemanha
-  - [ ]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - Conta de Água
-  - [ ]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - Garçom
-  - [ ]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - Pneu
-  - [ ]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - Sedex
-  - [ ]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - Copa do Mundo
-  - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
-  - [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador
+## Problemas res  
+ 
   - [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada
   - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano
   - [ ]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - Telescópio
@@ -495,16 +484,25 @@
   - [ ]  [2346](https://www.beecrowd.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ]  [2347](https://www.beecrowd.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
   - [ ]  [2348](https://www.beecrowd.com.br/judge/pt/problems/view/2348) - Dating On-Line
+  - [ ]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - Farm Robot  
   - [ ]  [2350](https://www.beecrowd.com.br/judge/pt/problems/view/2350) - Game of Matchings
   - [ ]  [2351](https://www.beecrowd.com.br/judge/pt/problems/view/2351) - Hotel Rewards
   - [ ]  [2352](https://www.beecrowd.com.br/judge/pt/problems/view/2352) - Internet Trouble
   - [ ]  [2353](https://www.beecrowd.com.br/judge/pt/problems/view/2353) - Just in Time
   - [ ]  [2354](https://www.beecrowd.com.br/judge/pt/problems/view/2354) - Kill the Werewolf
+  - [ ]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - Brasil e Alemanha  
   - [ ]  [2365](https://www.beecrowd.com.br/judge/pt/problems/view/2365) - Bolão do Brasileirão
   - [ ]  [2366](https://www.beecrowd.com.br/judge/pt/problems/view/2366) - Maratona
   - [ ]  [2367](https://www.beecrowd.com.br/judge/pt/problems/view/2367) - Competição de Chocolate
   - [ ]  [2368](https://www.beecrowd.com.br/judge/pt/problems/view/2368) - Simulador
+  - [ ]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - Conta de Água  
   - [ ]  [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) - Batalha Naval
+  - [ ]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - Garçom
+  - [ ]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - Pneu
+  - [ ]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - Sedex
+  - [ ]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - Copa do Mundo
+  - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
+  - [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador  
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
