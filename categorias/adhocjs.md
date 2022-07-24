@@ -1,42 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas res  
-  - [ ]  [2399](https://www.beecrowd.com.br/judge/pt/problems/view/2399) - Campo Minado
-  - [ ]  [2402](https://www.beecrowd.com.br/judge/pt/problems/view/2402) - Selos
-  - [ ]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - Vice-Campeão
-  - [ ]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - Colchão
-  - [ ]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - Busca na Internet
-  - [ ]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número
-  - [ ]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - Corrida
-  - [ ]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - Campeonato
-  - [ ]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - Carnaval
-  - [ ]  [2421](https://www.beecrowd.com.br/judge/pt/problems/view/2421) - Álbum de Fotos
-  - [ ]  [2422](https://www.beecrowd.com.br/judge/pt/problems/view/2422) - Soma das Casas
-  - [ ]  [2423](https://www.beecrowd.com.br/judge/pt/problems/view/2423) - Receita de Bolo
-  - [ ]  [2424](https://www.beecrowd.com.br/judge/pt/problems/view/2424) - Tira-teima
-  - [ ]  [2427](https://www.beecrowd.com.br/judge/pt/problems/view/2427) - Chocolate
-  - [ ]  [2434](https://www.beecrowd.com.br/judge/pt/problems/view/2434) - Saldo do Vovô
-  - [ ]  [2435](https://www.beecrowd.com.br/judge/pt/problems/view/2435) - Corrida
-  - [ ]  [2437](https://www.beecrowd.com.br/judge/pt/problems/view/2437) - Distância de Manhattan
-  - [ ]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - Janela
-  - [ ]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - Soma de Frações
-  - [ ]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - Volume da TV
-  - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura
-  - [ ]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - PacMan
-  - [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P
-  - [ ]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - Flíper
-  - [ ]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - Gangorra
-  - [ ]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - Cartas
-  - [ ]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - Letras
-  - [ ]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - Fila
-  - [ ]  [2462](https://www.beecrowd.com.br/judge/pt/problems/view/2462) - Voo
-  - [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
-  - [ ]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - Decifra
-  - [ ]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - Passa Bolinha
-  - [ ]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - Sinuca
-  - [ ]  [2469](https://www.beecrowd.com.br/judge/pt/problems/view/2469) - Notas
-  - [ ]  [2473](https://www.beecrowd.com.br/judge/pt/problems/view/2473) - Loteria
-  - [ ]  [2479](https://www.beecrowd.com.br/judge/pt/problems/view/2479) - Ordenando a Lista de Crianças do Papai Noel
   - [ ]  [2568](https://www.beecrowd.com.br/judge/pt/problems/view/2568) - Ações
   - [ ]  [2569](https://www.beecrowd.com.br/judge/pt/problems/view/2569) - A Bruxa do 7 x 1
   - [ ]  [2579](https://www.beecrowd.com.br/judge/pt/problems/view/2579) - Nagol
@@ -511,39 +475,75 @@
   - [ ]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - Corrida
   - [ ]  [2397](https://www.beecrowd.com.br/judge/pt/problems/view/2397) - Triângulos  
   - [ ]  [2398](https://www.beecrowd.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro
+  - [ ]  [2399](https://www.beecrowd.com.br/judge/pt/problems/view/2399) - Campo Minado  
   - [ ]  [2400](https://www.beecrowd.com.br/judge/pt/problems/view/2400) - Balé
   - [ ]  [2401](https://www.beecrowd.com.br/judge/pt/problems/view/2401) - Calculadora
+  - [ ]  [2402](https://www.beecrowd.com.br/judge/pt/problems/view/2402) - Selos 
   - [ ]  [2403](https://www.beecrowd.com.br/judge/pt/problems/view/2403) - Escalonamento Ótimo
   - [ ]  [2405](https://www.beecrowd.com.br/judge/pt/problems/view/2405) - Colorindo
   - [ ]  [2406](https://www.beecrowd.com.br/judge/pt/problems/view/2406) - Expressões
   - [ ]  [2407](https://www.beecrowd.com.br/judge/pt/problems/view/2407) - Quadrado Mágico
+  - [ ]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - Vice-Campeão
+  - [ ]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - Colchão  
   - [ ]  [2410](https://www.beecrowd.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ]  [2411](https://www.beecrowd.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
+  - [ ]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - Busca na Internet
+  - [ ]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número  
   - [ ]  [2415](https://www.beecrowd.com.br/judge/pt/problems/view/2415) - Consecutivos
+  - [ ]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - Corrida
+  - [ ]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - Campeonato
+  - [ ]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - Carnaval  
   - [ ]  [2420](https://www.beecrowd.com.br/judge/pt/problems/view/2420) - Guerra por Território
+  - [ ]  [2421](https://www.beecrowd.com.br/judge/pt/problems/view/2421) - Álbum de Fotos
+  - [ ]  [2422](https://www.beecrowd.com.br/judge/pt/problems/view/2422) - Soma das Casas
+  - [ ]  [2423](https://www.beecrowd.com.br/judge/pt/problems/view/2423) - Receita de Bolo
+  - [ ]  [2424](https://www.beecrowd.com.br/judge/pt/problems/view/2424) - Tira-teima  
   - [ ]  [2425](https://www.beecrowd.com.br/judge/pt/problems/view/2425) - Banco
+  - [ ]  [2427](https://www.beecrowd.com.br/judge/pt/problems/view/2427) - Chocolate  
   - [ ]  [2430](https://www.beecrowd.com.br/judge/pt/problems/view/2430) - Catálogo de Músicas
   - [ ]  [2431](https://www.beecrowd.com.br/judge/pt/problems/view/2431) - Lençol
   - [ ]  [2432](https://www.beecrowd.com.br/judge/pt/problems/view/2432) - Tiro ao Alvo
   - [ ]  [2433](https://www.beecrowd.com.br/judge/pt/problems/view/2433) - Vende-se
+  - [ ]  [2434](https://www.beecrowd.com.br/judge/pt/problems/view/2434) - Saldo do Vovô
+  - [ ]  [2435](https://www.beecrowd.com.br/judge/pt/problems/view/2435) - Corrida  
   - [ ]  [2436](https://www.beecrowd.com.br/judge/pt/problems/view/2436) - Robô
+  - [ ]  [2437](https://www.beecrowd.com.br/judge/pt/problems/view/2437) - Distância de Manhattan  
   - [ ]  [2438](https://www.beecrowd.com.br/judge/pt/problems/view/2438) - Quadradinho de 8
   - [ ]  [2439](https://www.beecrowd.com.br/judge/pt/problems/view/2439) - Cachecol da Vovó Vitória
+  - [ ]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - Janela  
   - [ ]  [2442](https://www.beecrowd.com.br/judge/pt/problems/view/2442) - Plantação
+  - [ ]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - Soma de Frações
+  - [ ]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - Volume da TV  
   - [ ]  [2445](https://www.beecrowd.com.br/judge/pt/problems/view/2445) - Polígono
   - [ ]  [2447](https://www.beecrowd.com.br/judge/pt/problems/view/2447) - Torneio
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro
+  - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura  
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada
+  - [ ]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - PacMan  
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente
+  - [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P
+  - [ ]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - Flíper
+  - [ ]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - Gangorra
+  - [ ]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - Cartas
+  - [ ]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - Letras  
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
   - [ ]  [2459](https://www.beecrowd.com.br/judge/pt/problems/view/2459) - Copa do Mundo
+  - [ ]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - Fila 
   - [ ]  [2461](https://www.beecrowd.com.br/judge/pt/problems/view/2461) - Blefe
+  - [ ]  [2462](https://www.beecrowd.com.br/judge/pt/problems/view/2462) - Voo
+  - [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
+  - [ ]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - Decifra
+  - [ ]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - Passa Bolinha
+  - [ ]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - Sinuca  
   - [ ]  [2467](https://www.beecrowd.com.br/judge/pt/problems/view/2467) - Frequência
   - [ ]  [2468](https://www.beecrowd.com.br/judge/pt/problems/view/2468) - Mapa
+  - [ ]  [2469](https://www.beecrowd.com.br/judge/pt/problems/view/2469) - Notas 
   - [ ]  [2470](https://www.beecrowd.com.br/judge/pt/problems/view/2470) - Jogo da Memória
   - [ ]  [2471](https://www.beecrowd.com.br/judge/pt/problems/view/2471) - Quadrado
   - [ ]  [2472](https://www.beecrowd.com.br/judge/pt/problems/view/2472) - Tapetes
+  - [ ]  [2473](https://www.beecrowd.com.br/judge/pt/problems/view/2473) - Loteria  
   - [ ]  [2478](https://www.beecrowd.com.br/judge/pt/problems/view/2478) - Acerte o Presente
+  - [ ]  [2479](https://www.beecrowd.com.br/judge/pt/problems/view/2479) - Ordenando a Lista de Crianças do Papai Noel  
   - [ ]  [2487](https://www.beecrowd.com.br/judge/pt/problems/view/2487) - Do Lado Escuro do Código
   - [ ]  [2504](https://www.beecrowd.com.br/judge/pt/problems/view/2504) - Biorritmo
   - [ ]  [2507](https://www.beecrowd.com.br/judge/pt/problems/view/2507) - Código de Hamming
@@ -567,7 +567,7 @@
   - [ ]  [2575](https://www.beecrowd.com.br/judge/pt/problems/view/2575) - Árvore de Natal
   - [ ]  [2576](https://www.beecrowd.com.br/judge/pt/problems/view/2576) - Invertendo Setas
   - [ ]  [2577](https://www.beecrowd.com.br/judge/pt/problems/view/2577) - Jogo das Caixas
-  - [ ]  [2578](https://www.beecrowd.com.br/judge/pt/problems/view/2578) - Ontarama Meraini
+  - [ ]  [2578](https://www.beecrowd.com.br/judge/pt/problems/view/2578) - Ontarama Meraini  
   - [ ]  [2580](https://www.beecrowd.com.br/judge/pt/problems/view/2580) - Mestre Pokémon Ho
   - [ ]  [2586](https://www.beecrowd.com.br/judge/pt/problems/view/2586) - Cubonacci
   - [ ]  [2590](https://www.beecrowd.com.br/judge/pt/problems/view/2590) - Sete
