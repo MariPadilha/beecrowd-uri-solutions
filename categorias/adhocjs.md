@@ -1,13 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas resolvido
-  - [ ]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - Triângulos e Polígonos Regulares
-  - [ ]  [2116](https://www.beecrowd.com.br/judge/pt/problems/view/2116) - Diversão dos Alunos
-  - [ ]  [2175](https://www.beecrowd.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido?
-  - [ ]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - Bits Trocados
-  - [ ]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - Macaco-prego
-  - [ ]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - Quermesse
-  - [ ]  [2217](https://www.beecrowd.com.br/judge/pt/problems/view/2217) - Nove
   - [ ]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - Torres de Hanói
   - [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar
   - [ ]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - Campo de Minhocas
@@ -381,10 +374,12 @@
   - [ ]  [2041](https://www.beecrowd.com.br/judge/pt/problems/view/2041) - Sequência de Gödelito
   - [ ]  [2051](https://www.beecrowd.com.br/judge/pt/problems/view/2051) - Mapas de Karnaugh I
   - [ ]  [2054](https://www.beecrowd.com.br/judge/pt/problems/view/2054) - Last Year at Marienbad
+  - [ ]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - Triângulos e Polígonos Regulares  
   - [ ]  [2070](https://www.beecrowd.com.br/judge/pt/problems/view/2070) - Contando Sequências Boladas
   - [ ]  [2078](https://www.beecrowd.com.br/judge/pt/problems/view/2078) - Paz Verde! Hipocrisia Mundial!
   - [ ]  [2090](https://www.beecrowd.com.br/judge/pt/problems/view/2090) - Fui ao Mercado e Comprei...
-  - [ ]  [2102](https://www.beecrowd.com.br/judge/pt/problems/view/2102) - Contando em Chinês
+  - [ ]  [2102](https://www.beecrowd.com.br/judge/pt/problems/view/2102) - Contando em Chinês  
+  - [ ]  [2116](https://www.beecrowd.com.br/judge/pt/problems/view/2116) - Diversão dos Alunos  
   - [ ]  [2123](https://www.beecrowd.com.br/judge/pt/problems/view/2123) - A Lei Vai a Cavalo!
   - [ ]  [2125](https://www.beecrowd.com.br/judge/pt/problems/view/2125) - Construtores de Totens
   - [ ]  [2134](https://www.beecrowd.com.br/judge/pt/problems/view/2134) - Quem Vai Ser Reprovado?
@@ -393,10 +388,14 @@
   - [ ]  [2142](https://www.beecrowd.com.br/judge/pt/problems/view/2142) - Pegue o Pombo!
   - [ ]  [2144](https://www.beecrowd.com.br/judge/pt/problems/view/2144) - Bodybuilder
   - [ ]  [2151](https://www.beecrowd.com.br/judge/pt/problems/view/2151) - Soco do Rulk
-  - [ ]  [2156](https://www.beecrowd.com.br/judge/pt/problems/view/2156) - As Aventuras de Pak-man
+  - [ ]  [2156](https://www.beecrowd.com.br/judge/pt/problems/view/2156) - As Aventuras de Pak-man  
   - [ ]  [2171](https://www.beecrowd.com.br/judge/pt/problems/view/2171) - Dividindo com Fink
+  - [ ]  [2175](https://www.beecrowd.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido?  
   - [ ]  [2178](https://www.beecrowd.com.br/judge/pt/problems/view/2178) - Lagoa Azul
-  - [ ]  [2179](https://www.beecrowd.com.br/judge/pt/problems/view/2179) - Batuke
+  - [ ]  [2179](https://www.beecrowd.com.br/judge/pt/problems/view/2179) - Batuke  
+  - [ ]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - Bits Trocados  
+  - [ ]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - Macaco-prego  
+  - [ ]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - Quermesse  
   - [ ]  [2191](https://www.beecrowd.com.br/judge/pt/problems/view/2191) - Saldo de Gols
   - [ ]  [2192](https://www.beecrowd.com.br/judge/pt/problems/view/2192) - To Add or to Multiply
   - [ ]  [2194](https://www.beecrowd.com.br/judge/pt/problems/view/2194) - Ancient Messages
@@ -418,6 +417,7 @@
   - [ ]  [2214](https://www.beecrowd.com.br/judge/pt/problems/view/2214) - Shortest Flight Path
   - [ ]  [2215](https://www.beecrowd.com.br/judge/pt/problems/view/2215) - Stacking Plates
   - [ ]  [2216](https://www.beecrowd.com.br/judge/pt/problems/view/2216) - Takeover Wars
+  - [ ]  [2217](https://www.beecrowd.com.br/judge/pt/problems/view/2217) - Nove
   - [ ]  [2219](https://www.beecrowd.com.br/judge/pt/problems/view/2219) - Passando Pelos PokeStops
   - [ ]  [2227](https://www.beecrowd.com.br/judge/pt/problems/view/2227) - Aeroporto
   - [ ]  [2228](https://www.beecrowd.com.br/judge/pt/problems/view/2228) - Caça ao Tesouro
