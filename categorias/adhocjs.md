@@ -1,11 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas res 
-  - [ ]  [3024](https://www.beecrowd.com.br/judge/pt/problems/view/3024) - Mountain Ranges
-  - [ ]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - O Caso Douglas
-  - [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta
-  - [ ]  [3050](https://www.beecrowd.com.br/judge/pt/problems/view/3050) - Distância Entre Amigos
-  - [ ]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - Ponto do Meio
   - [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado
   - [ ]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - Pares de Números
   - [ ]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - Parcelamento Sem Juros
@@ -683,14 +678,19 @@
   - [ ]  [3021](https://www.beecrowd.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper
   - [ ]  [3022](https://www.beecrowd.com.br/judge/pt/problems/view/3022) - Know your Aliens
   - [ ]  [3023](https://www.beecrowd.com.br/judge/pt/problems/view/3023) - Leverage MDT
+  - [ ]  [3024](https://www.beecrowd.com.br/judge/pt/problems/view/3024) - Mountain Ranges 
   - [ ]  [3025](https://www.beecrowd.com.br/judge/pt/problems/view/3025) - Coletor
   - [ ]  [3030](https://www.beecrowd.com.br/judge/pt/problems/view/3030) - Transformadores de Salto
   - [ ]  [3032](https://www.beecrowd.com.br/judge/pt/problems/view/3032) - Tuplas do Produto
   - [ ]  [3033](https://www.beecrowd.com.br/judge/pt/problems/view/3033) - Ajude Maria
+  - [ ]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - O Caso Douglas 
   - [ ]  [3035](https://www.beecrowd.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
   - [ ]  [3041](https://www.beecrowd.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos
+  - [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta  
+  - [ ]  [3050](https://www.beecrowd.com.br/judge/pt/problems/view/3050) - Distância Entre Amigos  
   - [ ]  [3052](https://www.beecrowd.com.br/judge/pt/problems/view/3052) - Chuva
   - [ ]  [3054](https://www.beecrowd.com.br/judge/pt/problems/view/3054) - Matriz Super-legal
+  - [ ]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - Ponto do Meio  
   - [ ]  [3057](https://www.beecrowd.com.br/judge/pt/problems/view/3057) - Detetive
   - [ ]  [3062](https://www.beecrowd.com.br/judge/pt/problems/view/3062) - Coleção de Upas
   - [ ]  [3063](https://www.beecrowd.com.br/judge/pt/problems/view/3063) - Linhas de Ônibus
