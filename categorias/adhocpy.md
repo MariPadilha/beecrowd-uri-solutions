@@ -1,6 +1,18 @@
-# Ad-Hoc (0 / 745)
+# Ad-Hoc (8 / 745)
 
 
+
+## Problemas resolvidos
+
+  - [x]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1216.py)  
+  - [x]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - [Getline Two - Frutas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1217.py)
+  - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
+  - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
+  - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
+  - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.py)
+  - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
+  - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
+  - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
 
 ## Problemas não resolvidos
 
@@ -35,8 +47,6 @@
   - [ ]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - WERTYU  
   - [ ]  [1206](https://www.beecrowd.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ]  [1209](https://www.beecrowd.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
-  - [ ]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - Getline One  
-  - [ ]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas
   - [ ]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - Getline Three - Calçados  
   - [ ]  [1225](https://www.beecrowd.com.br/judge/pt/problems/view/1225) - Coral Perfeito  
   - [ ]  [1228](https://www.beecrowd.com.br/judge/pt/problems/view/1228) - Grid de Largada
@@ -212,11 +222,8 @@
   - [ ]  [1889](https://www.beecrowd.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket
   - [ ]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks
   - [ ]  [1891](https://www.beecrowd.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn
-  - [ ]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - Fases da Lua  
-  - [ ]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - Jogo do Limite
   - [ ]  [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - É Hora do Duelo!
   - [ ]  [1899](https://www.beecrowd.com.br/judge/pt/problems/view/1899) - Acerte o Alvo!
-  - [ ]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - Borboletas  
   - [ ]  [1916](https://www.beecrowd.com.br/judge/pt/problems/view/1916) - Banco de Horas de Jaiminho
   - [ ]  [1917](https://www.beecrowd.com.br/judge/pt/problems/view/1917) - Ajude o Chapolin Colorado!
   - [ ]  [1918](https://www.beecrowd.com.br/judge/pt/problems/view/1918) - Viagem para Acapulco
@@ -229,7 +236,6 @@
   - [ ]  [1939](https://www.beecrowd.com.br/judge/pt/problems/view/1939) - Ominobox
   - [ ]  [1940](https://www.beecrowd.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
   - [ ]  [1942](https://www.beecrowd.com.br/judge/pt/problems/view/1942) - Loteria
-  - [ ]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - Top N
   - [ ]  [1945](https://www.beecrowd.com.br/judge/pt/problems/view/1945) - Simulador
   - [ ]  [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada
   - [ ]  [1964](https://www.beecrowd.com.br/judge/pt/problems/view/1964) - A Ira de Khan
@@ -237,7 +243,6 @@
   - [ ]  [1966](https://www.beecrowd.com.br/judge/pt/problems/view/1966) - A Volta para Casa
   - [ ]  [1980](https://www.beecrowd.com.br/judge/pt/problems/view/1980) - Embaralhando
   - [ ]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - Perdido em Marte  
-  - [ ]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3  
   - [ ]  [1997](https://www.beecrowd.com.br/judge/pt/problems/view/1997) - Branco e Preto
   - [ ]  [1998](https://www.beecrowd.com.br/judge/pt/problems/view/1998) - Awari 2.0
   - [ ]  [2004](https://www.beecrowd.com.br/judge/pt/problems/view/2004) - Enisvaldo Com Fome
@@ -258,7 +263,6 @@
   - [ ]  [2041](https://www.beecrowd.com.br/judge/pt/problems/view/2041) - Sequência de Gödelito
   - [ ]  [2051](https://www.beecrowd.com.br/judge/pt/problems/view/2051) - Mapas de Karnaugh I
   - [ ]  [2054](https://www.beecrowd.com.br/judge/pt/problems/view/2054) - Last Year at Marienbad
-  - [ ]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - Triângulos e Polígonos Regulares  
   - [ ]  [2070](https://www.beecrowd.com.br/judge/pt/problems/view/2070) - Contando Sequências Boladas
   - [ ]  [2078](https://www.beecrowd.com.br/judge/pt/problems/view/2078) - Paz Verde! Hipocrisia Mundial!
   - [ ]  [2090](https://www.beecrowd.com.br/judge/pt/problems/view/2090) - Fui ao Mercado e Comprei...
@@ -439,7 +443,6 @@
   - [ ]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - Colchão  
   - [ ]  [2410](https://www.beecrowd.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ]  [2411](https://www.beecrowd.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
-  - [ ]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - Busca na Internet
   - [ ]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número  
   - [ ]  [2415](https://www.beecrowd.com.br/judge/pt/problems/view/2415) - Consecutivos
   - [ ]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - Corrida
