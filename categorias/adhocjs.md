@@ -1,10 +1,12 @@
-# Ad-Hoc (0 / 745)
+# Ad-Hoc (3 / 745)
 
 
 
 ## Problemas resolvidos
 
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.js)
+  - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.js)    
+  - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.js)  
 
 ## Problemas não resolvidos
 
@@ -261,7 +263,6 @@
   - [ ]  [2041](https://www.beecrowd.com.br/judge/pt/problems/view/2041) - Sequência de Gödelito
   - [ ]  [2051](https://www.beecrowd.com.br/judge/pt/problems/view/2051) - Mapas de Karnaugh I
   - [ ]  [2054](https://www.beecrowd.com.br/judge/pt/problems/view/2054) - Last Year at Marienbad
-  - [ ]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - Triângulos e Polígonos Regulares  
   - [ ]  [2070](https://www.beecrowd.com.br/judge/pt/problems/view/2070) - Contando Sequências Boladas
   - [ ]  [2078](https://www.beecrowd.com.br/judge/pt/problems/view/2078) - Paz Verde! Hipocrisia Mundial!
   - [ ]  [2090](https://www.beecrowd.com.br/judge/pt/problems/view/2090) - Fui ao Mercado e Comprei...
@@ -442,7 +443,6 @@
   - [ ]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - Colchão  
   - [ ]  [2410](https://www.beecrowd.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ]  [2411](https://www.beecrowd.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
-  - [ ]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - Busca na Internet
   - [ ]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número  
   - [ ]  [2415](https://www.beecrowd.com.br/judge/pt/problems/view/2415) - Consecutivos
   - [ ]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - Corrida
