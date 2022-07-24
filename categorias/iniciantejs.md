@@ -35,6 +35,12 @@
   - [x]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1043.js)
   - [x]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1044.js)
   - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1046.js)
+  
+  
+  
+  
+  
+  
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/potigol/beecrowd/blob/master/src/1000/1047.poti)
   - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/beecrowd/blob/master/src/1000/1048.poti)
   - [x]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/beecrowd/blob/master/src/1000/1049.poti)
