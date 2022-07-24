@@ -4,28 +4,7 @@
 
 ## Problemas resolvidos
 
-  - [ ]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - Bingo!
-  - [ ]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - Flores Florescem da França
-  - [ ]  [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - Frequência de Números
-  - [ ]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula
-  - [ ]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - WERTYU
-  - [ ]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - Getline One
-  - [ ]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas
-  - [ ]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - Getline Three - Calçados
-  - [ ]  [1225](https://www.beecrowd.com.br/judge/pt/problems/view/1225) - Coral Perfeito
-  - [ ]  [1245](https://www.beecrowd.com.br/judge/pt/problems/view/1245) - Botas Perdidas
-  - [ ]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - Tornado!
-  - [ ]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - Dígitos Diferentes
-  - [ ]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - Horas e Minutos
-  - [ ]  [1318](https://www.beecrowd.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos
-  - [ ]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - Cara ou Coroa
-  - [ ]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - Problema com Mediana e Média
-  - [ ]  [1383](https://www.beecrowd.com.br/judge/pt/problems/view/1383) - Sudoku
-  - [ ]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - Og
-  - [ ]  [1397](https://www.beecrowd.com.br/judge/pt/problems/view/1397) - Jogo do Maior
-  - [ ]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - Copa do Mundo
-  - [ ]  [1428](https://www.beecrowd.com.br/judge/pt/problems/view/1428) - Procurando Nessy
-  - [ ]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - Esquerda, Volver!
+  
   - [ ]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - Sequências de Granizo
   - [ ]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - Zerinho ou Um
   - [ ]  [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) - Mergulho
@@ -209,20 +188,35 @@
   - [ ]  [1127](https://www.beecrowd.com.br/judge/pt/problems/view/1127) - Plágio Musical
   - [ ]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - Leitura Ótica  
   - [ ]  [1130](https://www.beecrowd.com.br/judge/pt/problems/view/1130) - Jogo da Velha
+  - [ ]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - Bingo!    
   - [ ]  [1139](https://www.beecrowd.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
+  - [ ]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - Flores Florescem da França  
   - [ ]  [1147](https://www.beecrowd.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
+  - [ ]  [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - Frequência de Números  
+  - [ ]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula  
+  - [ ]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - WERTYU  
   - [ ]  [1206](https://www.beecrowd.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ]  [1209](https://www.beecrowd.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
+  - [ ]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - Getline One  
+  - [ ]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - Getline Two - Frutas
+  - [ ]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - Getline Three - Calçados  
+  - [ ]  [1225](https://www.beecrowd.com.br/judge/pt/problems/view/1225) - Coral Perfeito  
   - [ ]  [1228](https://www.beecrowd.com.br/judge/pt/problems/view/1228) - Grid de Largada
+  - [ ]  [1245](https://www.beecrowd.com.br/judge/pt/problems/view/1245) - Botas Perdidas  
   - [ ]  [1246](https://www.beecrowd.com.br/judge/pt/problems/view/1246) - Estacionamento
   - [ ]  [1250](https://www.beecrowd.com.br/judge/pt/problems/view/1250) - KiloMan
+  - [ ]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - Tornado!  
   - [ ]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal
   - [ ]  [1271](https://www.beecrowd.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes
+  - [ ]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - Dígitos Diferentes  
   - [ ]  [1290](https://www.beecrowd.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais
+  - [ ]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - Horas e Minutos  
   - [ ]  [1311](https://www.beecrowd.com.br/judge/pt/problems/view/1311) - Companheiros de Exército
+  - [ ]  [1318](https://www.beecrowd.com.br/judge/pt/problems/view/1318) - Bilhetes Falsos
   - [ ]  [1320](https://www.beecrowd.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso
   - [ ]  [1321](https://www.beecrowd.com.br/judge/pt/problems/view/1321) - Jollo
   - [ ]  [1327](https://www.beecrowd.com.br/judge/pt/problems/view/1327) - Drop Out
+  - [ ]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - Cara ou Coroa  
   - [ ]  [1331](https://www.beecrowd.com.br/judge/pt/problems/view/1331) - Blocos
   - [ ]  [1333](https://www.beecrowd.com.br/judge/pt/problems/view/1333) - Os Doces de Candy
   - [ ]  [1337](https://www.beecrowd.com.br/judge/pt/problems/view/1337) - Poker do Rei
@@ -241,18 +235,25 @@
   - [ ]  [1369](https://www.beecrowd.com.br/judge/pt/problems/view/1369) - Gerente de Espaço
   - [ ]  [1374](https://www.beecrowd.com.br/judge/pt/problems/view/1374) - Eletricidade
   - [ ]  [1375](https://www.beecrowd.com.br/judge/pt/problems/view/1375) - Painel de Posições
+  - [ ]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - Problema com Mediana e Média  
+  - [ ]  [1383](https://www.beecrowd.com.br/judge/pt/problems/view/1383) - Sudoku  
+  - [ ]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - Og  
+  - [ ]  [1397](https://www.beecrowd.com.br/judge/pt/problems/view/1397) - Jogo do Maior  
   - [ ]  [1403](https://www.beecrowd.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso
   - [ ]  [1404](https://www.beecrowd.com.br/judge/pt/problems/view/1404) - MegaDamas
   - [ ]  [1407](https://www.beecrowd.com.br/judge/pt/problems/view/1407) - Loteria de Fim de Semana
   - [ ]  [1410](https://www.beecrowd.com.br/judge/pt/problems/view/1410) - Ele Está Impedido!
+  - [ ]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - Copa do Mundo  
   - [ ]  [1418](https://www.beecrowd.com.br/judge/pt/problems/view/1418) - Outra Crise
   - [ ]  [1419](https://www.beecrowd.com.br/judge/pt/problems/view/1419) - Bakugan
   - [ ]  [1420](https://www.beecrowd.com.br/judge/pt/problems/view/1420) - Contando os Segundos
   - [ ]  [1421](https://www.beecrowd.com.br/judge/pt/problems/view/1421) - Tic-Tac-Toe?
   - [ ]  [1426](https://www.beecrowd.com.br/judge/pt/problems/view/1426) - Coloque Tijolos na Parede
+  - [ ]  [1428](https://www.beecrowd.com.br/judge/pt/problems/view/1428) - Procurando Nessy  
   - [ ]  [1431](https://www.beecrowd.com.br/judge/pt/problems/view/1431) - Níveis de Klingon
   - [ ]  [1438](https://www.beecrowd.com.br/judge/pt/problems/view/1438) - Desempilhando Caixas
   - [ ]  [1440](https://www.beecrowd.com.br/judge/pt/problems/view/1440) - Praça de Alimentação
+  - [ ]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - Esquerda, Volver!  
   - [ ]  [1443](https://www.beecrowd.com.br/judge/pt/problems/view/1443) - Engarrafamento
   - [ ]  [1459](https://www.beecrowd.com.br/judge/pt/problems/view/1459) - Foco
   - [ ]  [1460](https://www.beecrowd.com.br/judge/pt/problems/view/1460) - Parreiral
