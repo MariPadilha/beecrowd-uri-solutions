@@ -1,19 +1,7 @@
 # Strings (0 / 148)
 
-## Problemas resolvidos
 
-  - [ ]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - Enigma
-  - [ ]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - Database of Clients
-  - [ ]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada
-  - [ ]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - Correção de Texto
-  - [ ]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - Número da Sorte
-  - [ ]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - Dúvida Etária
-  - [ ]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - Tijolão
-  - [ ]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - Timebomb
-  - [ ]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - Números Má Sorte Recarregados
-  - [ ]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - Hudinho e o seu Trabalho
-  - [ ]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - Jogo de Palavras
-  - [ ]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil
+
 ## Problemas não resolvidos
 
   - [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - Criptografia
@@ -137,18 +125,30 @@
   - [ ]  [2825](https://www.beecrowd.com.br/judge/pt/problems/view/2825) - L de Atreus!?
   - [ ]  [2827](https://www.beecrowd.com.br/judge/pt/problems/view/2827) - Contador de Tokens
   - [ ]  [2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) - Criptotexto  
+  - [ ]  [2880](https://www.beecrowd.com.br/judge/pt/problems/view/2880) - Enigma  
+  - [ ]  [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - Database of Clients  
   - [ ]  [2954](https://www.beecrowd.com.br/judge/pt/problems/view/2954) - O Jogo
   - [ ]  [2960](https://www.beecrowd.com.br/judge/pt/problems/view/2960) - Era Uma Vez…
   - [ ]  [2974](https://www.beecrowd.com.br/judge/pt/problems/view/2974) - Fechadura
   - [ ]  [2975](https://www.beecrowd.com.br/judge/pt/problems/view/2975) - Anel
+  - [ ]  [3038](https://www.beecrowd.com.br/judge/pt/problems/view/3038) - Carta de Natal Criptografada  
   - [ ]  [3080](https://www.beecrowd.com.br/judge/pt/problems/view/3080) - Proteja os Dados
   - [ ]  [3083](https://www.beecrowd.com.br/judge/pt/problems/view/3083) - Emreh, Liug E As Strings
+  - [ ]  [3088](https://www.beecrowd.com.br/judge/pt/problems/view/3088) - Correção de Texto  
   - [ ]  [3100](https://www.beecrowd.com.br/judge/pt/problems/view/3100) - Os Dígitos da Sorte
+  - [ ]  [3103](https://www.beecrowd.com.br/judge/pt/problems/view/3103) - Número da Sorte  
   - [ ]  [3118](https://www.beecrowd.com.br/judge/pt/problems/view/3118) - Bactérias, Suas Loucas!
+  - [ ]  [3141](https://www.beecrowd.com.br/judge/pt/problems/view/3141) - Dúvida Etária  
   - [ ]  [3143](https://www.beecrowd.com.br/judge/pt/problems/view/3143) - Fugindo do Celular
+  - [ ]  [3159](https://www.beecrowd.com.br/judge/pt/problems/view/3159) - Tijolão  
   - [ ]  [3180](https://www.beecrowd.com.br/judge/pt/problems/view/3180) - Roubo de Código
   - [ ]  [3261](https://www.beecrowd.com.br/judge/pt/problems/view/3261) - Replicação de Vírus
+  - [ ]  [3262](https://www.beecrowd.com.br/judge/pt/problems/view/3262) - Timebomb  
   - [ ]  [3275](https://www.beecrowd.com.br/judge/pt/problems/view/3275) - Foto de Relógios
+  - [ ]  [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - Números Má Sorte Recarregados  
   - [ ]  [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - Gravity Boy
+  - [ ]  [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - Hudinho e o seu Trabalho  
+  - [ ]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - Jogo de Palavras  
   - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade
   - [ ]  [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos
+  - [ ]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil
