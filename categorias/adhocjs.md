@@ -3,9 +3,7 @@
 ## Problemas res  
  
 
-  - [ ]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - Tacógrafo
-  - [ ]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - Floresta
-  - [ ]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - Escada Rolante
+
   - [ ]  [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - Corrida 1
   - [ ]  [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres
   - [ ]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - Corrida
@@ -509,6 +507,9 @@
   - [ ]  [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes
   - [ ]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - Telescópio  
   - [ ]  [2387](https://www.beecrowd.com.br/judge/pt/problems/view/2387) - Dentista
+  - [ ]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - Tacógrafo
+  - [ ]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - Floresta
+  - [ ]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - Escada Rolante  
   - [ ]  [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas
   - [ ]  [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - Pulo do Sapo
   - [ ]  [2393](https://www.beecrowd.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe
