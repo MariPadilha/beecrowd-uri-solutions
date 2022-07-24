@@ -2,9 +2,7 @@
 
 ## Problemas res  
  
-  - [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada
-  - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano
-  - [ ]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - Telescópio
+
   - [ ]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - Tacógrafo
   - [ ]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - Floresta
   - [ ]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - Escada Rolante
@@ -504,9 +502,12 @@
   - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
   - [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador  
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena
+  - [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada
+  - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano  
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
   - [ ]  [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - Multiplicação de Matrizes
+  - [ ]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - Telescópio  
   - [ ]  [2387](https://www.beecrowd.com.br/judge/pt/problems/view/2387) - Dentista
   - [ ]  [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas
   - [ ]  [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - Pulo do Sapo
