@@ -1,19 +1,9 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas resolvido
-  - [ ]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - Torres de Hanói
-  - [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar
-  - [ ]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - Campo de Minhocas
-  - [ ]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - Frota de Táxi
-  - [ ]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - Bafo
-  - [ ]  [2312](https://www.beecrowd.com.br/judge/pt/problems/view/2312) - Quadro De Medalhas
-  - [ ]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - Peça Perdida
-  - [ ]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - Quadrados
-  - [ ]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - Chocolate
-  - [ ]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - Aviões de Papel
-  - [ ]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - Número de Envelopes
-  - [ ]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - Overflow
-  - [ ]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - Assigning Teams
+
+  
+  
   - [ ]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - Farm Robot
   - [ ]  [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - Brasil e Alemanha
   - [ ]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - Conta de Água
@@ -431,6 +421,7 @@
   - [ ]  [2248](https://www.beecrowd.com.br/judge/pt/problems/view/2248) - Estágio
   - [ ]  [2249](https://www.beecrowd.com.br/judge/pt/problems/view/2249) - Número de Erdos
   - [ ]  [2250](https://www.beecrowd.com.br/judge/pt/problems/view/2250) - Tetris
+  - [ ]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - Torres de Hanói  
   - [ ]  [2252](https://www.beecrowd.com.br/judge/pt/problems/view/2252) - Descobrindo Senha
   - [ ]  [2254](https://www.beecrowd.com.br/judge/pt/problems/view/2254) - Bem-me-quer, Malmequer Japonês
   - [ ]  [2255](https://www.beecrowd.com.br/judge/pt/problems/view/2255) - Self-Assembly
@@ -456,11 +447,15 @@
   - [ ]  [2283](https://www.beecrowd.com.br/judge/pt/problems/view/2283) - Keyboarding
   - [ ]  [2284](https://www.beecrowd.com.br/judge/pt/problems/view/2284) - Pipe Stream
   - [ ]  [2285](https://www.beecrowd.com.br/judge/pt/problems/view/2285) - Palíndrome
+  - [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar  
   - [ ]  [2287](https://www.beecrowd.com.br/judge/pt/problems/view/2287) - Proteja sua Senha
   - [ ]  [2288](https://www.beecrowd.com.br/judge/pt/problems/view/2288) - TV da Vovó
   - [ ]  [2289](https://www.beecrowd.com.br/judge/pt/problems/view/2289) - Distância Hamming
+  - [ ]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - Campo de Minhocas  
   - [ ]  [2294](https://www.beecrowd.com.br/judge/pt/problems/view/2294) - Duende Perdido
+  - [ ]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - Frota de Táxi
   - [ ]  [2296](https://www.beecrowd.com.br/judge/pt/problems/view/2296) - Trilhas
+  - [ ]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - Bafo 
   - [ ]  [2298](https://www.beecrowd.com.br/judge/pt/problems/view/2298) - Mini-Poker
   - [ ]  [2301](https://www.beecrowd.com.br/judge/pt/problems/view/2301) - Vivo ou Morto
   - [ ]  [2302](https://www.beecrowd.com.br/judge/pt/problems/view/2302) - Conversa não tão Secreta
@@ -471,6 +466,7 @@
   - [ ]  [2307](https://www.beecrowd.com.br/judge/pt/problems/view/2307) - Jogo de Cartas
   - [ ]  [2308](https://www.beecrowd.com.br/judge/pt/problems/view/2308) - Museu
   - [ ]  [2309](https://www.beecrowd.com.br/judge/pt/problems/view/2309) - Truco
+  - [ ]  [2312](https://www.beecrowd.com.br/judge/pt/problems/view/2312) - Quadro De Medalhas  
   - [ ]  [2315](https://www.beecrowd.com.br/judge/pt/problems/view/2315) - Diferença Fácil Entre Datas
   - [ ]  [2316](https://www.beecrowd.com.br/judge/pt/problems/view/2316) - Autorama
   - [ ]  [2317](https://www.beecrowd.com.br/judge/pt/problems/view/2317) - Lobo Mau
@@ -478,17 +474,24 @@
   - [ ]  [2319](https://www.beecrowd.com.br/judge/pt/problems/view/2319) - Penalidade Mínima
   - [ ]  [2320](https://www.beecrowd.com.br/judge/pt/problems/view/2320) - Subsequência
   - [ ]  [2321](https://www.beecrowd.com.br/judge/pt/problems/view/2321) - Detectando Colisões
+  - [ ]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - Peça Perdida  
   - [ ]  [2323](https://www.beecrowd.com.br/judge/pt/problems/view/2323) - Móbile
   - [ ]  [2324](https://www.beecrowd.com.br/judge/pt/problems/view/2324) - Pastas
   - [ ]  [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - Repositórios
   - [ ]  [2326](https://www.beecrowd.com.br/judge/pt/problems/view/2326) - Sacoleiro
+  - [ ]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - Quadrados
+  - [ ]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - Chocolate  
   - [ ]  [2329](https://www.beecrowd.com.br/judge/pt/problems/view/2329) - Pão a Metro
   - [ ]  [2330](https://www.beecrowd.com.br/judge/pt/problems/view/2330) - Telemarketing
   - [ ]  [2331](https://www.beecrowd.com.br/judge/pt/problems/view/2331) - Uiquipédia
   - [ ]  [2332](https://www.beecrowd.com.br/judge/pt/problems/view/2332) - Jogo do Labirinto
   - [ ]  [2333](https://www.beecrowd.com.br/judge/pt/problems/view/2333) - Pizza
+  - [ ]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - Aviões de Papel  
   - [ ]  [2340](https://www.beecrowd.com.br/judge/pt/problems/view/2340) - Feira de Bactérias
+  - [ ]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - Número de Envelopes
+  - [ ]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - Overflow  
   - [ ]  [2343](https://www.beecrowd.com.br/judge/pt/problems/view/2343) - Caçadores de Mitos
+  - [ ]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - Assigning Teams  
   - [ ]  [2346](https://www.beecrowd.com.br/judge/pt/problems/view/2346) - Back to the Future
   - [ ]  [2347](https://www.beecrowd.com.br/judge/pt/problems/view/2347) - Counting Self-Rotating Subsets
   - [ ]  [2348](https://www.beecrowd.com.br/judge/pt/problems/view/2348) - Dating On-Line
