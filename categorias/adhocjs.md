@@ -1,12 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas resolvido
-  - [ ]  [1765](https://www.beecrowd.com.br/judge/pt/problems/view/1765) - Trapézios de Natal
-  - [ ]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - CPF 1
-  - [ ]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - CPF 2
-  - [ ]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - Escada Rolante
-  - [ ]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - Lavanderia
-  - [ ]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - Economia Brasileira
   - [ ]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
   - [ ]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - Dracarys!
   - [ ]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - Maior Número de Um Algarismo
@@ -309,13 +303,19 @@
   - [ ]  [1753](https://www.beecrowd.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda
   - [ ]  [1755](https://www.beecrowd.com.br/judge/pt/problems/view/1755) - O Troco
   - [ ]  [1758](https://www.beecrowd.com.br/judge/pt/problems/view/1758) - Pontos Extras
+  - [ ]  [1765](https://www.beecrowd.com.br/judge/pt/problems/view/1765) - Trapézios de Natal  
+  - [ ]  [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - CPF 1  
   - [ ]  [1770](https://www.beecrowd.com.br/judge/pt/problems/view/1770) - Shuffle
   - [ ]  [1771](https://www.beecrowd.com.br/judge/pt/problems/view/1771) - Cartelas de Bingo Aleatórias
   - [ ]  [1772](https://www.beecrowd.com.br/judge/pt/problems/view/1772) - Embaralhamento de Bits
   - [ ]  [1779](https://www.beecrowd.com.br/judge/pt/problems/view/1779) - Estimando a Média
   - [ ]  [1780](https://www.beecrowd.com.br/judge/pt/problems/view/1780) - Formação de Robôs
+  - [ ]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - CPF 2  
   - [ ]  [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.beecrowd.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
+  - [ ]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - Escada Rolante  
+  - [ ]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - Lavanderia  
+  - [ ]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - Economia Brasileira  
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
   - [ ]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
   - [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos
