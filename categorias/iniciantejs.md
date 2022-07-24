@@ -58,8 +58,8 @@
   - [x]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1079.js) 
   - [x]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1080.js)
   - [x]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1094.js)
+  - [x]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1095.js)
   
-  - [x]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/potigol/beecrowd/blob/master/src/1000/1095.poti)
   - [x]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1096.poti)
   - [x]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/beecrowd/blob/master/src/1000/1097.poti)
   - [x]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/beecrowd/blob/master/src/1000/1098.poti)
