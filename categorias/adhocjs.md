@@ -1,17 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas resolvido
-  - [ ]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - Catálogo de Livros
-  - [ ]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - Dracarys!
-  - [ ]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - Maior Número de Um Algarismo
-  - [ ]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - Rabiola
-  - [ ]  [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - O Castelo de Neve de Sansa
-  - [ ]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - Fases da Lua
-  - [ ]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - Borboletas
-  - [ ]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - Fatorial
-  - [ ]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - Top N
-  - [ ]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - Perdido em Marte
-  - [ ]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3
   - [ ]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - Triângulos e Polígonos Regulares
   - [ ]  [2116](https://www.beecrowd.com.br/judge/pt/problems/view/2116) - Diversão dos Alunos
   - [ ]  [2175](https://www.beecrowd.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido?
@@ -317,6 +306,7 @@
   - [ ]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - Lavanderia  
   - [ ]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - Economia Brasileira  
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
+  - [ ]  [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - Catálogo de Livros  
   - [ ]  [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - O Retorno do Rei
   - [ ]  [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - Agentes Secretos
   - [ ]  [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - O Óscar Vai Para...
@@ -329,7 +319,11 @@
   - [ ]  [1836](https://www.beecrowd.com.br/judge/pt/problems/view/1836) - Pokémon!
   - [ ]  [1840](https://www.beecrowd.com.br/judge/pt/problems/view/1840) - O Prisioneiro de Azkaban
   - [ ]  [1845](https://www.beecrowd.com.br/judge/pt/problems/view/1845) - Efílogo
+  - [ ]  [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - Dracarys!  
+  - [ ]  [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - Maior Número de Um Algarismo  
   - [ ]  [1870](https://www.beecrowd.com.br/judge/pt/problems/view/1870) - Ventiladores e Balões
+  - [ ]  [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - Rabiola  
+  - [ ]  [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - O Castelo de Neve de Sansa  
   - [ ]  [1879](https://www.beecrowd.com.br/judge/pt/problems/view/1879) - Bridge
   - [ ]  [1880](https://www.beecrowd.com.br/judge/pt/problems/view/1880) - Renzo e a Decoração Capicuânica
   - [ ]  [1881](https://www.beecrowd.com.br/judge/pt/problems/view/1881) - Competição de Robótica
@@ -341,9 +335,11 @@
   - [ ]  [1889](https://www.beecrowd.com.br/judge/pt/problems/view/1889) - Treinando com as Larvas de Phuket
   - [ ]  [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - Emplacando os Tuk-tuks
   - [ ]  [1891](https://www.beecrowd.com.br/judge/pt/problems/view/1891) - Removendo Moedas no Kem Kradãn
+  - [ ]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - Fases da Lua  
   - [ ]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - Jogo do Limite
   - [ ]  [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - É Hora do Duelo!
   - [ ]  [1899](https://www.beecrowd.com.br/judge/pt/problems/view/1899) - Acerte o Alvo!
+  - [ ]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - Borboletas  
   - [ ]  [1916](https://www.beecrowd.com.br/judge/pt/problems/view/1916) - Banco de Horas de Jaiminho
   - [ ]  [1917](https://www.beecrowd.com.br/judge/pt/problems/view/1917) - Ajude o Chapolin Colorado!
   - [ ]  [1918](https://www.beecrowd.com.br/judge/pt/problems/view/1918) - Viagem para Acapulco
@@ -351,16 +347,20 @@
   - [ ]  [1920](https://www.beecrowd.com.br/judge/pt/problems/view/1920) - Fonte dos Desejos
   - [ ]  [1934](https://www.beecrowd.com.br/judge/pt/problems/view/1934) - Quebra-cabeça
   - [ ]  [1935](https://www.beecrowd.com.br/judge/pt/problems/view/1935) - Espiral
+  - [ ]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - Fatorial  
   - [ ]  [1937](https://www.beecrowd.com.br/judge/pt/problems/view/1937) - Guardiões Curiosos
   - [ ]  [1939](https://www.beecrowd.com.br/judge/pt/problems/view/1939) - Ominobox
   - [ ]  [1940](https://www.beecrowd.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
   - [ ]  [1942](https://www.beecrowd.com.br/judge/pt/problems/view/1942) - Loteria
+  - [ ]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - Top N
   - [ ]  [1945](https://www.beecrowd.com.br/judge/pt/problems/view/1945) - Simulador
   - [ ]  [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada
   - [ ]  [1964](https://www.beecrowd.com.br/judge/pt/problems/view/1964) - A Ira de Khan
   - [ ]  [1965](https://www.beecrowd.com.br/judge/pt/problems/view/1965) - A Procura por Spock
   - [ ]  [1966](https://www.beecrowd.com.br/judge/pt/problems/view/1966) - A Volta para Casa
   - [ ]  [1980](https://www.beecrowd.com.br/judge/pt/problems/view/1980) - Embaralhando
+  - [ ]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - Perdido em Marte  
+  - [ ]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - Divisibilidade Por 3  
   - [ ]  [1997](https://www.beecrowd.com.br/judge/pt/problems/view/1997) - Branco e Preto
   - [ ]  [1998](https://www.beecrowd.com.br/judge/pt/problems/view/1998) - Awari 2.0
   - [ ]  [2004](https://www.beecrowd.com.br/judge/pt/problems/view/2004) - Enisvaldo Com Fome
