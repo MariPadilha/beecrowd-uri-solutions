@@ -1,13 +1,6 @@
 # Ad-Hoc (0 / 745)
 
-## Problemas res  
-  - [ ]  [2568](https://www.beecrowd.com.br/judge/pt/problems/view/2568) - Ações
-  - [ ]  [2569](https://www.beecrowd.com.br/judge/pt/problems/view/2569) - A Bruxa do 7 x 1
-  - [ ]  [2579](https://www.beecrowd.com.br/judge/pt/problems/view/2579) - Nagol
-  - [ ]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - Tustin e Seu Dado Novo
-  - [ ]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo
-  - [ ]  [2650](https://www.beecrowd.com.br/judge/pt/problems/view/2650) - Construindo Muralhas
-  - [ ]  [2679](https://www.beecrowd.com.br/judge/pt/problems/view/2679) - Sucessor Par
+## Problemas res 
   - [ ]  [2803](https://www.beecrowd.com.br/judge/pt/problems/view/2803) - Estados do Norte
   - [ ]  [2830](https://www.beecrowd.com.br/judge/pt/problems/view/2830) - Copa
   - [ ]  [2831](https://www.beecrowd.com.br/judge/pt/problems/view/2831) - Pesos
@@ -559,6 +552,8 @@
   - [ ]  [2564](https://www.beecrowd.com.br/judge/pt/problems/view/2564) - Troca ou Não Troca
   - [ ]  [2565](https://www.beecrowd.com.br/judge/pt/problems/view/2565) - Tubos de Ensaio
   - [ ]  [2567](https://www.beecrowd.com.br/judge/pt/problems/view/2567) - Virus
+  - [ ]  [2568](https://www.beecrowd.com.br/judge/pt/problems/view/2568) - Ações
+  - [ ]  [2569](https://www.beecrowd.com.br/judge/pt/problems/view/2569) - A Bruxa do 7 x 
   - [ ]  [2570](https://www.beecrowd.com.br/judge/pt/problems/view/2570) - Californication
   - [ ]  [2571](https://www.beecrowd.com.br/judge/pt/problems/view/2571) - Doador
   - [ ]  [2572](https://www.beecrowd.com.br/judge/pt/problems/view/2572) - Escalação
@@ -568,11 +563,14 @@
   - [ ]  [2576](https://www.beecrowd.com.br/judge/pt/problems/view/2576) - Invertendo Setas
   - [ ]  [2577](https://www.beecrowd.com.br/judge/pt/problems/view/2577) - Jogo das Caixas
   - [ ]  [2578](https://www.beecrowd.com.br/judge/pt/problems/view/2578) - Ontarama Meraini  
+  - [ ]  [2579](https://www.beecrowd.com.br/judge/pt/problems/view/2579) - Nagol  
   - [ ]  [2580](https://www.beecrowd.com.br/judge/pt/problems/view/2580) - Mestre Pokémon Ho
   - [ ]  [2586](https://www.beecrowd.com.br/judge/pt/problems/view/2586) - Cubonacci
   - [ ]  [2590](https://www.beecrowd.com.br/judge/pt/problems/view/2590) - Sete
   - [ ]  [2592](https://www.beecrowd.com.br/judge/pt/problems/view/2592) - VaiNaSort
   - [ ]  [2595](https://www.beecrowd.com.br/judge/pt/problems/view/2595) - Cash Roial
+  - [ ]  [2600](https://www.beecrowd.com.br/judge/pt/problems/view/2600) - Tustin e Seu Dado Novo
+  - [ ]  [2601](https://www.beecrowd.com.br/judge/pt/problems/view/2601) - Tustin e Seu Dado Antigo  
   - [ ]  [2627](https://www.beecrowd.com.br/judge/pt/problems/view/2627) - Bonde de Autômatos
   - [ ]  [2628](https://www.beecrowd.com.br/judge/pt/problems/view/2628) - Caça ao Tesouro
   - [ ]  [2629](https://www.beecrowd.com.br/judge/pt/problems/view/2629) - Rodoido
@@ -583,11 +581,13 @@
   - [ ]  [2644](https://www.beecrowd.com.br/judge/pt/problems/view/2644) - Replicate Replicate Rfplicbte
   - [ ]  [2645](https://www.beecrowd.com.br/judge/pt/problems/view/2645) - Scenery
   - [ ]  [2648](https://www.beecrowd.com.br/judge/pt/problems/view/2648) - Tarot Sham Boast
+  - [ ]  [2650](https://www.beecrowd.com.br/judge/pt/problems/view/2650) - Construindo Muralhas  
   - [ ]  [2659](https://www.beecrowd.com.br/judge/pt/problems/view/2659) - Brincadeira
   - [ ]  [2662](https://www.beecrowd.com.br/judge/pt/problems/view/2662) - Escala Musical
   - [ ]  [2672](https://www.beecrowd.com.br/judge/pt/problems/view/2672) - Máscara de Rede
   - [ ]  [2673](https://www.beecrowd.com.br/judge/pt/problems/view/2673) - Resistores Série e Paralelo
   - [ ]  [2675](https://www.beecrowd.com.br/judge/pt/problems/view/2675) - Rouba Monte
+  - [ ]  [2679](https://www.beecrowd.com.br/judge/pt/problems/view/2679) - Sucessor Par  
   - [ ]  [2682](https://www.beecrowd.com.br/judge/pt/problems/view/2682) - Detector de Falhas
   - [ ]  [2684](https://www.beecrowd.com.br/judge/pt/problems/view/2684) - Ajude o Professor Webscript!!
   - [ ]  [2689](https://www.beecrowd.com.br/judge/pt/problems/view/2689) - Jogo do Mião
