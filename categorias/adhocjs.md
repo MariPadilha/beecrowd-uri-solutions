@@ -1,19 +1,6 @@
 # Ad-Hoc (0 / 745)
 
 ## Problemas res 
-  - [ ]  [2803](https://www.beecrowd.com.br/judge/pt/problems/view/2803) - Estados do Norte
-  - [ ]  [2830](https://www.beecrowd.com.br/judge/pt/problems/view/2830) - Copa
-  - [ ]  [2831](https://www.beecrowd.com.br/judge/pt/problems/view/2831) - Pesos
-  - [ ]  [2833](https://www.beecrowd.com.br/judge/pt/problems/view/2833) - Campeonato
-  - [ ]  [2835](https://www.beecrowd.com.br/judge/pt/problems/view/2835) - Elevador
-  - [ ]  [2847](https://www.beecrowd.com.br/judge/pt/problems/view/2847) - Papel, Tesoura, I Love You!
-  - [ ]  [2851](https://www.beecrowd.com.br/judge/pt/problems/view/2851) - Desafio de Rangel
-  - [ ]  [2858](https://www.beecrowd.com.br/judge/pt/problems/view/2858) - Tabuleiro Infinito
-  - [ ]  [2868](https://www.beecrowd.com.br/judge/pt/problems/view/2868) - Errrou!
-  - [ ]  [2922](https://www.beecrowd.com.br/judge/pt/problems/view/2922) - Salas De Aula
-  - [ ]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - Então é Natal!
-  - [ ]  [2928](https://www.beecrowd.com.br/judge/pt/problems/view/2928) - Cruzando Lagos
-  - [ ]  [3005](https://www.beecrowd.com.br/judge/pt/problems/view/3005) - Pilhas de Paralelepípedos
   - [ ]  [3024](https://www.beecrowd.com.br/judge/pt/problems/view/3024) - Mountain Ranges
   - [ ]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - O Caso Douglas
   - [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta
@@ -611,17 +598,25 @@
   - [ ]  [2796](https://www.beecrowd.com.br/judge/pt/problems/view/2796) - Planta da Casa
   - [ ]  [2797](https://www.beecrowd.com.br/judge/pt/problems/view/2797) - Aplicando Prova
   - [ ]  [2798](https://www.beecrowd.com.br/judge/pt/problems/view/2798) - Lero-Lero da Mineira
+  - [ ]  [2803](https://www.beecrowd.com.br/judge/pt/problems/view/2803) - Estados do Norte  
   - [ ]  [2806](https://www.beecrowd.com.br/judge/pt/problems/view/2806) - Ingredientes Típicos
   - [ ]  [2814](https://www.beecrowd.com.br/judge/pt/problems/view/2814) - Música Alta
   - [ ]  [2829](https://www.beecrowd.com.br/judge/pt/problems/view/2829) - Maiúsculas, Por Quê?
+  - [ ]  [2830](https://www.beecrowd.com.br/judge/pt/problems/view/2830) - Copa
+  - [ ]  [2831](https://www.beecrowd.com.br/judge/pt/problems/view/2831) - Pesos  
   - [ ]  [2832](https://www.beecrowd.com.br/judge/pt/problems/view/2832) - Cápsulas
   - [ ]  [2834](https://www.beecrowd.com.br/judge/pt/problems/view/2834) - Fuga
+  - [ ]  [2835](https://www.beecrowd.com.br/judge/pt/problems/view/2835) - Elevador  
   - [ ]  [2836](https://www.beecrowd.com.br/judge/pt/problems/view/2836) - Wifi
   - [ ]  [2837](https://www.beecrowd.com.br/judge/pt/problems/view/2837) - Sequência
   - [ ]  [2843](https://www.beecrowd.com.br/judge/pt/problems/view/2843) - Escrita Rápida, a Competição
   - [ ]  [2844](https://www.beecrowd.com.br/judge/pt/problems/view/2844) - Escrita Rápida, o Duelo
+  - [ ]  [2847](https://www.beecrowd.com.br/judge/pt/problems/view/2847) - Papel, Tesoura, I Love You!  
+  - [ ]  [2851](https://www.beecrowd.com.br/judge/pt/problems/view/2851) - Desafio de Rangel  
   - [ ]  [2853](https://www.beecrowd.com.br/judge/pt/problems/view/2853) - Invenções de Bibika
+  - [ ]  [2858](https://www.beecrowd.com.br/judge/pt/problems/view/2858) - Tabuleiro Infinito  
   - [ ]  [2865](https://www.beecrowd.com.br/judge/pt/problems/view/2865) - Palíndromo Binário
+  - [ ]  [2868](https://www.beecrowd.com.br/judge/pt/problems/view/2868) - Errrou!  
   - [ ]  [2871](https://www.beecrowd.com.br/judge/pt/problems/view/2871) - Colheita de Café
   - [ ]  [2874](https://www.beecrowd.com.br/judge/pt/problems/view/2874) - Frase Binária
   - [ ]  [2875](https://www.beecrowd.com.br/judge/pt/problems/view/2875) - Jogo Túnel
@@ -644,11 +639,15 @@
   - [ ]  [2913](https://www.beecrowd.com.br/judge/pt/problems/view/2913) - KryptoLocker Ate my Homework
   - [ ]  [2914](https://www.beecrowd.com.br/judge/pt/problems/view/2914) - Looking for the Risk Factor
   - [ ]  [2915](https://www.beecrowd.com.br/judge/pt/problems/view/2915) - Mount Marathon
+  - [ ]  [2922](https://www.beecrowd.com.br/judge/pt/problems/view/2922) - Salas De Aula  
   - [ ]  [2923](https://www.beecrowd.com.br/judge/pt/problems/view/2923) - Birinho
   - [ ]  [2924](https://www.beecrowd.com.br/judge/pt/problems/view/2924) - BigInt
   - [ ]  [2925](https://www.beecrowd.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF
+  - [ ]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - Então é Natal! 
   - [ ]  [2927](https://www.beecrowd.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos
+  - [ ]  [2928](https://www.beecrowd.com.br/judge/pt/problems/view/2928) - Cruzando Lagos 
   - [ ]  [2931](https://www.beecrowd.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
+  - [ ]  [2833](https://www.beecrowd.com.br/judge/pt/problems/view/2833) - Campeonato  
   - [ ]  [2935](https://www.beecrowd.com.br/judge/pt/problems/view/2935) - DNA Élfico
   - [ ]  [2938](https://www.beecrowd.com.br/judge/pt/problems/view/2938) - Jaçanã
   - [ ]  [2940](https://www.beecrowd.com.br/judge/pt/problems/view/2940) - Máquina do Tempo Quebrada
@@ -666,6 +665,7 @@
   - [ ]  [2972](https://www.beecrowd.com.br/judge/pt/problems/view/2972) - Lançando Moedas
   - [ ]  [2979](https://www.beecrowd.com.br/judge/pt/problems/view/2979) - Torre
   - [ ]  [2985](https://www.beecrowd.com.br/judge/pt/problems/view/2985) - Tobias Contra o Relógio
+  - [ ]  [3005](https://www.beecrowd.com.br/judge/pt/problems/view/3005) - Pilhas de Paralelepípedos  
   - [ ]  [3006](https://www.beecrowd.com.br/judge/pt/problems/view/3006) - Passeio em Copacabana
   - [ ]  [3008](https://www.beecrowd.com.br/judge/pt/problems/view/3008) - Numeração com Fósforos
   - [ ]  [3009](https://www.beecrowd.com.br/judge/pt/problems/view/3009) - Dominós
