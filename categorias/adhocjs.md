@@ -2,6 +2,10 @@
 
 
 
+## Problemas resolvidos
+
+  - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.js)
+
 ## Problemas não resolvidos
 
   - [ ]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
@@ -229,7 +233,6 @@
   - [ ]  [1939](https://www.beecrowd.com.br/judge/pt/problems/view/1939) - Ominobox
   - [ ]  [1940](https://www.beecrowd.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
   - [ ]  [1942](https://www.beecrowd.com.br/judge/pt/problems/view/1942) - Loteria
-  - [ ]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - Top N
   - [ ]  [1945](https://www.beecrowd.com.br/judge/pt/problems/view/1945) - Simulador
   - [ ]  [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - Roberto e a Sala Desenfreada
   - [ ]  [1964](https://www.beecrowd.com.br/judge/pt/problems/view/1964) - A Ira de Khan
