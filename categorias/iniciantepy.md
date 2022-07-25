@@ -61,76 +61,39 @@
   - [x]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1080.py)
   - [x]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1094.py) 
   - [x]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1095.py)
+  - [x]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1096.py)
+  - [x]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1097.py)
+  - [x]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1098.py)
+  - [x]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1099.py)
+  - [x]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1101.py)
+  - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1113.py)
+  - [x]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1114.py)
+  - [x]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1115.py) 
+  - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1117.py)
+  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1131.py)
+  - [x]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1132.py)
+  - [x]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1133.py)
+  - [x]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1134.py)
+  - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1142.py)
+  - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1143.py) 
+  - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1144.py)
+  - [x]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1146.py)
+  - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1153.py)
+  - [x]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1154.py)
+  - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1155.py)
+  - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1157.py)
+  - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1164.py)
+  - [x]  [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1173.py)
+  - [x]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1175.py)
+  - [x]  [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1177.py)
+  - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1178.py)
+  - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1180.py)
+  - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1564.py)
+  - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.py)
+  - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1759.py)
+  - [x]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1828.py)
+  - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1865.py)
   
-  - [x]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/beecrowd/blob/master/src/1000/1096.poti)
-  - [x]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/beecrowd/blob/master/src/1000/1097.poti)
-  - [x]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/beecrowd/blob/master/src/1000/1098.poti)
-  - [x]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/potigol/beecrowd/blob/master/src/1000/1099.poti)
-  - [x]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/potigol/beecrowd/blob/master/src/1100/1101.poti)
-  - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/potigol/beecrowd/blob/master/src/1100/1113.poti)
-  - [x]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/potigol/beecrowd/blob/master/src/1100/1114.poti)
-  - [x]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/potigol/beecrowd/blob/master/src/1100/1115.poti)
-  - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/potigol/beecrowd/blob/master/src/1100/1116.poti)
-  - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/potigol/beecrowd/blob/master/src/1100/1117.poti)
-  - [x]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/potigol/beecrowd/blob/master/src/1100/1118.poti)
-  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/potigol/beecrowd/blob/master/src/1100/1131.poti)
-  - [x]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/potigol/beecrowd/blob/master/src/1100/1132.poti)
-  - [x]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/potigol/beecrowd/blob/master/src/1100/1133.poti)
-  - [x]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/potigol/beecrowd/blob/master/src/1100/1134.poti)
-  - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/potigol/beecrowd/blob/master/src/1100/1142.poti)
-  - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/potigol/beecrowd/blob/master/src/1100/1143.poti)
-  - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/potigol/beecrowd/blob/master/src/1100/1144.poti)
-  - [x]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/potigol/beecrowd/blob/master/src/1100/1145.poti)
-  - [x]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/potigol/beecrowd/blob/master/src/1100/1146.poti)
-  - [x]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - [Somando Inteiros Consecutivos](https://github.com/potigol/beecrowd/blob/master/src/1100/1149.poti)
-  - [x]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - [Ultrapassando Z](https://github.com/potigol/beecrowd/blob/master/src/1100/1150.poti)
-  - [x]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](https://github.com/potigol/beecrowd/blob/master/src/1100/1151.poti)
-  - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/potigol/beecrowd/blob/master/src/1100/1153.poti)
-  - [x]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/potigol/beecrowd/blob/master/src/1100/1154.poti)
-  - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/potigol/beecrowd/blob/master/src/1100/1155.poti)
-  - [x]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - [Sequência S II](https://github.com/potigol/beecrowd/blob/master/src/1100/1156.poti)
-  - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/potigol/beecrowd/blob/master/src/1100/1157.poti)
-  - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/potigol/beecrowd/blob/master/src/1100/1158.poti)
-  - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/potigol/beecrowd/blob/master/src/1100/1159.poti)
-  - [x]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/potigol/beecrowd/blob/master/src/1100/1160.poti)
-  - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/potigol/beecrowd/blob/master/src/1100/1164.poti)
-  - [x]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/potigol/beecrowd/blob/master/src/1100/1165.poti)
-  - [x]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/potigol/beecrowd/blob/master/src/1100/1172.poti)
-  - [x]  [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/potigol/beecrowd/blob/master/src/1100/1173.poti)
-  - [x]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](https://github.com/potigol/beecrowd/blob/master/src/1100/1174.poti)
-  - [x]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](https://github.com/potigol/beecrowd/blob/master/src/1100/1175.poti)
-  - [x]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - [Fibonacci em Vetor](https://github.com/potigol/beecrowd/blob/master/src/1100/1176.poti)
-  - [x]  [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/potigol/beecrowd/blob/master/src/1100/1177.poti)
-  - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/potigol/beecrowd/blob/master/src/1100/1178.poti)
-  - [x]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Preenchimento de Vetor IV](https://github.com/potigol/beecrowd/blob/master/src/1100/1179.poti)
-  - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/potigol/beecrowd/blob/master/src/1100/1180.poti)
-  - [x]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/potigol/beecrowd/blob/master/src/1100/1181.poti)
-  - [x]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - [Coluna na Matriz](https://github.com/potigol/beecrowd/blob/master/src/1100/1182.poti)
-  - [x]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - [Acima da Diagonal Principal](https://github.com/potigol/beecrowd/blob/master/src/1100/1183.poti)
-  - [x]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - [Abaixo da Diagonal Principal](https://github.com/potigol/beecrowd/blob/master/src/1100/1184.poti)
-  - [x]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - [Acima da Diagonal Secundária](https://github.com/potigol/beecrowd/blob/master/src/1100/1185.poti)
-  - [x]  [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - [Abaixo da Diagonal Secundária](https://github.com/potigol/beecrowd/blob/master/src/1100/1186.poti)
-  - [x]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - [Área Superior](https://github.com/potigol/beecrowd/blob/master/src/1100/1187.poti)
-  - [x]  [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - [Área Inferior](https://github.com/potigol/beecrowd/blob/master/src/1100/1188.poti)
-  - [x]  [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/potigol/beecrowd/blob/master/src/1100/1189.poti)
-  - [x]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/potigol/beecrowd/blob/master/src/1100/1190.poti)
-  - [x]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/potigol/beecrowd/blob/master/src/1400/1435.poti)
-  - [x]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - [Matriz Quadrada II](https://github.com/potigol/beecrowd/blob/master/src/1400/1478.poti)
-  - [x]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/potigol/beecrowd/blob/master/src/1500/1534.poti)
-  - [x]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/potigol/beecrowd/blob/master/src/1500/1541.poti)
-  - [x]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - [Matriz Quadrada III](https://github.com/potigol/beecrowd/blob/master/src/1500/1557.poti)
-  - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/potigol/beecrowd/blob/master/src/1500/1564.poti)
-  - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/potigol/beecrowd/blob/master/src/1500/1589.poti)
-  - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/potigol/beecrowd/blob/master/src/1700/1759.poti)
-  - [x]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - [A Corrida de Lesmas](https://github.com/potigol/beecrowd/blob/master/src/1700/1789.poti)
-  - [x]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - [Matriz Quadrada IV](https://github.com/potigol/beecrowd/blob/master/src/1800/1827.poti)
-  - [x]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/potigol/beecrowd/blob/master/src/1800/1828.poti)
-  - [x]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/potigol/beecrowd/blob/master/src/1800/1837.poti)
-  - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/potigol/beecrowd/blob/master/src/1800/1847.poti)
-  - [x]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/potigol/beecrowd/blob/master/src/1800/1848.poti)
-  - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/potigol/beecrowd/blob/master/src/1800/1858.poti)
-  - [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/potigol/beecrowd/blob/master/src/1800/1864.poti)
-  - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/potigol/beecrowd/blob/master/src/1800/1865.poti)
   - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/potigol/beecrowd/blob/master/src/1800/1866.poti)
   - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/potigol/beecrowd/blob/master/src/1900/1914.poti)
   - [x]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/potigol/beecrowd/blob/master/src/1900/1924.poti)
@@ -327,6 +290,43 @@
 
 ## Problemas não resolvidos
 
+  - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y  
+  - [ ]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação  
+  - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
+  - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
+  - [ ]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
+  - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
+  - [ ]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - Sequência S II  
+  - [ ]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
+  - [ ]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos
+  - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional  
+  - [ ]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - Número Primo
+  - [ ]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - Substituição em Vetor I  
+  - [ ]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - Seleçao em Vetor I  
+  - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor  
+  - [ ]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV  
+  - [ ]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - Linha na Matriz
+  - [ ]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
+  - [ ]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
+  - [ ]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
+  - [ ]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - Acima da Diagonal Secundária
+  - [ ]  [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - Abaixo da Diagonal Secundária
+  - [ ]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - Área Superior
+  - [ ]  [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - Área Inferior
+  - [ ]  [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - Área Esquerda
+  - [ ]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - Área Direita
+  - [ ]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
+  - [ ]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
+  - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
+  - [ ]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - Construindo Casas
+  - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III  
+  - [ ]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
+  - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
+  - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - Prefácio
+  - [ ]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - Bem-vindos e Bem-vindas ao Inverno!
+  - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
+  - [ ]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - A Resposta de Theon
+  - [ ]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
