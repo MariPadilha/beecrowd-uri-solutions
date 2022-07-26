@@ -93,57 +93,21 @@
   - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1759.py)
   - [x]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1828.py)
   - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1865.py)
+  - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1866.py)
+  - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1914.py)
+  - [x]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1924.py)  
+  - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1984.py)
+  - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1985.py)
+  - [x]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2006.py)
+  - [x]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2060.py)
+  - [x]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2061.py)  
+  - [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2146.py)
+  - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.py)
+  - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.py)
+  - [x]  [2176](https://www.beecrowd.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2176.py)
+  - [x]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2221.py)
+  - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.py)
   
-  - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/potigol/beecrowd/blob/master/src/1800/1866.poti)
-  - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/potigol/beecrowd/blob/master/src/1900/1914.poti)
-  - [x]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/potigol/beecrowd/blob/master/src/1900/1924.poti)
-  - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/potigol/beecrowd/blob/master/src/1900/1929.poti)
-  - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/potigol/beecrowd/blob/master/src/1900/1930.poti)
-  - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/potigol/beecrowd/blob/master/src/1900/1933.poti)
-  - [x]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/potigol/beecrowd/blob/master/src/1900/1957.poti)
-  - [x]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/potigol/beecrowd/blob/master/src/1900/1958.poti)
-  - [x]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/potigol/beecrowd/blob/master/src/1900/1959.poti)
-  - [x]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/potigol/beecrowd/blob/master/src/1900/1960.poti)
-  - [x]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/potigol/beecrowd/blob/master/src/1900/1961.poti)
-  - [x]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/potigol/beecrowd/blob/master/src/1900/1962.poti)
-  - [x]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/potigol/beecrowd/blob/master/src/1900/1963.poti)
-  - [x]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - [Jornada nas Estrelas](https://github.com/potigol/beecrowd/blob/master/src/1900/1973.poti)
-  - [x]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/potigol/beecrowd/blob/master/src/1900/1983.poti)
-  - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/potigol/beecrowd/blob/master/src/1900/1984.poti)
-  - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/potigol/beecrowd/blob/master/src/1900/1985.poti)
-  - [x]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/potigol/beecrowd/blob/master/src/2000/2003.poti)
-  - [x]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/potigol/beecrowd/blob/master/src/2000/2006.poti)
-  - [x]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - [Sequência de Sequência](https://github.com/potigol/beecrowd/blob/master/src/2000/2028.poti)
-  - [x]  [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/potigol/beecrowd/blob/master/src/2000/2029.poti)
-  - [x]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/potigol/beecrowd/blob/master/src/2000/2031.poti)
-  - [x]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/potigol/beecrowd/blob/master/src/2000/2057.poti)
-  - [x]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/potigol/beecrowd/blob/master/src/2000/2059.poti)
-  - [x]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/potigol/beecrowd/blob/master/src/2000/2060.poti)
-  - [x]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/potigol/beecrowd/blob/master/src/2000/2061.poti)
-  - [x]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - [Procurando Subsequências](https://github.com/potigol/beecrowd/blob/master/src/2100/2126.poti)
-  - [x]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/potigol/beecrowd/blob/master/src/2100/2139.poti)
-  - [x]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/potigol/beecrowd/blob/master/src/2100/2140.poti)
-  - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/potigol/beecrowd/blob/master/src/2100/2143.poti)
-  - [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/potigol/beecrowd/blob/master/src/2100/2146.poti)
-  - [x]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/potigol/beecrowd/blob/master/src/2100/2147.poti)
-  - [x]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/potigol/beecrowd/blob/master/src/2100/2152.poti)
-  - [x]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/potigol/beecrowd/blob/master/src/2100/2159.poti)
-  - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/potigol/beecrowd/blob/master/src/2100/2160.poti)
-  - [x]  [2161](https://www.beecrowd.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/potigol/beecrowd/blob/master/src/2100/2161.poti)
-  - [x]  [2162](https://www.beecrowd.com.br/judge/pt/problems/view/2162) - [Picos e Vales](https://github.com/potigol/beecrowd/blob/master/src/2100/2162.poti)
-  - [x]  [2163](https://www.beecrowd.com.br/judge/pt/problems/view/2163) - [O Despertar da Força](https://github.com/potigol/beecrowd/blob/master/src/2100/2163.poti)
-  - [x]  [2164](https://www.beecrowd.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/potigol/beecrowd/blob/master/src/2100/2164.poti)
-  - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/potigol/beecrowd/blob/master/src/2100/2165.poti)
-  - [x]  [2166](https://www.beecrowd.com.br/judge/pt/problems/view/2166) - [Raiz Quadrada de 2](https://github.com/potigol/beecrowd/blob/master/src/2100/2166.poti)
-  - [x]  [2167](https://www.beecrowd.com.br/judge/pt/problems/view/2167) - [Falha do Motor](https://github.com/potigol/beecrowd/blob/master/src/2100/2167.poti)
-  - [x]  [2168](https://www.beecrowd.com.br/judge/pt/problems/view/2168) - [Crepúsculo em Portland](https://github.com/potigol/beecrowd/blob/master/src/2100/2168.poti)
-  - [x]  [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - [Evento](https://github.com/potigol/beecrowd/blob/master/src/2100/2172.poti)
-  - [x]  [2176](https://www.beecrowd.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/potigol/beecrowd/blob/master/src/2100/2176.poti)
-  - [x]  [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - [Tempestade de Corvos](https://github.com/potigol/beecrowd/blob/master/src/2200/2203.poti)
-  - [x]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/potigol/beecrowd/blob/master/src/2200/2221.poti)
-  - [x]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/potigol/beecrowd/blob/master/src/2200/2234.poti)
-  - [x]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/potigol/beecrowd/blob/master/src/2200/2235.poti)
-  - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/beecrowd/blob/master/src/2300/2310.poti)
   - [x]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - [Saltos Ornamentais](https://github.com/potigol/beecrowd/blob/master/src/2300/2311.poti)
   - [x]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - [Qual Triângulo](https://github.com/potigol/beecrowd/blob/master/src/2300/2313.poti)
   - [x]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/potigol/beecrowd/blob/master/src/2300/2334.poti)
@@ -327,6 +291,42 @@
   - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
   - [ ]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - A Resposta de Theon
   - [ ]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão  
+  - [ ]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - Triângulo
+  - [ ]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - Tomadas
+  - [ ]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - Tri-du
+  - [ ]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal
+  - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - Notação Científica
+  - [ ]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - Polígonos Regulares Simples
+  - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página
+  - [ ]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - Pula Sapo
+  - [ ]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - Há Muito, Muito Tempo Atrás
+  - [ ]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - O Filme
+  - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
+  - [ ]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - O Escolhido  
+  - [ ]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - Domingo de Manhã  
+  - [ ]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
+  - [ ]  [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - Reservatório de Mel
+  - [ ]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
+  - [ ]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - Fuso Horário
+  - [ ]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - Ímpar, Par ou Roubo  
+  - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
+  - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
+  - [ ]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - Duas Notas
+  - [ ]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - A Volta do Radar  
+  - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - Galopeira
+  - [ ]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
+  - [ ]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos  
+  - [ ]  [2161](https://www.beecrowd.com.br/judge/pt/problems/view/2161) - Raiz Quadrada de 10
+  - [ ]  [2162](https://www.beecrowd.com.br/judge/pt/problems/view/2162) - Picos e Vales
+  - [ ]  [2163](https://www.beecrowd.com.br/judge/pt/problems/view/2163) - O Despertar da Força
+  - [ ]  [2164](https://www.beecrowd.com.br/judge/pt/problems/view/2164) - Fibonacci Rápido  
+  - [ ]  [2166](https://www.beecrowd.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2
+  - [ ]  [2167](https://www.beecrowd.com.br/judge/pt/problems/view/2167) - Falha do Motor
+  - [ ]  [2168](https://www.beecrowd.com.br/judge/pt/problems/view/2168) - Crepúsculo em Portland
+  - [ ]  [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - Evento  
+  - [ ]  [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos  
+  - [ ]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes
+  - [ ]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - Andando no Tempo  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
