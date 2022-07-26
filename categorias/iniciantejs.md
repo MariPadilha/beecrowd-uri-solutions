@@ -77,18 +77,11 @@
   - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1155.js)
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
-  - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/beecrowd/blob/master/src/2300/2310.poti)
+  - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/potigol/beecrowd/blob/master/src/2300/2310.poti)  
+  - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.js)  
+  - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.js)
   
-  - [x]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - [Saltos Ornamentais](https://github.com/potigol/beecrowd/blob/master/src/2300/2311.poti)
-  - [x]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - [Qual Triângulo](https://github.com/potigol/beecrowd/blob/master/src/2300/2313.poti)
-  - [x]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/potigol/beecrowd/blob/master/src/2300/2334.poti)
-  - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/potigol/beecrowd/blob/master/src/2300/2344.poti)
-  - [x]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/potigol/beecrowd/blob/master/src/2400/2483.poti)
-  - [x]  [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/potigol/beecrowd/blob/master/src/2400/2486.poti)
-  - [x]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - [Jogo do Operador](https://github.com/potigol/beecrowd/blob/master/src/2400/2493.poti)
-  - [x]  [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - [Decifrando a Carta Criptografada](https://github.com/potigol/beecrowd/blob/master/src/2500/2502.poti)
-  - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/potigol/beecrowd/blob/master/src/2500/2510.poti)
-  - [x]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - [O Último Analógimôn](https://github.com/potigol/beecrowd/blob/master/src/2500/2520.poti)
+  - [x]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
   - [x]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/potigol/beecrowd/blob/master/src/2500/2523.poti)
   - [x]  [2533](https://www.beecrowd.com.br/judge/pt/problems/view/2533) - [Estágio](https://github.com/potigol/beecrowd/blob/master/src/2500/2533.poti)
   - [x]  [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - [Exame Geral](https://github.com/potigol/beecrowd/blob/master/src/2500/2534.poti)
@@ -100,7 +93,9 @@
   - [x]  [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/potigol/beecrowd/blob/master/src/2500/2551.poti)
   - [x]  [2552](https://www.beecrowd.com.br/judge/pt/problems/view/2552) - [PãodeQuejoSweeper](https://github.com/potigol/beecrowd/blob/master/src/2500/2552.poti)
   - [x]  [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - [Pizza Antes de BH](https://github.com/potigol/beecrowd/blob/master/src/2500/2554.poti)
-  - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/potigol/beecrowd/blob/master/src/2500/2581.poti)
+  
+  - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.js)
+  
   - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/beecrowd/blob/master/src/2500/2582.poti)
   - [x]  [2626](https://www.beecrowd.com.br/judge/pt/problems/view/2626) - [Turma do JB6](https://github.com/potigol/beecrowd/blob/master/src/2600/2626.poti)
   - [x]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/beecrowd/blob/master/src/2600/2630.poti)
@@ -327,6 +322,13 @@
   - [ ]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
   - [ ]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes
   - [ ]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - Andando no Tempo  
+  - [ ]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
+  - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo
+  - [ ]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - Patinhos  
+  - [ ]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - Feliz Nataaal!
+  - [ ]  [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - C Mais ou Menos?
+  - [ ]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - Jogo do Operador
+  - [ ]  [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
