@@ -111,42 +111,14 @@
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.py)
   - [x]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2483.py)  
   - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.py)  
-  - [x]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2540.py)
-  
-  - [x]  [2542](https://www.beecrowd.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
-  - [x]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - Jogatina UFPR
-  - [x]  [2544](https://www.beecrowd.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu
-  - [x]  [2547](https://www.beecrowd.com.br/judge/pt/problems/view/2547) - Montanha-Russa
-  - [x]  [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/potigol/beecrowd/blob/master/src/2500/2551.poti)
-  - [x]  [2552](https://www.beecrowd.com.br/judge/pt/problems/view/2552) - [PãodeQuejoSweeper](https://github.com/potigol/beecrowd/blob/master/src/2500/2552.poti)
-  - [x]  [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - [Pizza Antes de BH](https://github.com/potigol/beecrowd/blob/master/src/2500/2554.poti)
-  
+  - [x]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2540.py)  
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.py)
+  - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2582.py)  
+  - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2747.py)
+  - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2748.py)
+  - [x]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2749.py)
+  - [x]  [2750](https://www.beecrowd.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2750.py)
   
-  - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/potigol/beecrowd/blob/master/src/2500/2582.poti)
-  - [x]  [2626](https://www.beecrowd.com.br/judge/pt/problems/view/2626) - [Turma do JB6](https://github.com/potigol/beecrowd/blob/master/src/2600/2626.poti)
-  - [x]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/potigol/beecrowd/blob/master/src/2600/2630.poti)
-  - [x]  [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - [Magic and Sword](https://github.com/potigol/beecrowd/blob/master/src/2600/2632.poti)
-  - [x]  [2635](https://www.beecrowd.com.br/judge/pt/problems/view/2635) - [Navegador Web](https://github.com/potigol/beecrowd/blob/master/src/2600/2635.poti)
-  - [x]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/potigol/beecrowd/blob/master/src/2600/2653.poti)
-  - [x]  [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/potigol/beecrowd/blob/master/src/2600/2663.poti)
-  - [x]  [2670](https://www.beecrowd.com.br/judge/pt/problems/view/2670) - [Máquina de Café](https://github.com/potigol/beecrowd/blob/master/src/2600/2670.poti)
-  - [x]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - [A Mudança](https://github.com/potigol/beecrowd/blob/master/src/2600/2685.poti)
-  - [x]  [2686](https://www.beecrowd.com.br/judge/pt/problems/view/2686) - [A Mudança Continua!!](https://github.com/potigol/beecrowd/blob/master/src/2600/2686.poti)
-  - [x]  [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/potigol/beecrowd/blob/master/src/2700/2702.poti)
-  - [x]  [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/potigol/beecrowd/blob/master/src/2700/2708.poti)
-  - [x]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/potigol/beecrowd/blob/master/src/2700/2709.poti)
-  - [x]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - [Rodízio Veicular](https://github.com/potigol/beecrowd/blob/master/src/2700/2712.poti)
-  - [x]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - [Dividindo os Trabalhos I](https://github.com/potigol/beecrowd/blob/master/src/2700/2715.poti)
-  - [x]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/potigol/beecrowd/blob/master/src/2700/2717.poti)
-  - [x]  [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - [Luzes de Natal](https://github.com/potigol/beecrowd/blob/master/src/2700/2718.poti)
-  - [x]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/potigol/beecrowd/blob/master/src/2700/2721.poti)
-  - [x]  [2724](https://www.beecrowd.com.br/judge/pt/problems/view/2724) - [Ajude Patatatitu](https://github.com/potigol/beecrowd/blob/master/src/2700/2724.poti)
-  - [x]  [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - [Código Secreto](https://github.com/potigol/beecrowd/blob/master/src/2700/2727.poti)
-  - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/potigol/beecrowd/blob/master/src/2700/2747.poti)
-  - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/potigol/beecrowd/blob/master/src/2700/2748.poti)
-  - [x]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/potigol/beecrowd/blob/master/src/2700/2749.poti)
-  - [x]  [2750](https://www.beecrowd.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/potigol/beecrowd/blob/master/src/2700/2750.poti)
   - [x]  [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/potigol/beecrowd/blob/master/src/2700/2752.poti)
   - [x]  [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/potigol/beecrowd/blob/master/src/2700/2753.poti)
   - [x]  [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/potigol/beecrowd/blob/master/src/2700/2754.poti)
@@ -329,6 +301,32 @@
   - [ ]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - A Mensagem de Will
   - [ ]  [2533](https://www.beecrowd.com.br/judge/pt/problems/view/2533) - Estágio
   - [ ]  [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - Exame Geral  
+  - [ ]  [2542](https://www.beecrowd.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
+  - [ ]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - Jogatina UFPR
+  - [ ]  [2544](https://www.beecrowd.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu
+  - [ ]  [2547](https://www.beecrowd.com.br/judge/pt/problems/view/2547) - Montanha-Russa
+  - [ ]  [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - Novo Recorde
+  - [ ]  [2552](https://www.beecrowd.com.br/judge/pt/problems/view/2552) - PãodeQuejoSweeper
+  - [ ]  [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH  
+  - [ ]  [2626](https://www.beecrowd.com.br/judge/pt/problems/view/2626) - Turma do JB6
+  - [ ]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - Escala de Cinza
+  - [ ]  [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - Magic and Sword
+  - [ ]  [2635](https://www.beecrowd.com.br/judge/pt/problems/view/2635) - Navegador Web
+  - [ ]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - Dijkstra
+  - [ ]  [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - Fase
+  - [ ]  [2670](https://www.beecrowd.com.br/judge/pt/problems/view/2670) - Máquina de Café
+  - [ ]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - A Mudança
+  - [ ]  [2686](https://www.beecrowd.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
+  - [ ]  [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - Escolha Difícil
+  - [ ]  [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina
+  - [ ]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie
+  - [ ]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - Rodízio Veicular
+  - [ ]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
+  - [ ]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - Tempo do Duende
+  - [ ]  [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - Luzes de Natal
+  - [ ]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - Indecisão das Renas
+  - [ ]  [2724](https://www.beecrowd.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
+  - [ ]  [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - Código Secreto  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
