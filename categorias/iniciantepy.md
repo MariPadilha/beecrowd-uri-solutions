@@ -118,19 +118,13 @@
   - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2748.py)
   - [x]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2749.py)
   - [x]  [2750](https://www.beecrowd.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2750.py)
+  - [x]  [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2752.py)
+  - [x]  [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2753.py)
+  - [x]  [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2754.py)
+  - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2756.py)  
+  - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2759.py)  
+  - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.py)
   
-  - [x]  [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/potigol/beecrowd/blob/master/src/2700/2752.poti)
-  - [x]  [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/potigol/beecrowd/blob/master/src/2700/2753.poti)
-  - [x]  [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/potigol/beecrowd/blob/master/src/2700/2754.poti)
-  - [x]  [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/potigol/beecrowd/blob/master/src/2700/2755.poti)
-  - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/potigol/beecrowd/blob/master/src/2700/2756.poti)
-  - [x]  [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - [Entrada e Saída de Números Inteiros](https://github.com/potigol/beecrowd/blob/master/src/2700/2757.poti)
-  - [x]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - [Entrada e Saída de Números Reais](https://github.com/potigol/beecrowd/blob/master/src/2700/2758.poti)
-  - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/potigol/beecrowd/blob/master/src/2700/2759.poti)
-  - [x]  [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - [Entrada e Saída de String](https://github.com/potigol/beecrowd/blob/master/src/2700/2760.poti)
-  - [x]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - [Entrada e Saída de Vários Tipos](https://github.com/potigol/beecrowd/blob/master/src/2700/2761.poti)
-  - [x]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - [Entrada e Saída 6](https://github.com/potigol/beecrowd/blob/master/src/2700/2762.poti)
-  - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/potigol/beecrowd/blob/master/src/2700/2763.poti)
   - [x]  [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/beecrowd/blob/master/src/2700/2764.poti)
   - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/beecrowd/blob/master/src/2700/2765.poti)
   - [x]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/beecrowd/blob/master/src/2700/2766.poti)
@@ -327,6 +321,12 @@
   - [ ]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - Indecisão das Renas
   - [ ]  [2724](https://www.beecrowd.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ]  [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - Código Secreto  
+  - [ ]  [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - Saída 9  
+  - [ ]  [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - Entrada e Saída de Números Inteiros
+  - [ ]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais  
+  - [ ]  [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - Entrada e Saída de String
+  - [ ]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
+  - [ ]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
