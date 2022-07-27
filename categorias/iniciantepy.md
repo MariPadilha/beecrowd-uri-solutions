@@ -123,41 +123,15 @@
   - [x]  [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2754.py)
   - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2756.py)  
   - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2759.py)  
-  - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.py)
+  - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.py)  
+  - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2765.py)  
+  - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.py)  
+  - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.py)  
+  - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.py)  
+  - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2861.py)
+  - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2862.py)
+  - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2936.py)
   
-  - [x]  [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - [Entrada e Saída de Data](https://github.com/potigol/beecrowd/blob/master/src/2700/2764.poti)
-  - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/potigol/beecrowd/blob/master/src/2700/2765.poti)
-  - [x]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/potigol/beecrowd/blob/master/src/2700/2766.poti)
-  - [x]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - [Tamanho da Placa](https://github.com/potigol/beecrowd/blob/master/src/2700/2770.poti)
-  - [x]  [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - [Precisão do Sensor](https://github.com/potigol/beecrowd/blob/master/src/2700/2774.poti)
-  - [x]  [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - [Preparando a Produção](https://github.com/potigol/beecrowd/blob/master/src/2700/2775.poti)
-  - [x]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/potigol/beecrowd/blob/master/src/2700/2779.poti)
-  - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/potigol/beecrowd/blob/master/src/2700/2780.poti)
-  - [x]  [2782](https://www.beecrowd.com.br/judge/pt/problems/view/2782) - [Escadinha](https://github.com/potigol/beecrowd/blob/master/src/2700/2782.poti)
-  - [x]  [2783](https://www.beecrowd.com.br/judge/pt/problems/view/2783) - [Figurinhas da Copa](https://github.com/potigol/beecrowd/blob/master/src/2700/2783.poti)
-  - [x]  [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - [Pirâmide](https://github.com/potigol/beecrowd/blob/master/src/2700/2785.poti)
-  - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/potigol/beecrowd/blob/master/src/2700/2786.poti)
-  - [x]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/potigol/beecrowd/blob/master/src/2700/2787.poti)
-  - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/potigol/beecrowd/blob/master/src/2700/2791.poti)
-  - [x]  [2802](https://www.beecrowd.com.br/judge/pt/problems/view/2802) - [Dividindo Círculos](https://github.com/potigol/beecrowd/blob/master/src/2800/2802.poti)
-  - [x]  [2807](https://www.beecrowd.com.br/judge/pt/problems/view/2807) - [Iccanobif](https://github.com/potigol/beecrowd/blob/master/src/2800/2807.poti)
-  - [x]  [2808](https://www.beecrowd.com.br/judge/pt/problems/view/2808) - [Mais Cavalos](https://github.com/potigol/beecrowd/blob/master/src/2800/2808.poti)
-  - [x]  [2812](https://www.beecrowd.com.br/judge/pt/problems/view/2812) - [Laércio](https://github.com/potigol/beecrowd/blob/master/src/2800/2812.poti)
-  - [x]  [2813](https://www.beecrowd.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/potigol/beecrowd/blob/master/src/2800/2813.poti)
-  - [x]  [2823](https://www.beecrowd.com.br/judge/pt/problems/view/2823) - [Eearliest Deadline First](https://github.com/potigol/beecrowd/blob/master/src/2800/2823.poti)
-  - [x]  [2826](https://www.beecrowd.com.br/judge/pt/problems/view/2826) - [Léxico](https://github.com/potigol/beecrowd/blob/master/src/2800/2826.poti)
-  - [x]  [2845](https://www.beecrowd.com.br/judge/pt/problems/view/2845) - [Festa no Polo Norte](https://github.com/potigol/beecrowd/blob/master/src/2800/2845.poti)
-  - [x]  [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - [Fibonot](https://github.com/potigol/beecrowd/blob/master/src/2800/2846.poti)
-  - [x]  [2850](https://www.beecrowd.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/potigol/beecrowd/blob/master/src/2800/2850.poti)
-  - [x]  [2852](https://www.beecrowd.com.br/judge/pt/problems/view/2852) - [Troca de Mensagens](https://github.com/potigol/beecrowd/blob/master/src/2800/2852.poti)
-  - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/potigol/beecrowd/blob/master/src/2800/2861.poti)
-  - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/potigol/beecrowd/blob/master/src/2800/2862.poti)
-  - [x]  [2863](https://www.beecrowd.com.br/judge/pt/problems/view/2863) - [Umil Bolt](https://github.com/potigol/beecrowd/blob/master/src/2800/2863.poti)
-  - [x]  [2867](https://www.beecrowd.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/potigol/beecrowd/blob/master/src/2800/2867.poti)
-  - [x]  [2879](https://www.beecrowd.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/potigol/beecrowd/blob/master/src/2800/2879.poti)
-  - [x]  [2896](https://www.beecrowd.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/potigol/beecrowd/blob/master/src/2800/2896.poti)
-  - [x]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - [TCC da Depressão Natalino](https://github.com/potigol/beecrowd/blob/master/src/2900/2930.poti)
-  - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/potigol/beecrowd/blob/master/src/2900/2936.poti)
   - [x]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/potigol/beecrowd/blob/master/src/2900/2949.poti)
   - [x]  [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/potigol/beecrowd/blob/master/src/2900/2950.poti)
   - [x]  [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - [O Retorno do Rei](https://github.com/potigol/beecrowd/blob/master/src/2900/2951.poti)
@@ -327,7 +301,33 @@
   - [ ]  [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - Entrada e Saída de String
   - [ ]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
   - [ ]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6  
+  - [ ]  [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data  
+  - [ ]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
+  - [ ]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
+  - [ ]  [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - Precisão do Sensor
+  - [ ]  [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - Preparando a Produção
+  - [ ]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - Álbum da Copa  
+  - [ ]  [2782](https://www.beecrowd.com.br/judge/pt/problems/view/2782) - Escadinha
+  - [ ]  [2783](https://www.beecrowd.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa
+  - [ ]  [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - Pirâmide  
+  - [ ]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - Xadrez  
+  - [ ]  [2802](https://www.beecrowd.com.br/judge/pt/problems/view/2802) - Dividindo Círculos
+  - [ ]  [2807](https://www.beecrowd.com.br/judge/pt/problems/view/2807) - Iccanobif
+  - [ ]  [2808](https://www.beecrowd.com.br/judge/pt/problems/view/2808) - Mais Cavalos
+  - [ ]  [2812](https://www.beecrowd.com.br/judge/pt/problems/view/2812) - Laércio
+  - [ ]  [2813](https://www.beecrowd.com.br/judge/pt/problems/view/2813) - Evitando Chuva
+  - [ ]  [2823](https://www.beecrowd.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
+  - [ ]  [2826](https://www.beecrowd.com.br/judge/pt/problems/view/2826) - Léxico
+  - [ ]  [2845](https://www.beecrowd.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte
+  - [ ]  [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - Fibonot
+  - [ ]  [2850](https://www.beecrowd.com.br/judge/pt/problems/view/2850) - Papagaio Poliglota
+  - [ ]  [2852](https://www.beecrowd.com.br/judge/pt/problems/view/2852) - Troca de Mensagens  
+  - [ ]  [2863](https://www.beecrowd.com.br/judge/pt/problems/view/2863) - Umil Bolt
+  - [ ]  [2867](https://www.beecrowd.com.br/judge/pt/problems/view/2867) - Dígitos
+  - [ ]  [2879](https://www.beecrowd.com.br/judge/pt/problems/view/2879) - Desvendando Monty Hall
+  - [ ]  [2896](https://www.beecrowd.com.br/judge/pt/problems/view/2896) - Aproveite a Oferta
+  - [ ]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - Chuva Caindo
   - [ ]  [3229](https://www.beecrowd.com.br/judge/pt/problems/view/3229) - Resenhas de Comida
