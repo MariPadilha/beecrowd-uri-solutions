@@ -1,4 +1,4 @@
-# Ad-Hoc (11 / 745)
+# Ad-Hoc (12 / 745)
 
 
 
@@ -7,6 +7,7 @@
   - [x]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1216.py)  
   - [x]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - [Getline Two - Frutas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1217.py)
   - [x]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - [Getline Three - Calçados](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1218.py) 
+  - [x]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1285.py)   
   - [x]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1329.py)    
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
@@ -57,7 +58,6 @@
   - [ ]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - Tornado!  
   - [ ]  [1267](https://www.beecrowd.com.br/judge/pt/problems/view/1267) - Biblioteca Pascal
   - [ ]  [1271](https://www.beecrowd.com.br/judge/pt/problems/view/1271) - Onde estão meus Genes
-  - [ ]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - Dígitos Diferentes  
   - [ ]  [1290](https://www.beecrowd.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais
   - [ ]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - Horas e Minutos  
   - [ ]  [1311](https://www.beecrowd.com.br/judge/pt/problems/view/1311) - Companheiros de Exército
