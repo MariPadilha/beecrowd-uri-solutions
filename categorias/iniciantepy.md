@@ -146,15 +146,10 @@
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3170.py) 
   - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3224.py)
   - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3299.py)
-  
-  - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/potigol/beecrowd/blob/master/src/3300/3301.poti)
-  - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/potigol/beecrowd/blob/master/src/3300/3302.poti)
-  - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/potigol/beecrowd/blob/master/src/3300/3303.poti)
-  - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/potigol/beecrowd/blob/master/src/3300/3342.poti)
-  - [x]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini](https://github.com/potigol/beecrowd/blob/master/src/3300/3343.poti)
-  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/potigol/beecrowd/blob/master/src/3300/3344.poti)
-  - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/potigol/beecrowd/blob/master/src/3300/3346.poti)
-  - [x]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Jogo das Aranhas](https://github.com/potigol/beecrowd/blob/master/src/3300/3348.poti)
+  - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3301.py)
+  - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3302.py)
+  - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3303.py)
+  - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3342.py)
 
 ## Problemas não resolvidos
 
@@ -339,3 +334,7 @@
   - [ ]  [3256](https://www.beecrowd.com.br/judge/pt/problems/view/3256) - Divisão Inimiga
   - [ ]  [3258](https://www.beecrowd.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.beecrowd.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
+  - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
+  - [ ]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - Brute
+  - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB
+  - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas  
