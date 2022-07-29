@@ -1,4 +1,4 @@
-# Ad-Hoc (10 / 745)
+# Ad-Hoc (11 / 745)
 
 
 
@@ -7,6 +7,7 @@
   - [x]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1216.py)  
   - [x]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - [Getline Two - Frutas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1217.py)
   - [x]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - [Getline Three - Calçados](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1218.py) 
+  - [x]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1329.py)    
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
@@ -64,7 +65,6 @@
   - [ ]  [1320](https://www.beecrowd.com.br/judge/pt/problems/view/1320) - Metrô Engenhoso
   - [ ]  [1321](https://www.beecrowd.com.br/judge/pt/problems/view/1321) - Jollo
   - [ ]  [1327](https://www.beecrowd.com.br/judge/pt/problems/view/1327) - Drop Out
-  - [ ]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - Cara ou Coroa  
   - [ ]  [1331](https://www.beecrowd.com.br/judge/pt/problems/view/1331) - Blocos
   - [ ]  [1333](https://www.beecrowd.com.br/judge/pt/problems/view/1333) - Os Doces de Candy
   - [ ]  [1337](https://www.beecrowd.com.br/judge/pt/problems/view/1337) - Poker do Rei
