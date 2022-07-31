@@ -1,4 +1,4 @@
-# Ad-Hoc (13 / 745)
+# Ad-Hoc (14 / 745)
 
 
 
@@ -11,6 +11,7 @@
   - [x]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1329.py)    
   - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1387.py)  
   - [x]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1437.py)  
+  - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1467.js)    
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
@@ -106,7 +107,6 @@
   - [ ]  [1443](https://www.beecrowd.com.br/judge/pt/problems/view/1443) - Engarrafamento
   - [ ]  [1459](https://www.beecrowd.com.br/judge/pt/problems/view/1459) - Foco
   - [ ]  [1460](https://www.beecrowd.com.br/judge/pt/problems/view/1460) - Parreiral
-  - [ ]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - Zerinho ou Um  
   - [ ]  [1470](https://www.beecrowd.com.br/judge/pt/problems/view/1470) - Máquina Dobradora
   - [ ]  [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) - Mergulho  
   - [ ]  [1472](https://www.beecrowd.com.br/judge/pt/problems/view/1472) - Triângulos
