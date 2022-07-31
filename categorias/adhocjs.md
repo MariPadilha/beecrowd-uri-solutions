@@ -1,9 +1,10 @@
-# Ad-Hoc (3 / 745)
+# Ad-Hoc (4 / 745)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1387.js)  
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.js)
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.js)    
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.js)  
@@ -81,7 +82,6 @@
   - [ ]  [1375](https://www.beecrowd.com.br/judge/pt/problems/view/1375) - Painel de Posições
   - [ ]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - Problema com Mediana e Média  
   - [ ]  [1383](https://www.beecrowd.com.br/judge/pt/problems/view/1383) - Sudoku  
-  - [ ]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - Og  
   - [ ]  [1397](https://www.beecrowd.com.br/judge/pt/problems/view/1397) - Jogo do Maior  
   - [ ]  [1403](https://www.beecrowd.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso
   - [ ]  [1404](https://www.beecrowd.com.br/judge/pt/problems/view/1404) - MegaDamas
