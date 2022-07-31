@@ -1,4 +1,4 @@
-# Ad-Hoc (15 / 745)
+# Ad-Hoc (16 / 745)
 
 
 
@@ -12,7 +12,8 @@
   - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1387.py)  
   - [x]  [1397](https://www.beecrowd.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1397.py)    
   - [x]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1437.py)  
-  - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1467.js)    
+  - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1467.py)    
+  - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1515.py)    
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
@@ -117,7 +118,6 @@
   - [ ]  [1496](https://www.beecrowd.com.br/judge/pt/problems/view/1496) - Suba os &quot;Ultras&quot;
   - [ ]  [1508](https://www.beecrowd.com.br/judge/pt/problems/view/1508) - Raio Laser
   - [ ]  [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - Competição
-  - [ ]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - Hello Galaxy  
   - [ ]  [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - Tartarugas
   - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado  
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
