@@ -5,6 +5,7 @@
 ## Problemas resolvidos
 
   - [x]  [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1171.py)    
+  - [x]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1192.py)
   - [x]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1216.py)  
   - [x]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - [Getline Two - Frutas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1217.py)
   - [x]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - [Getline Three - Calçados](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1218.py) 
@@ -51,7 +52,6 @@
   - [ ]  [1139](https://www.beecrowd.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
   - [ ]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - Flores Florescem da França  
   - [ ]  [1147](https://www.beecrowd.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
-  - [ ]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula  
   - [ ]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - WERTYU  
   - [ ]  [1206](https://www.beecrowd.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ]  [1209](https://www.beecrowd.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
