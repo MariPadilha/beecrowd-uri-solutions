@@ -1,4 +1,4 @@
-# Ad-Hoc (20 / 745)
+# Ad-Hoc (21 / 745)
 
 
 
@@ -24,6 +24,7 @@
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
+  - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3315.py)  
 
 ## Problemas não resolvidos
 
@@ -737,7 +738,6 @@
   - [ ]  [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - Bispos Dominantes
   - [ ]  [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - Decora o Rolê! 
   - [ ]  [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - Felizes são estes Números
-  - [ ]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - Língua do Computador  
   - [ ]  [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - Clickbait
   - [ ]  [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - Pinhões no Xadrez
   - [ ]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - Ancient Towers
