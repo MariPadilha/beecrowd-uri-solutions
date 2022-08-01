@@ -1,9 +1,10 @@
-# Ad-Hoc (6 / 745)
+# Ad-Hoc (7 / 745)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1192.js)  
   - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1387.js)  
   - [x]  [1397](https://www.beecrowd.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1397.js)   
   - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1467.js)  
@@ -40,7 +41,6 @@
   - [ ]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - Flores Florescem da França  
   - [ ]  [1147](https://www.beecrowd.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
   - [ ]  [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - Frequência de Números  
-  - [ ]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - O jogo Matemático de Paula  
   - [ ]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - WERTYU  
   - [ ]  [1206](https://www.beecrowd.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
   - [ ]  [1209](https://www.beecrowd.com.br/judge/pt/problems/view/1209) - Festas de São Petersburgo
