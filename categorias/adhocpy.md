@@ -1,4 +1,4 @@
-# Ad-Hoc (18 / 745)
+# Ad-Hoc (19 / 745)
 
 
 
@@ -16,6 +16,7 @@
   - [x]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1437.py)  
   - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1467.py)    
   - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1515.py)    
+  - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1533.py)    
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
@@ -122,7 +123,6 @@
   - [ ]  [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - O Culpado  
   - [ ]  [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - Cordas Emaranhadas
   - [ ]  [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - Arremesso de Bolas
-  - [ ]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - Detetive Watson  
   - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores  
   - [ ]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - Planejando a Energia
   - [ ]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - Lendo Livros
