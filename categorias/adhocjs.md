@@ -1,4 +1,4 @@
-# Ad-Hoc (7 / 745)
+# Ad-Hoc (8 / 745)
 
 
 
@@ -11,6 +11,7 @@
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.js)
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.js)    
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.js)  
+  - [x]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3126.js)  
 
 ## Problemas não resolvidos
 
@@ -698,7 +699,6 @@
   - [ ]  [3122](https://www.beecrowd.com.br/judge/pt/problems/view/3122) - Festa de Final de Ano
   - [ ]  [3123](https://www.beecrowd.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis
   - [ ]  [3125](https://www.beecrowd.com.br/judge/pt/problems/view/3125) - Princesa das Equações
-  - [ ]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - Lista de Treinamento  
   - [ ]  [3127](https://www.beecrowd.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão
   - [ ]  [3128](https://www.beecrowd.com.br/judge/pt/problems/view/3128) - Regras do Cinema
   - [ ]  [3129](https://www.beecrowd.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas
