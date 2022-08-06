@@ -1,4 +1,4 @@
-# Ad-Hoc (25 / 745)
+# Ad-Hoc (26 / 745)
 
 
 
@@ -24,6 +24,7 @@
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
+  - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2926.py)  
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 2.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3092.py)  
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3093.py)  
   - [x]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3106.py)  
@@ -623,7 +624,6 @@
   - [ ]  [2923](https://www.beecrowd.com.br/judge/pt/problems/view/2923) - Birinho
   - [ ]  [2924](https://www.beecrowd.com.br/judge/pt/problems/view/2924) - BigInt
   - [ ]  [2925](https://www.beecrowd.com.br/judge/pt/problems/view/2925) - Sequência IccanobiF
-  - [ ]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - Então é Natal! 
   - [ ]  [2927](https://www.beecrowd.com.br/judge/pt/problems/view/2927) - Imprevistos Natalinos
   - [ ]  [2928](https://www.beecrowd.com.br/judge/pt/problems/view/2928) - Cruzando Lagos 
   - [ ]  [2931](https://www.beecrowd.com.br/judge/pt/problems/view/2931) - Presentes Suspeitos
