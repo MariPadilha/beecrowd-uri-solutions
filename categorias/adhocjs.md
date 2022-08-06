@@ -1,4 +1,4 @@
-# Ad-Hoc (8 / 745)
+# Ad-Hoc (9 / 745)
 
 
 
@@ -11,6 +11,7 @@
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.js)
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.js)    
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.js)  
+  - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3093.js)  
   - [x]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3126.js)  
 
 ## Problemas não resolvidos
@@ -685,7 +686,6 @@
   - [ ]  [3087](https://www.beecrowd.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
   - [ ]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - Campo de Batalha  
   - [ ]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3092) - Truco da Galera 2.0
-  - [ ]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0
   - [ ]  [3094](https://www.beecrowd.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0  
   - [ ]  [3105](https://www.beecrowd.com.br/judge/pt/problems/view/3105) - Dobrando Papel
   - [ ]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - Competição de Códigos  
