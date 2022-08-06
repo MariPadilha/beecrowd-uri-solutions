@@ -1,0 +1,5 @@
+n = int(input())
+print('Ent',end='a'*n)
+print('o eh N',end='a'*n)
+print('t',end='a'*n)
+print('l!')
