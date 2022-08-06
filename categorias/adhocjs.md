@@ -1,4 +1,4 @@
-# Ad-Hoc (10 / 745)
+# Ad-Hoc (11 / 745)
 
 
 
@@ -13,6 +13,7 @@
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.js) 
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 2.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3092.py)     
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3093.js)  
+  - [x]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3106.js)    
   - [x]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3126.js)  
 
 ## Problemas não resolvidos
@@ -688,7 +689,6 @@
   - [ ]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - Campo de Batalha  
   - [ ]  [3094](https://www.beecrowd.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0  
   - [ ]  [3105](https://www.beecrowd.com.br/judge/pt/problems/view/3105) - Dobrando Papel
-  - [ ]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - Competição de Códigos  
   - [ ]  [3109](https://www.beecrowd.com.br/judge/pt/problems/view/3109) - Trocando de Mesa  
   - [ ]  [3111](https://www.beecrowd.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
   - [ ]  [3112](https://www.beecrowd.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua
