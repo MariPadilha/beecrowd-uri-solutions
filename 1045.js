@@ -26,3 +26,4 @@ if (a >= b + c) {
     }
 }
 //nao fui eu que resolvi
+//créditos a: https://github.com/CuuKiii/uri-online-judge-BeeCrowd
