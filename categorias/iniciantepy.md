@@ -1,4 +1,4 @@
-# Iniciante (146 / 335)
+# Iniciante (147 / 335)
 
 
 
@@ -69,6 +69,7 @@
   - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1113.py)
   - [x]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1114.py)
   - [x]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1115.py) 
+  - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1116.py)  
   - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1117.py)
   - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1131.py)
   - [x]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1132.py)
@@ -153,7 +154,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y  
   - [ ]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação  
   - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
