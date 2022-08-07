@@ -1,4 +1,4 @@
-# Iniciante (113 / 335)
+# Iniciante (114 / 335)
 
 
 
@@ -34,6 +34,7 @@
   - [x]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1041.js)
   - [x]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1043.js)
   - [x]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1044.js)
+  - [x]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1045.js)  
   - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1046.js)
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1047.js)
   - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1048.js)
@@ -121,7 +122,6 @@
 ## Problemas não resolvidos
 
   - [ ]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - Sort Simples
-  - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma  
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y  
   - [ ]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
