@@ -1,7 +1,6 @@
 x = input().split(' ')
 lista = [float(x[0])];lista+=[float(x[1])];lista+=[float(x[2])]
-a = max(lista); c = min(lista)
-lista.remove(max(lista));lista.remove(min(lista)); b = lista[0]
+lista.sort(); a=lista[2];b = lista[1]; c=lista[0]
 sinal = 0
 if a >= b+c:
     print('NAO FORMA TRIANGULO')
