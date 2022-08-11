@@ -1,5 +1,3 @@
-A = int(input())
-B = int(input())
-soma = A + B
-print(f'SOMA = {soma}')
+A = int(input()); B = int(input())
+print(f'SOMA = {A + B}\n')
 print(end='')
