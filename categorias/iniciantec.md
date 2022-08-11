@@ -4,141 +4,137 @@
 
 ## Problemas resolvidos
 
+  - [ ]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - Saída 1
+  - [ ]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - Saída 2
+  - [ ]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - Saída 3
+  - [ ]  [2750](https://www.beecrowd.com.br/judge/pt/problems/view/2750) - Saída 4
+  - [ ]  [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - Saída 6
+  - [ ]  [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - Saída 7
+  - [ ]  [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - Saída 8
+  - [ ]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - Saída 10
+  - [ ]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - Entrada e Saída de Carácter
+  - [ ]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - Entrada e Saída CPF
+  - [ ]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - Basquete de Robôs
+  - [ ]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - Piso da Escola
+  - [ ]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - Feijão
+  - [ ]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - A Saída
+  - [ ]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - Inseto!
+  - [ ]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - Quanta Mandioca?
+  - [ ]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - A Sociedade do Anel
+  - [ ]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - Balão de Honra
+  - [ ]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - Jogando Dardos Por Distância
+  - [ ]  [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - Brinquedos do Papai Noel
+  - [ ]  [3046](https://www.beecrowd.com.br/judge/pt/problems/view/3046) - Dominó
+  - [ ]  [3047](https://www.beecrowd.com.br/judge/pt/problems/view/3047) - A idade de Dona Mônica
+  - [ ]  [3055](https://www.beecrowd.com.br/judge/pt/problems/view/3055) - Nota Esquecida
+  - [ ]  [3091](https://www.beecrowd.com.br/judge/pt/problems/view/3091) - Resto 1.0
+  - [ ]  [3145](https://www.beecrowd.com.br/judge/pt/problems/view/3145) - Uma Jornada Inesperada
+  - [ ]  [3146](https://www.beecrowd.com.br/judge/pt/problems/view/3146) - Charadas no Escuro
+  - [ ]  [3147](https://www.beecrowd.com.br/judge/pt/problems/view/3147) - A Batalha dos Cinco Exércitos
+  - [ ]  [3157](https://www.beecrowd.com.br/judge/pt/problems/view/3157) - Viva a Ciência!
+  - [ ]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - Bolinhas de Natal
+  - [ ]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - Aaah!
+  - [ ]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - Números Má Sorte Pequenos
+  - [ ]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - Sobrinho do Meio
+  - [ ]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - Resposta Certa
+  - [ ]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - Palavrão
+  - [ ]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - Keanu
+
+## Problemas não resolvidos
+
   - [ ]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - Hello World!
   - [ ]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - Extremamente Básico
   - [ ]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - Área do Círculo
   - [ ]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - Soma Simples
   - [ ]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - Produto Simples
-  - [x]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - Média 1
-  - [x]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - Média 2
-  - [x]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - Diferença
-  - [x]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - Salário
-  - [x]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - Salário com Bônus
-  - [x]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - Cálculo Simples
-  - [x]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - Esfera
-  - [x]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - Área
-  - [x]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - O Maior
-  - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - Consumo
-  - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - Distância Entre Dois Pontos
-  - [x]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - Distância
-  - [x]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - Gasto de Combustível
-  - [x]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - Cédulas
-  - [x]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo
-  - [x]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
-  - [x]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
-  - [x]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - Teste de Seleção 1
-  - [x]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
-  - [x]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - Intervalo
-  - [x]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - Lanche
-  - [x]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - Média 3
-  - [x]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
-  - [x]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - Sort Simples
-  - [x]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - Triângulo
-  - [x]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - Múltiplos
-  - [x]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
-  - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - Tempo de Jogo
-  - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
-  - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - Aumento de Salário
-  - [x]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - Animal
-  - [x]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - DDD
-  - [x]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - Imposto de Renda
-  - [x]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - Mês
-  - [x]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - Números Pares
-  - [x]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - Números Positivos
-  - [x]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
-  - [x]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - Positivos e Média
-  - [x]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - Pares entre Cinco Números
-  - [x]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - Pares, Ímpares, Positivos e Negativos
-  - [x]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - Números Ímpares
-  - [x]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares
-  - [x]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1071.js)
-  - [x]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Intervalo 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1072.js)
-  - [x]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1073.js)
-  - [x]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1074.js)
-  - [x]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Resto 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1075.js)
-  - [x]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1078.js)
-  - [x]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1079.js) 
-  - [x]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1080.js)
-  - [x]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1094.js)
-  - [x]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1095.js)
-  - [x]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1096.js)
-  - [x]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1097.js)
-  - [x]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1098.js)
-  - [x]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1099.js)
-  - [x]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1101.js)    
-  - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1113.js)
-  - [x]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1114.js)  
-  - [x]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1115.js)
-  - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1116.js)  
-  - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1117.js)
-  - [x]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1133.js)
-  - [x]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1134.js)
-  - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1142.js)
-  - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1143.js)
-  - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1144.js)
-  - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1153.js)
-  - [x]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1154.js)
-  - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1155.js)
-  - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
-  - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
-  - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.js)
-  - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.js)  
-  - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.js)
-  - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.js)
-  - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2582.js)
-  - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2747.js)
-  - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2748.js)
-  - [x]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2749.js)
-  - [x]  [2750](https://www.beecrowd.com.br/judge/pt/problems/view/2750) - [Saída 4](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2750.js)
-  - [x]  [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2752.js)
-  - [x]  [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2753.js)
-  - [x]  [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2754.js)
-  - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2756.js)
-  - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2759.js)  
-  - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.js) 
-  - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.js)
-  - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.js)  
-  - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.js)
-  - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2861.js)
-  - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2862.js)  
-  - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2936.js)
-  - [x]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2949.js)
-  - [x]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2987.js)
-  - [x]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3037.js)
-  - [x]  [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3039.js)  
-  - [x]  [3046](https://www.beecrowd.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3046.js)
-  - [x]  [3047](https://www.beecrowd.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3047.js)  
-  - [x]  [3055](https://www.beecrowd.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3055.js)  
-  - [x]  [3091](https://www.beecrowd.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3091.js)  
-  - [x]  [3145](https://www.beecrowd.com.br/judge/pt/problems/view/3145) - [Uma Jornada Inesperada](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3145.js)
-  - [x]  [3146](https://www.beecrowd.com.br/judge/pt/problems/view/3146) - [Charadas no Escuro](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3146.js)
-  - [x]  [3147](https://www.beecrowd.com.br/judge/pt/problems/view/3147) - [A Batalha dos Cinco Exércitos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3147.js)
-  - [x]  [3157](https://www.beecrowd.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3157.js)
-  - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3170.js)  
-  - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3224.js)
-  - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3299.js)
-  - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3301.js)
-  - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3302.js)
-  - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3303.js)
-  - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3342.js)
-
-## Problemas não resolvidos
-
+  - [ ]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - Média 1
+  - [ ]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - Média 2
+  - [ ]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - Diferença
+  - [ ]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - Salário
+  - [ ]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - Salário com Bônus
+  - [ ]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - Cálculo Simples
+  - [ ]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - Esfera
+  - [ ]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - Área
+  - [ ]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - O Maior
+  - [ ]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - Consumo
+  - [ ]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - Distância Entre Dois Pontos
+  - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - Distância
+  - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - Gasto de Combustível
+  - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - Cédulas
+  - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo
+  - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
+  - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
+  - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - Teste de Seleção 1
+  - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
+  - [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - Intervalo
+  - [ ]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - Lanche
+  - [ ]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - Média 3
+  - [ ]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
+  - [ ]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - Sort Simples
+  - [ ]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - Triângulo
+  - [ ]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - Múltiplos
+  - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
+  - [ ]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - Tempo de Jogo
+  - [ ]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
+  - [ ]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - Aumento de Salário
+  - [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - Animal
+  - [ ]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - DDD
+  - [ ]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - Imposto de Renda
+  - [ ]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - Mês
+  - [ ]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - Números Pares
+  - [ ]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - Números Positivos
+  - [ ]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
+  - [ ]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - Positivos e Média
+  - [ ]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - Pares entre Cinco Números
+  - [ ]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - Pares, Ímpares, Positivos e Negativos
+  - [ ]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - Números Ímpares
+  - [ ]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - Seis Números Ímpares
+  - [ ]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - Soma de Impares Consecutivos I
+  - [ ]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - Intervalo 2
+  - [ ]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - Quadrado de Pares
+  - [ ]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - Par ou Ímpar
+  - [ ]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - Resto 2
+  - [ ]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - Tabuada
+  - [ ]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - Médias Ponderadas
+  - [ ]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - Maior e Posição
+  - [ ]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - Experiências
+  - [ ]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - Sequencia IJ 1
+  - [ ]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - Sequencia IJ 2
+  - [ ]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - Sequencia IJ 3
+  - [ ]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - Sequencia IJ 4
+  - [ ]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
+  - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
+  - [ ]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - Crescente e Decrescente
+  - [ ]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - Senha Fixa
+  - [ ]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - Quadrante
+  - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
+  - [ ]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - Validação de Nota  
   - [ ]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
   - [ ]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - Grenais  
   - [ ]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - Múltiplos de 13  
+  - [ ]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - Resto da Divisão
+  - [ ]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - Tipo de Combustível  
+  - [ ]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - PUM
+  - [ ]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo
+  - [ ]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - Sequência Lógica  
   - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
   - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
   - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
+  - [ ]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - Fatorial Simples
+  - [ ]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - Idades
+  - [ ]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - Sequência S  
+  - [ ]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - Fatorial Simples
+  - [ ]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - Idades
+  - [ ]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - Sequência S
   - [ ]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - Sequência S II
   - [ ]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - Divisores I  
   - [ ]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
   - [ ]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos
   - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional
   - [ ]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - Número Perfeito  
-  - [ ]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - Número Primo
+  - [ ]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - Número Primo  
   - [ ]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - Substituição em Vetor I
   - [ ]  [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - Preenchimento de Vetor I  
   - [ ]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - Seleçao em Vetor I
@@ -209,10 +205,12 @@
   - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - Galopeira
   - [ ]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
   - [ ]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos  
+  - [ ]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - Nome no Formulário  
   - [ ]  [2161](https://www.beecrowd.com.br/judge/pt/problems/view/2161) - Raiz Quadrada de 10
   - [ ]  [2162](https://www.beecrowd.com.br/judge/pt/problems/view/2162) - Picos e Vales
   - [ ]  [2163](https://www.beecrowd.com.br/judge/pt/problems/view/2163) - O Despertar da Força
   - [ ]  [2164](https://www.beecrowd.com.br/judge/pt/problems/view/2164) - Fibonacci Rápido  
+  - [ ]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - Tuitando 
   - [ ]  [2166](https://www.beecrowd.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2
   - [ ]  [2167](https://www.beecrowd.com.br/judge/pt/problems/view/2167) - Falha do Motor
   - [ ]  [2168](https://www.beecrowd.com.br/judge/pt/problems/view/2168) - Crepúsculo em Portland
@@ -222,13 +220,16 @@
   - [ ]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
   - [ ]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes
   - [ ]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - Andando no Tempo  
+  - [ ]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - Voleibol  
   - [ ]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo
   - [ ]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - Patinhos  
+  - [ ]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - Notas da Prova  
   - [ ]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - Feliz Nataaal!
   - [ ]  [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - C Mais ou Menos?
   - [ ]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ]  [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada  
+  - [ ]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - Batmain  
   - [ ]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
   - [ ]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - A Mensagem de Will
   - [ ]  [2533](https://www.beecrowd.com.br/judge/pt/problems/view/2533) - Estágio
@@ -241,6 +242,8 @@
   - [ ]  [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - Novo Recorde
   - [ ]  [2552](https://www.beecrowd.com.br/judge/pt/problems/view/2552) - PãodeQuejoSweeper
   - [ ]  [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH  
+  - [ ]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - I am Toorg!
+  - [ ]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - System of a Download  
   - [ ]  [2626](https://www.beecrowd.com.br/judge/pt/problems/view/2626) - Turma do JB6
   - [ ]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - Escala de Cinza
   - [ ]  [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - Magic and Sword
@@ -273,10 +276,10 @@
   - [ ]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
   - [ ]  [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - Precisão do Sensor
   - [ ]  [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - Preparando a Produção
-  - [ ]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - Álbum da Copa   
+  - [ ]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - Álbum da Copa     
   - [ ]  [2782](https://www.beecrowd.com.br/judge/pt/problems/view/2782) - Escadinha
   - [ ]  [2783](https://www.beecrowd.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa
-  - [ ]  [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - Pirâmide  
+  - [ ]  [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - Pirâmide    
   - [ ]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - Xadrez  
   - [ ]  [2802](https://www.beecrowd.com.br/judge/pt/problems/view/2802) - Dividindo Círculos
   - [ ]  [2807](https://www.beecrowd.com.br/judge/pt/problems/view/2807) - Iccanobif
