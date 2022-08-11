@@ -4,7 +4,7 @@
 
 ## Problemas resolvidos
 
-  - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!]()
+  - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1000.c)
 
 
 ## Problemas não resolvidos
