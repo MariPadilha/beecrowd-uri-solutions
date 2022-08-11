@@ -1,4 +1,2 @@
-n1 = int(input())
-n2 = int(input())
-soma = (n1+n2)
-print("X =", soma)
+n1 = int(input());n2 = int(input())
+print(f'X = {n1+n2}')
