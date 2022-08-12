@@ -1,4 +1,4 @@
-# Iniciante (8 / 335)
+# Iniciante (19 / 335)
 
 
 
@@ -12,21 +12,20 @@
   - [x]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1005.c)  
   - [x]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1006.c)  
   - [x]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - [Diferença](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1007.c)
-
+  - [x]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1008.c)
+  - [x]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1009.c)
+  - [x]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1010.c)
+  - [x]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1011.c)
+  - [x]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1012.c)
+  - [x]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1013.c)
+  - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1014.c)
+  - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1015.c)
+  - [x]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1016.c)
+  - [x]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1017.c)
+  - [x]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1018.c)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - Salário
-  - [ ]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - Salário com Bônus
-  - [ ]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - Cálculo Simples
-  - [ ]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - Esfera
-  - [ ]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - Área
-  - [ ]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - O Maior
-  - [ ]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - Consumo
-  - [ ]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - Distância Entre Dois Pontos
-  - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - Distância
-  - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - Gasto de Combustível
-  - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - Cédulas
   - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo
   - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
   - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
