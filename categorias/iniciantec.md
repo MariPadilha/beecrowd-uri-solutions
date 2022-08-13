@@ -1,4 +1,4 @@
-# Iniciante (19 / 335)
+# Iniciante (25 / 335)
 
 
 
@@ -23,15 +23,15 @@
   - [x]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1016.c)
   - [x]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1017.c)
   - [x]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1018.c)
+  - [x]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1019.c)
+  - [x]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1020.c)
+  - [x]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1021.c)
+  - [x]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1035.c)
+  - [x]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1036.c)
+  - [x]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1037.c)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo
-  - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
-  - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
-  - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - Teste de Seleção 1
-  - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
-  - [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - Intervalo
   - [ ]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - Lanche
   - [ ]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - Média 3
   - [ ]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
