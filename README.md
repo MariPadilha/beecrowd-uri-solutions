@@ -17,7 +17,7 @@ BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON E C👋
 
 ## 📖 INFO:
 
-  - Repositório destinado a colocar meus problemas resolvidos no <a href="https://www.beecrowd.com.br/judge/pt/">Beecrowd</a> utilizando JavaScript e Python.
+  - Repositório destinado a colocar meus problemas resolvidos no <a href="https://www.beecrowd.com.br/judge/pt/">Beecrowd</a> utilizando JavaScript, Python e C.
   
   - As outras branches, estão separadas por categorias para sua melhor experiência neste repositório.
 
