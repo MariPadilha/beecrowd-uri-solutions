@@ -25,6 +25,7 @@ BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT E PYTHON 👋
   <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mari-c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 <hr>
  
