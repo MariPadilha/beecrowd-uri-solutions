@@ -1,4 +1,4 @@
-# Iniciante (154 / 335)
+# Iniciante (155 / 335)
 
 
 
@@ -85,6 +85,7 @@
   - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1153.py)
   - [x]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1154.py)
   - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1155.py)
+  - [x]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - [Sequência S II](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1156.py)    
   - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1157.py)
   - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1158.py)  
   - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1159.py)  
@@ -163,7 +164,6 @@
 
   - [ ]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
   - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
-  - [ ]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - Sequência S II  
   - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional  
   - [ ]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - Número Primo
   - [ ]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - Seleçao em Vetor I  
