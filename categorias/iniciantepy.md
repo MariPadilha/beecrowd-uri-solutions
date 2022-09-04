@@ -1,4 +1,4 @@
-# Iniciante (155 / 335)
+# Iniciante (156 / 335)
 
 
 
@@ -90,8 +90,9 @@
   - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1158.py)  
   - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1159.py)  
   - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1164.py)
-  - [x]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1172.py)    
+  - [x]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1172.py)   
   - [x]  [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1173.py)
+  - [x]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1174.py)  
   - [x]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1175.py)
   - [x]  [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1177.py)
   - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1178.py)
@@ -166,7 +167,6 @@
   - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
   - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional  
   - [ ]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - Número Primo
-  - [ ]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - Seleçao em Vetor I  
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor  
   - [ ]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - Linha na Matriz
   - [ ]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
