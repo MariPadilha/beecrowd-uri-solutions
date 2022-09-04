@@ -1,4 +1,4 @@
-# Iniciante (151 / 335)
+# Iniciante (152 / 335)
 
 
 
@@ -87,6 +87,7 @@
   - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1155.py)
   - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1157.py)
   - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1164.py)
+  - [x]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1172.py)    
   - [x]  [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1173.py)
   - [x]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1175.py)
   - [x]  [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1177.py)
@@ -165,7 +166,6 @@
   - [ ]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos
   - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional  
   - [ ]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - Número Primo
-  - [ ]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - Substituição em Vetor I  
   - [ ]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - Seleçao em Vetor I  
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor  
   - [ ]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - Linha na Matriz
