@@ -1,4 +1,4 @@
-# Iniciante (161 / 335)
+# Iniciante (162 / 335)
 
 
 
@@ -91,6 +91,7 @@
   - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1157.py)
   - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1158.py)  
   - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1159.py)  
+  - [x]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1160.py)    
   - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1164.py)
   - [x]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1165.py)  
   - [x]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Substituição em Vetor I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1172.py)   
@@ -168,7 +169,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional  
   - [ ]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
   - [ ]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
   - [ ]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
