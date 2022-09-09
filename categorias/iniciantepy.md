@@ -1,4 +1,4 @@
-# Iniciante (160 / 335)
+# Iniciante (161 / 335)
 
 
 
@@ -102,6 +102,7 @@
   - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1178.py)
   - [x]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Preenchimento de Vetor IV](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1179.py)    
   - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1180.py)
+  - [x]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1181.py)  
   - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1564.py)
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.py)
   - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1759.py)
@@ -168,7 +169,6 @@
 ## Problemas não resolvidos
 
   - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional  
-  - [ ]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - Linha na Matriz
   - [ ]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
   - [ ]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
   - [ ]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
