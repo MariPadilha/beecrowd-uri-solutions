@@ -1,4 +1,4 @@
-# Iniciante (165 / 335)
+# Iniciante (166 / 335)
 
 
 
@@ -107,6 +107,7 @@
   - [x]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - [Coluna na Matriz](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1182.py)  
   - [x]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - [Acima da Diagonal Principal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1183.py)  
   - [x]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - [Abaixo da Diagonal Principal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1184.py)  
+  - [x]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - [Acima da Diagonal Secundária](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1185.py)  
   - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1564.py)
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.py)
   - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1759.py)
@@ -172,7 +173,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - Acima da Diagonal Secundária
   - [ ]  [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - Abaixo da Diagonal Secundária
   - [ ]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - Área Superior
   - [ ]  [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - Área Inferior
