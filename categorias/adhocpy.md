@@ -1,9 +1,10 @@
-# Ad-Hoc (27 / 745)
+# Ad-Hoc (28 / 745)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1129.py)
   - [x]  [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1171.py)    
   - [x]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1192.py)
   - [x]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1216.py)  
@@ -54,7 +55,6 @@
   - [ ]  [1122](https://www.beecrowd.com.br/judge/pt/problems/view/1122) - Livro-Caixa
   - [ ]  [1125](https://www.beecrowd.com.br/judge/pt/problems/view/1125) - Fórmula 1
   - [ ]  [1127](https://www.beecrowd.com.br/judge/pt/problems/view/1127) - Plágio Musical
-  - [ ]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - Leitura Ótica  
   - [ ]  [1130](https://www.beecrowd.com.br/judge/pt/problems/view/1130) - Jogo da Velha
   - [ ]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - Bingo!    
   - [ ]  [1139](https://www.beecrowd.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
