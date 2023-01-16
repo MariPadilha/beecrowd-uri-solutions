@@ -1,4 +1,4 @@
-# Iniciante (120 / 335)
+# Iniciante (121 / 335)
 
 
 
@@ -79,6 +79,7 @@
   - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1142.js)
   - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1143.js)
   - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1144.js)
+  - [x]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - [Ultrapassando Z](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1150.js)  
   - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1153.js)
   - [x]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1154.js)
   - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1155.js)
@@ -130,7 +131,6 @@
   - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
   - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
-  - [ ]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
   - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
   - [ ]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - Sequência S II
   - [ ]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - Divisores I  
