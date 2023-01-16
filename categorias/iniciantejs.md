@@ -1,4 +1,4 @@
-# Iniciante (118 / 335)
+# Iniciante (119 / 335)
 
 
 
@@ -72,6 +72,7 @@
   - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1116.js)  
   - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1117.js)
   - [x]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1118.js)  
+  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1131.js)    
   - [x]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1133.js)
   - [x]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1134.js)
   - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1142.js)
@@ -125,7 +126,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - Grenais  
   - [ ]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - Múltiplos de 13  
   - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
   - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
