@@ -1,4 +1,4 @@
-# Iniciante (176 / 335)
+# Iniciante (177 / 335)
 
 
 
@@ -122,6 +122,7 @@
   - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1866.py)
   - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1914.py)
   - [x]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1924.py)  
+  - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1933.py)  
   - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1984.py)
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1985.py)
   - [x]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2006.py)
@@ -196,7 +197,6 @@
   - [ ]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão  
   - [ ]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - Triângulo
   - [ ]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - Tomadas
-  - [ ]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - Tri-du
   - [ ]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal
   - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - Notação Científica
   - [ ]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - Polígonos Regulares Simples
