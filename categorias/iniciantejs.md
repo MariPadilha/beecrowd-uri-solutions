@@ -1,4 +1,4 @@
-# Iniciante (125 / 335)
+# Iniciante (126 / 335)
 
 
 
@@ -87,6 +87,7 @@
   - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1157.js)    
   - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1158.js)  
   - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1159.js)  
+  - [x]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1160.js)  
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
   - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.js)
@@ -136,7 +137,6 @@
   - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
-  - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional
   - [ ]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - Número Perfeito  
   - [ ]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - Número Primo
   - [ ]  [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - Substituição em Vetor I
