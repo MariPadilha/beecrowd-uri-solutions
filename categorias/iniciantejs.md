@@ -171,14 +171,16 @@
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
   - [ ]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - Bazinga!  
   - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - Prefácio
-  
-  
-  
-  
-  
   - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
   - [ ]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - A Resposta de Theon
   - [ ]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão
+  
+  
+  
+  
+  
+  
+  
   - [ ]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - Mjölnir  
   - [ ]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - Conta
   - [ ]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - De Quem é a Vez?
