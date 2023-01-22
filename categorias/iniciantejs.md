@@ -1,4 +1,4 @@
-# Iniciante (139 / 335)
+# Iniciante (142 / 335)
 
 
 
@@ -101,6 +101,9 @@
   - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1180.js)  
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.js)  
   - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1847.js)  
+  - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1865.js)    
+  - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1866.js)  
+  - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1914.js)  
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
   - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.js)
@@ -181,9 +184,6 @@
   
   
   
-  - [ ]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - Mjölnir  
-  - [ ]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - Conta
-  - [ ]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - De Quem é a Vez?
   - [ ]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão
   - [ ]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - Triângulo
   - [ ]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - Tomadas
