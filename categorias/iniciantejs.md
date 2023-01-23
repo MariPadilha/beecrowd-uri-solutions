@@ -1,4 +1,4 @@
-# Iniciante (142 / 335)
+# Iniciante (144 / 335)
 
 
 
@@ -121,6 +121,7 @@
   - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2756.js)
   - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2759.js)  
   - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.js) 
+  - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2765.js)  
   - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.js)
   - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.js)  
   - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.js)
@@ -140,6 +141,7 @@
   - [x]  [3147](https://www.beecrowd.com.br/judge/pt/problems/view/3147) - [A Batalha dos Cinco Exércitos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3147.js)
   - [x]  [3157](https://www.beecrowd.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3157.js)
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3170.js)  
+  - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3174.js)  
   - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3224.js)
   - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3299.js)
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3301.js)
@@ -267,7 +269,6 @@
   - [ ]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
   - [ ]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6  
   - [ ]  [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data
-  - [ ]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - Entrada e Saída com Virgula
   - [ ]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
@@ -315,7 +316,12 @@
   - [ ]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
   - [ ]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária  
   - [ ]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - Estrela de Natal
-  - [ ]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - Grupo de Trabalho do Noel  
+  
+  
+  
+  
+  
+  
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
   - [ ]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
