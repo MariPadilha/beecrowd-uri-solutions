@@ -1,4 +1,4 @@
-# Ad-Hoc (28 / 745)
+# Ad-Hoc (29 / 745)
 
 
 
@@ -18,6 +18,7 @@
   - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1467.py)    
   - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1515.py)    
   - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1533.py)    
+  - [x]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1573.py)    
   - [x]  [1715](https://www.beecrowd.com.br/judge/pt/problems/view/1715) - [Handebol](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1715.py)  
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
@@ -140,7 +141,6 @@
   - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048
   - [ ]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - Relógio Binário  
   - [ ]  [1569](https://www.beecrowd.com.br/judge/pt/problems/view/1569) - Sobe e Desce
-  - [ ]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - Fábrica de Chocolate  
   - [ ]  [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - Instruções do Robô
   - [ ]  [1575](https://www.beecrowd.com.br/judge/pt/problems/view/1575) - Perseguindo Don Giovanni
   - [ ]  [1576](https://www.beecrowd.com.br/judge/pt/problems/view/1576) - O Problema da Linha do Horizonte
