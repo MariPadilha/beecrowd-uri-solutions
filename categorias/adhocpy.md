@@ -1,4 +1,4 @@
-# Ad-Hoc (29 / 745)
+# Ad-Hoc (30 / 745)
 
 
 
@@ -27,6 +27,7 @@
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
+  - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2457.py)
   - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2926.py)  
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 2.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3092.py)  
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3093.py)  
@@ -486,7 +487,6 @@
   - [ ]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - Flíper
   - [ ]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - Gangorra
   - [ ]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - Cartas
-  - [ ]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - Letras  
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
   - [ ]  [2459](https://www.beecrowd.com.br/judge/pt/problems/view/2459) - Copa do Mundo
   - [ ]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - Fila 
