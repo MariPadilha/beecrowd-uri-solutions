@@ -1,4 +1,4 @@
-# Iniciante (144 / 335)
+# Iniciante (145 / 335)
 
 
 
@@ -104,6 +104,7 @@
   - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1865.js)    
   - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1866.js)  
   - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1914.js)  
+  - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2143.js)  
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
   - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.js)
@@ -206,7 +207,6 @@
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
   - [ ]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - Duas Notas
-  - [ ]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - A Volta do Radar
   - [ ]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - Senha
   - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - Galopeira
   - [ ]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
