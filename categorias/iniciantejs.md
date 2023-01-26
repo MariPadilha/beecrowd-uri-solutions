@@ -1,4 +1,4 @@
-# Iniciante (147 / 335)
+# Iniciante (148 / 335)
 
 
 
@@ -110,6 +110,7 @@
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
   - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.js)
+  - [x]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2334.js)  
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.js)  
   - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.js)
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.js)
@@ -226,7 +227,6 @@
   - [ ]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - Andando no Tempo  
   - [ ]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo
-  - [ ]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - Patinhos  
   - [ ]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - Feliz Nataaal!
   - [ ]  [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - C Mais ou Menos?
   - [ ]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - Jogo do Operador
