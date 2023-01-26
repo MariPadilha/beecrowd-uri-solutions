@@ -1,4 +1,4 @@
-# Iniciante (146 / 335)
+# Iniciante (147 / 335)
 
 
 
@@ -105,6 +105,7 @@
   - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1866.js)  
   - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1914.js)  
   - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1930.js)  
+  - [x]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2057.js)  
   - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2143.js)  
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
@@ -200,7 +201,6 @@
   - [ ]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
   - [ ]  [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - Reservatório de Mel
   - [ ]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
-  - [ ]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - Fuso Horário
   - [ ]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - Ímpar, Par ou Roubo
   - [ ]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - Desafio de Bino
   - [ ]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - As Abas de Péricles
