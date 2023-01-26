@@ -1,4 +1,4 @@
-# Iniciante (150 / 335)
+# Iniciante (151 / 335)
 
 
 
@@ -111,6 +111,7 @@
   - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2143.js)  
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.js)
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.js)
+  - [x]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2234.js)  
   - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.js)
   - [x]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2334.js)  
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.js)  
@@ -223,7 +224,6 @@
   - [ ]  [2176](https://www.beecrowd.com.br/judge/pt/problems/view/2176) - Paridade
   - [ ]  [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos
   - [ ]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - Batalha de Pomekons
-  - [ ]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes
   - [ ]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - Andando no Tempo  
   - [ ]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo
