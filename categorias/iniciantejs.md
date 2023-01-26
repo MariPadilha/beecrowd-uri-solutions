@@ -1,4 +1,4 @@
-# Iniciante (151 / 335)
+# Iniciante (152 / 335)
 
 
 
@@ -99,6 +99,7 @@
   - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1178.js)   
   - [x]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Preenchimento de Vetor IV](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1179.js)  
   - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1180.js)  
+  - [x]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1541.js)  
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.js)  
   - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1847.js)  
   - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1858.js)  
@@ -175,7 +176,6 @@
   - [ ]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III
   - [ ]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - Vai Ter Copa?
   - [ ]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - Ho Ho Ho
