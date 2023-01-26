@@ -1,4 +1,4 @@
-# Iniciante (153 / 335)
+# Iniciante (154 / 335)
 
 
 
@@ -152,6 +152,7 @@
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3170.js)  
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3174.js)  
   - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3224.js)
+  - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3249.js)  
   - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3299.js)
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3301.js)
   - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3302.js)
@@ -316,12 +317,6 @@
   - [ ]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal
   - [ ]  [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - Procurando Palavras na Diagonal Secundária  
   - [ ]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - Estrela de Natal
-  
-  
-  
-  
-  
-  
   - [ ]  [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - Jantar
   - [ ]  [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - Honeycomb Walk
   - [ ]  [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - O Criptógrafo Envergonhado
@@ -336,7 +331,6 @@
   - [ ]  [3234](https://www.beecrowd.com.br/judge/pt/problems/view/3234) - Kindergarten
   - [ ]  [3235](https://www.beecrowd.com.br/judge/pt/problems/view/3235) - Luggage  
   - [ ]  [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - Ajude um Candidato a PhD!
-  - [ ]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - Death Knight Hero
   - [ ]  [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - Problema no Elevador
   - [ ]  [3252](https://www.beecrowd.com.br/judge/pt/problems/view/3252) - Reus da Floresta
   - [ ]  [3253](https://www.beecrowd.com.br/judge/pt/problems/view/3253) - Problemas com o Carro
