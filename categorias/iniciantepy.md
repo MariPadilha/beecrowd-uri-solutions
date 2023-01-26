@@ -1,4 +1,4 @@
-# Iniciante (186 / 335)
+# Iniciante (187 / 335)
 
 
 
@@ -184,6 +184,7 @@
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3174.py)    
   - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3224.py)
   - [x]  [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3241.py)  
+  - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3249.py)  
   - [x]  [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Números Má Sorte Pequenos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3299.py)
   - [x]  [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Sobrinho do Meio](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3301.py)
   - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3302.py)
@@ -327,7 +328,6 @@
   - [ ]  [3233](https://www.beecrowd.com.br/judge/pt/problems/view/3233) - Suco
   - [ ]  [3234](https://www.beecrowd.com.br/judge/pt/problems/view/3234) - Kindergarten
   - [ ]  [3235](https://www.beecrowd.com.br/judge/pt/problems/view/3235) - Luggage  
-  - [ ]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - Death Knight Hero
   - [ ]  [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - Problema no Elevador
   - [ ]  [3252](https://www.beecrowd.com.br/judge/pt/problems/view/3252) - Reus da Floresta
   - [ ]  [3253](https://www.beecrowd.com.br/judge/pt/problems/view/3253) - Problemas com o Carro
