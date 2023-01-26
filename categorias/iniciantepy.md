@@ -1,4 +1,4 @@
-# Iniciante (183 / 335)
+# Iniciante (184 / 335)
 
 
 
@@ -139,6 +139,7 @@
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.py)
   - [x]  [2176](https://www.beecrowd.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2176.py)
   - [x]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2221.py)
+  - [x]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2234.py)  
   - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2310.py)
   - [x]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2334.py)
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.py)
@@ -228,7 +229,6 @@
   - [ ]  [2168](https://www.beecrowd.com.br/judge/pt/problems/view/2168) - Crepúsculo em Portland
   - [ ]  [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - Evento  
   - [ ]  [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos  
-  - [ ]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - Cachorros-Quentes
   - [ ]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - Andando no Tempo  
   - [ ]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo  
