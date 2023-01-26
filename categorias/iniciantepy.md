@@ -1,4 +1,4 @@
-# Iniciante (184 / 335)
+# Iniciante (185 / 335)
 
 
 
@@ -113,6 +113,7 @@
   - [x]  [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - [Área Inferior](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1188.py)  
   - [x]  [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1189.py)  
   - [x]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1190.py)  
+  - [x]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1541.py)  
   - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1564.py)
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.py)
   - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1759.py)
@@ -194,7 +195,6 @@
   - [ ]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III  
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
   - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - Prefácio
