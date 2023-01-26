@@ -1,4 +1,4 @@
-# Iniciante (179 / 335)
+# Iniciante (180 / 335)
 
 
 
@@ -116,6 +116,7 @@
   - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1564.py)
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.py)
   - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1759.py)
+  - [x]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - [A Corrida de Lesmas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1789.py)  
   - [x]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1828.py)
   - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1847.py)  
   - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1865.py)
@@ -191,7 +192,6 @@
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III  
-  - [ ]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
   - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - Prefácio
   - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
