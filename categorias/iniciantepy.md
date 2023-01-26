@@ -1,4 +1,4 @@
-# Iniciante (188 / 335)
+# Iniciante (189 / 335)
 
 
 
@@ -129,6 +129,7 @@
   - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1929.py)  
   - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1930.py)  
   - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1933.py)  
+  - [x]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1961.py)  
   - [x]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1963.py)  
   - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1984.py)
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1985.py)
@@ -206,7 +207,6 @@
   - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - Notação Científica
   - [ ]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - Polígonos Regulares Simples
   - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página
-  - [ ]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - Pula Sapo
   - [ ]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - Há Muito, Muito Tempo Atrás
   - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
   - [ ]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - O Escolhido  
