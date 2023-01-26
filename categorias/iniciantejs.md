@@ -1,4 +1,4 @@
-# Iniciante (149 / 335)
+# Iniciante (150 / 335)
 
 
 
@@ -102,6 +102,7 @@
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1589.js)  
   - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1847.js)  
   - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1858.js)  
+  - [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1864.js)  
   - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1865.js)    
   - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1866.js)  
   - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1914.js)  
@@ -182,7 +183,6 @@
   - [ ]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - Bazinga!  
   - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - Prefácio
   - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
-  - [ ]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão
   - [ ]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão
   - [ ]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - Triângulo
   - [ ]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - Tri-du
