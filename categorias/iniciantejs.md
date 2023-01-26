@@ -1,4 +1,4 @@
-# Iniciante (152 / 335)
+# Iniciante (153 / 335)
 
 
 
@@ -107,6 +107,7 @@
   - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1865.js)    
   - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1866.js)  
   - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1914.js)  
+  - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1929.js)  
   - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1930.js)  
   - [x]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2057.js)  
   - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2143.js)  
@@ -185,7 +186,6 @@
   - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - Prefácio
   - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
   - [ ]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão
-  - [ ]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - Triângulo
   - [ ]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - Tri-du
   - [ ]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal
   - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - Notação Científica
