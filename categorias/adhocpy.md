@@ -1,9 +1,10 @@
-# Ad-Hoc (30 / 745)
+# Ad-Hoc (31 / 745)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1026.py)
   - [x]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1129.py)
   - [x]  [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1171.py)    
   - [x]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1192.py)
@@ -37,7 +38,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega?
   - [ ]  [1030](https://www.beecrowd.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus
   - [ ]  [1031](https://www.beecrowd.com.br/judge/pt/problems/view/1031) - Crise de Energia
   - [ ]  [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - O Primo de Josephus
