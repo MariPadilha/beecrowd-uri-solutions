@@ -1,4 +1,4 @@
-# Ad-Hoc (12 / 745)
+# Ad-Hoc (13 / 745)
 
 
 
@@ -11,6 +11,7 @@
   - [x]  [1715](https://www.beecrowd.com.br/judge/pt/problems/view/1715) - [Handebol](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1715.js)  
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.js)
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.js)    
+  - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2381.js)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.js) 
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 2.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3092.py)     
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3093.js)  
@@ -417,7 +418,6 @@
   - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
   - [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador  
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena
-  - [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada
   - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano  
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
