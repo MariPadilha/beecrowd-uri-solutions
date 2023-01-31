@@ -1,4 +1,4 @@
-# Ad-Hoc (32 / 745)
+# Ad-Hoc (33 / 745)
 
 
 
@@ -28,6 +28,7 @@
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.py)
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
+  - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2381.py)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2457.py)
   - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2926.py)  
@@ -420,7 +421,6 @@
   - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
   - [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador  
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena
-  - [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada
   - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano  
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
