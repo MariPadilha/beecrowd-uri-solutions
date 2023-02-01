@@ -1,4 +1,4 @@
-# Ad-Hoc (36 / 745)
+# Ad-Hoc (37 / 745)
 
 
 
@@ -22,6 +22,7 @@
   - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1533.py)    
   - [x]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1573.py)    
   - [x]  [1715](https://www.beecrowd.com.br/judge/pt/problems/view/1715) - [Handebol](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1715.py)  
+  - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1743.py)   
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
@@ -185,7 +186,6 @@
   - [ ]  [1732](https://www.beecrowd.com.br/judge/pt/problems/view/1732) - Abelha Maja
   - [ ]  [1739](https://www.beecrowd.com.br/judge/pt/problems/view/1739) - Sequência de Threebonacci
   - [ ]  [1741](https://www.beecrowd.com.br/judge/pt/problems/view/1741) - Notação Reversa de João
-  - [ ]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - Máquina de Verificação Automatizada  
   - [ ]  [1750](https://www.beecrowd.com.br/judge/pt/problems/view/1750) - Ajude o Cupido
   - [ ]  [1753](https://www.beecrowd.com.br/judge/pt/problems/view/1753) - Cavaleiros Da Tàvola Redonda
   - [ ]  [1755](https://www.beecrowd.com.br/judge/pt/problems/view/1755) - O Troco
