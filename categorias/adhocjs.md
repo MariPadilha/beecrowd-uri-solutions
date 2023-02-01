@@ -1,4 +1,4 @@
-# Ad-Hoc (15 / 745)
+# Ad-Hoc (16 / 745)
 
 
 
@@ -12,6 +12,7 @@
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.js)
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.js)    
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2328.js)    
+  - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2373.js) 
   - [x]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2375.js) 
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2381.js)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.js) 
@@ -412,7 +413,6 @@
   - [ ]  [2368](https://www.beecrowd.com.br/judge/pt/problems/view/2368) - Simulador
   - [ ]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - Conta de Água  
   - [ ]  [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) - Batalha Naval
-  - [ ]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - Garçom
   - [ ]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - Pneu
   - [ ]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - Copa do Mundo
   - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
