@@ -1,4 +1,4 @@
-# Ad-Hoc (34 / 745)
+# Ad-Hoc (35 / 745)
 
 
 
@@ -28,6 +28,7 @@
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.py)
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
+  - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2328.py)    
   - [x]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2375.py) 
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2381.py)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
@@ -387,7 +388,6 @@
   - [ ]  [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - Repositórios
   - [ ]  [2326](https://www.beecrowd.com.br/judge/pt/problems/view/2326) - Sacoleiro
   - [ ]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - Quadrados
-  - [ ]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - Chocolate  
   - [ ]  [2329](https://www.beecrowd.com.br/judge/pt/problems/view/2329) - Pão a Metro
   - [ ]  [2330](https://www.beecrowd.com.br/judge/pt/problems/view/2330) - Telemarketing
   - [ ]  [2331](https://www.beecrowd.com.br/judge/pt/problems/view/2331) - Uiquipédia
