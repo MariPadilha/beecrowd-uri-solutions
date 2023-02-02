@@ -1,4 +1,4 @@
-# Ad-Hoc (37 / 745)
+# Ad-Hoc (38 / 745)
 
 
 
@@ -33,6 +33,7 @@
   - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2373.py) 
   - [x]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2375.py) 
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2381.py)  
+  - [x]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - [Vice-Campeão](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2408.py)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2457.py)
   - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2926.py)  
@@ -446,7 +447,6 @@
   - [ ]  [2405](https://www.beecrowd.com.br/judge/pt/problems/view/2405) - Colorindo
   - [ ]  [2406](https://www.beecrowd.com.br/judge/pt/problems/view/2406) - Expressões
   - [ ]  [2407](https://www.beecrowd.com.br/judge/pt/problems/view/2407) - Quadrado Mágico
-  - [ ]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - Vice-Campeão
   - [ ]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - Colchão  
   - [ ]  [2410](https://www.beecrowd.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ]  [2411](https://www.beecrowd.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
