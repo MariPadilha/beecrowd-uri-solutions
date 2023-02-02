@@ -1,4 +1,4 @@
-# Ad-Hoc (38 / 745)
+# Ad-Hoc (39 / 745)
 
 
 
@@ -37,6 +37,7 @@
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2457.py)
   - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2926.py)  
+  - [x]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3058.py)  
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 2.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3092.py)  
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3093.py)  
   - [x]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3106.py)  
@@ -677,7 +678,6 @@
   - [ ]  [3054](https://www.beecrowd.com.br/judge/pt/problems/view/3054) - Matriz Super-legal
   - [ ]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - Ponto do Meio  
   - [ ]  [3057](https://www.beecrowd.com.br/judge/pt/problems/view/3057) - Detetive
-  - [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado
   - [ ]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - Pares de Números
   - [ ]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - Parcelamento Sem Juros  
   - [ ]  [3062](https://www.beecrowd.com.br/judge/pt/problems/view/3062) - Coleção de Upas
