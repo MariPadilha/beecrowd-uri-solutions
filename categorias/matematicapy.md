@@ -1,4 +1,4 @@
-# Matemática (2 / 269)
+# Matemática (3 / 269)
 
 
 
@@ -6,6 +6,7 @@
 
   - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1197.py)
   - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1323.py)
+  - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1585.py)  
 
 ## Problemas não resolvidos
 
@@ -87,7 +88,6 @@
   - [ ]  [1577](https://www.beecrowd.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
   - [ ]  [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
   - [ ]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras  
-  - [ ]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas  
   - [ ]  [1620](https://www.beecrowd.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay
   - [ ]  [1623](https://www.beecrowd.com.br/judge/pt/problems/view/1623) - Linguagem
   - [ ]  [1624](https://www.beecrowd.com.br/judge/pt/problems/view/1624) - Promoção
