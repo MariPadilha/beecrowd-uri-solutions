@@ -1,5 +1,10 @@
-# Matemática (0 / 269)
+# Matemática (1 / 269)
 
+
+
+## Problemas resolvidos
+ 
+ - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1585.js)  
 
 
 ## Problemas não resolvidos
@@ -84,7 +89,6 @@
   - [ ]  [1577](https://www.beecrowd.com.br/judge/pt/problems/view/1577) - Polígonos Regulares Construtíveis
   - [ ]  [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - Quid Est Veritas? Est Vir Qui Adest!
   - [ ]  [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - O Teorema de Pitágoras  
-  - [ ]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - Fazendo Pandorgas  
   - [ ]  [1620](https://www.beecrowd.com.br/judge/pt/problems/view/1620) - Triangulação de Delaunay
   - [ ]  [1623](https://www.beecrowd.com.br/judge/pt/problems/view/1623) - Linguagem
   - [ ]  [1624](https://www.beecrowd.com.br/judge/pt/problems/view/1624) - Promoção
