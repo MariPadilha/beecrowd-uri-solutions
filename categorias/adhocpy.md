@@ -1,4 +1,4 @@
-# Ad-Hoc (39 / 745)
+# Ad-Hoc (40 / 745)
 
 
 
@@ -36,6 +36,7 @@
   - [x]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - [Vice-Campeão](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2408.py)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2457.py)
+  - [x]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2466.py) 
   - [x]  [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [Então é Natal!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2926.py)  
   - [x]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3058.py)  
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 2.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3092.py)  
@@ -496,7 +497,6 @@
   - [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - Decifra
   - [ ]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - Passa Bolinha
-  - [ ]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - Sinuca  
   - [ ]  [2467](https://www.beecrowd.com.br/judge/pt/problems/view/2467) - Frequência
   - [ ]  [2468](https://www.beecrowd.com.br/judge/pt/problems/view/2468) - Mapa
   - [ ]  [2469](https://www.beecrowd.com.br/judge/pt/problems/view/2469) - Notas 
