@@ -1,4 +1,4 @@
-# Iniciante (194 / 335)
+# Iniciante (195 / 335)
 
 
 
@@ -154,6 +154,7 @@
   - [x]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2483.py)  
   - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.py)  
   - [x]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2540.py)  
+  - [x]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2543.py)  
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.py)
   - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2582.py)  
   - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2747.py)
@@ -242,7 +243,6 @@
   - [ ]  [2533](https://www.beecrowd.com.br/judge/pt/problems/view/2533) - Estágio
   - [ ]  [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - Exame Geral  
   - [ ]  [2542](https://www.beecrowd.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
-  - [ ]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - Jogatina UFPR
   - [ ]  [2544](https://www.beecrowd.com.br/judge/pt/problems/view/2544) - Kage Bunshin no Jutsu
   - [ ]  [2547](https://www.beecrowd.com.br/judge/pt/problems/view/2547) - Montanha-Russa
   - [ ]  [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - Novo Recorde
