@@ -1,4 +1,4 @@
-# Iniciante (193 / 335)
+# Iniciante (194 / 335)
 
 
 
@@ -169,6 +169,7 @@
   - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2765.py)  
   - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.py)  
   - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.py)  
+  - [x]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2787.py)    
   - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.py)  
   - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2861.py)
   - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2862.py)
@@ -282,7 +283,6 @@
   - [ ]  [2782](https://www.beecrowd.com.br/judge/pt/problems/view/2782) - Escadinha
   - [ ]  [2783](https://www.beecrowd.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa
   - [ ]  [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - Pirâmide  
-  - [ ]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - Xadrez  
   - [ ]  [2802](https://www.beecrowd.com.br/judge/pt/problems/view/2802) - Dividindo Círculos
   - [ ]  [2807](https://www.beecrowd.com.br/judge/pt/problems/view/2807) - Iccanobif
   - [ ]  [2808](https://www.beecrowd.com.br/judge/pt/problems/view/2808) - Mais Cavalos
