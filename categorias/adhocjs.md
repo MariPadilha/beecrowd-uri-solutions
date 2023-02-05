@@ -1,4 +1,4 @@
-# Ad-Hoc (23 / 745)
+# Ad-Hoc (24 / 745)
 
 
 
@@ -22,6 +22,7 @@
   - [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2451.js) 
   - [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2455.js)  
   - [x]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2466.js) 
+  - [x]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3048.js)  
   - [x]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3058.js)  
   - [x]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 2.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3092.py)     
   - [x]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - [Truco da Galera 1.0](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3093.js)  
@@ -671,7 +672,6 @@
   - [ ]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - O Caso Douglas 
   - [ ]  [3035](https://www.beecrowd.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
   - [ ]  [3041](https://www.beecrowd.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos
-  - [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta  
   - [ ]  [3050](https://www.beecrowd.com.br/judge/pt/problems/view/3050) - Distância Entre Amigos  
   - [ ]  [3052](https://www.beecrowd.com.br/judge/pt/problems/view/3052) - Chuva
   - [ ]  [3054](https://www.beecrowd.com.br/judge/pt/problems/view/3054) - Matriz Super-legal
