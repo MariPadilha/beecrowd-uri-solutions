@@ -1,4 +1,4 @@
-# Ad-Hoc (40 / 745)
+# Ad-Hoc (41 / 745)
 
 
 
@@ -29,6 +29,7 @@
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.py)
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
+  - [x]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2187.py)    
   - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2328.py)    
   - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2373.py) 
   - [x]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2375.py) 
@@ -295,7 +296,6 @@
   - [ ]  [2175](https://www.beecrowd.com.br/judge/pt/problems/view/2175) - Qual o Mais Rápido?  
   - [ ]  [2178](https://www.beecrowd.com.br/judge/pt/problems/view/2178) - Lagoa Azul
   - [ ]  [2179](https://www.beecrowd.com.br/judge/pt/problems/view/2179) - Batuke  
-  - [ ]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - Bits Trocados  
   - [ ]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - Macaco-prego  
   - [ ]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - Quermesse  
   - [ ]  [2191](https://www.beecrowd.com.br/judge/pt/problems/view/2191) - Saldo de Gols
