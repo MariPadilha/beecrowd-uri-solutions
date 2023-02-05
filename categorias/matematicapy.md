@@ -1,4 +1,4 @@
-# Matemática (3 / 269)
+# Matemática (4 / 269)
 
 
 
@@ -7,6 +7,7 @@
   - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1197.py)
   - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1323.py)
   - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1585.py)  
+  - [x]  [2497](https://www.beecrowd.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/MariPadilha/URI-online-answers/blob/matematica/2497.py)  
 
 ## Problemas não resolvidos
 
@@ -188,7 +189,6 @@
   - [ ]  [2474](https://www.beecrowd.com.br/judge/pt/problems/view/2474) - Burlando o Sistema
   - [ ]  [2489](https://www.beecrowd.com.br/judge/pt/problems/view/2489) - Flecha no Coelho
   - [ ]  [2494](https://www.beecrowd.com.br/judge/pt/problems/view/2494) - Canetas
-  - [ ]  [2497](https://www.beecrowd.com.br/judge/pt/problems/view/2497) - Contando Ciclos  
   - [ ]  [2499](https://www.beecrowd.com.br/judge/pt/problems/view/2499) - Triângulo Interno
   - [ ]  [2500](https://www.beecrowd.com.br/judge/pt/problems/view/2500) - William Xorando
   - [ ]  [2505](https://www.beecrowd.com.br/judge/pt/problems/view/2505) - Autopotencial
