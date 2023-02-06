@@ -1,6 +1,6 @@
 <h1 align="center"
     <p>
-BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON E C👋
+BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON, C E C#👋
 </h1>
 <br>
 
@@ -17,7 +17,7 @@ BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON E C👋
 
 ## 📖 INFO:
 
-  - Repositório destinado a colocar meus problemas resolvidos no <a href="https://www.beecrowd.com.br/judge/pt/">Beecrowd</a> utilizando JavaScript, Python e C.
+  - Repositório destinado a colocar meus problemas resolvidos no <a href="https://www.beecrowd.com.br/judge/pt/">Beecrowd</a> utilizando JavaScript, Python, C e C#.
   
   - As outras branches, estão separadas por categorias para sua melhor experiência neste repositório.
 
@@ -26,6 +26,7 @@ BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON E C👋
   <img align="center" alt="Mari-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Mari-c#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <hr>
  
