@@ -1,4 +1,4 @@
-# Iniciante (17 / 335)
+# Iniciante (18 / 335)
 
 
 
@@ -21,10 +21,10 @@
   - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1014.cs)
   - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1015.cs)
   - [x]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1016.cs)
+  - [x]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1017.cs)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - Gasto de Combustível
   - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - Cédulas
   - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo
   - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
