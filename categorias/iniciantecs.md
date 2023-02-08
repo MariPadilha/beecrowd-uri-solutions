@@ -1,4 +1,4 @@
-# Iniciante (16 / 335)
+# Iniciante (17 / 335)
 
 
 
@@ -20,10 +20,10 @@
   - [x]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1013.cs)
   - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1014.cs)
   - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1015.cs)
+  - [x]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1016.cs)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - Distância
   - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - Gasto de Combustível
   - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - Cédulas
   - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo
