@@ -1,4 +1,4 @@
-# Iniciante (20 / 335)
+# Iniciante (21 / 335)
 
 
 
@@ -24,10 +24,10 @@
   - [x]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1017.cs)
   - [x]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1018.cs)
   - [x]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1019.cs)
+  - [x]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1020.cs)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
   - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
   - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - Teste de Seleção 1
   - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
