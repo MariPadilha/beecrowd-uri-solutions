@@ -1,4 +1,4 @@
-# Iniciante (27 / 335)
+# Iniciante (28 / 335)
 
 
 
@@ -31,10 +31,10 @@
   - [x]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1037.cs)
   - [x]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1038.cs)
   - [x]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1040.cs)
+  - [x]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1041.cs)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
   - [ ]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - Sort Simples
   - [ ]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - Triângulo
   - [ ]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - Múltiplos
