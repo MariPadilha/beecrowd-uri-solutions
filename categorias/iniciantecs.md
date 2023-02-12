@@ -1,4 +1,4 @@
-# Iniciante (31 / 335)
+# Iniciante (32 / 335)
 
 
 
@@ -35,11 +35,11 @@
   - [x]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1042.cs)
   - [x]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1043.cs)
   - [x]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1044.cs)
+  - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1046.cs)
 
 ## Problemas não resolvidos
 
   - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
-  - [ ]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - Tempo de Jogo
   - [ ]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos
   - [ ]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - Aumento de Salário
   - [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - Animal
