@@ -1,13 +1,13 @@
-# Iniciante (0 / 335)
+# Iniciante (1 / 335)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1000.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - Hello World!
   - [ ]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - Extremamente Básico
   - [ ]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - Área do Círculo
   - [ ]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - Soma Simples
