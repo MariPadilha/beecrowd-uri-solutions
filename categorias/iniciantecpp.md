@@ -1,4 +1,4 @@
-# Iniciante (5 / 335)
+# Iniciante (6 / 335)
 
 
 
@@ -9,10 +9,10 @@
   - [x]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1002.cpp)
   - [x]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1003.cpp)
   - [x]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1004.cpp)
+  - [x]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1005.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - Média 1
   - [ ]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - Média 2
   - [ ]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - Diferença
   - [ ]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - Salário
