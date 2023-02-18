@@ -1,4 +1,4 @@
-# Iniciante (11 / 335)
+# Iniciante (12 / 335)
 
 
 
@@ -15,10 +15,10 @@
   - [x]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1008.cpp)
   - [x]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1009.cpp)
   - [x]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) -[Cálculo Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1010.cpp)
+  - [x]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1011.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - Esfera
   - [ ]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - Área
   - [ ]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - O Maior
   - [ ]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - Consumo
