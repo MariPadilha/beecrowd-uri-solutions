@@ -1,4 +1,4 @@
-# Iniciante (13 / 335)
+# Iniciante (15 / 335)
 
 
 
@@ -17,11 +17,11 @@
   - [x]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) -[Cálculo Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1010.cpp)
   - [x]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1011.cpp)
   - [x]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1012.cpp)
+  - [x]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1013.cpp)
+  - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1014.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - O Maior
-  - [ ]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - Consumo
   - [ ]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - Distância Entre Dois Pontos
   - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - Distância
   - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - Gasto de Combustível
