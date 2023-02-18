@@ -1,4 +1,4 @@
-# Iniciante (21 / 335)
+# Iniciante (22 / 335)
 
 
 
@@ -25,10 +25,10 @@
   - [x]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1018.cpp)
   - [x]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1019.cpp)
   - [x]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1020.cpp)
+  - [x]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1021.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
   - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - Teste de Seleção 1
   - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
   - [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - Intervalo
