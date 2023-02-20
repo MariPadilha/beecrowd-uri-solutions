@@ -1,4 +1,4 @@
-# Iniciante (43 / 335)
+# Iniciante (44 / 335)
 
 
 
@@ -47,11 +47,11 @@
   - [x]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1061.cpp)
   - [x]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1064.cpp)
   - [x]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1065.cpp)
+  - [x]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1066.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
-  - [ ]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - Pares, Ímpares, Positivos e Negativos
   - [ ]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - Números Ímpares
   - [ ]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - Seis Números Ímpares
   - [ ]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - Soma de Impares Consecutivos I
