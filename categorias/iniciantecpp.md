@@ -1,4 +1,4 @@
-# Iniciante (49 / 335)
+# Iniciante (50 / 335)
 
 
 
@@ -35,6 +35,7 @@
   - [x]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1042.cpp)
   - [x]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1043.cpp)
   - [x]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1044.cpp)
+  - [x]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1045.cpp)  
   - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1046.cpp)
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1047.cpp)
   - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1048.cpp)
@@ -56,7 +57,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - Par ou Ímpar
   - [ ]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - Resto 2
   - [ ]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - Tabuada
