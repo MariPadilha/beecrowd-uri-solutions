@@ -1,4 +1,4 @@
-# Iniciante (50 / 335)
+# Iniciante (51 / 335)
 
 
 
@@ -54,10 +54,10 @@
   - [x]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1071.cpp)
   - [x]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Intervalo 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1072.cpp)
   - [x]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1073.cpp)
+  - [x]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1074.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - Par ou Ímpar
   - [ ]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - Resto 2
   - [ ]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - Tabuada
   - [ ]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - Médias Ponderadas
