@@ -1,4 +1,4 @@
-# Iniciante (63 / 335)
+# Iniciante (64 / 335)
 
 
 
@@ -67,11 +67,11 @@
   - [x]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1099.cpp)
   - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1113.cpp)
   - [x]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1114.cpp)
+  - [x]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1115.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
-  - [ ]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - Quadrante
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
   - [ ]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - Validação de Nota  
   - [ ]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
