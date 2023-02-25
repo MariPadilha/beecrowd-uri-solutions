@@ -1,4 +1,4 @@
-# Iniciante (67 / 335)
+# Iniciante (68 / 335)
 
 
 
@@ -71,12 +71,12 @@
   - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1117.cpp)  
   - [x]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1118.cpp)
   - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1131.cpp)  
+  - [x]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1132.cpp)  
 
 ## Problemas não resolvidos
 
   - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
-  - [ ]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - Múltiplos de 13  
   - [ ]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - Resto da Divisão
   - [ ]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - Tipo de Combustível  
   - [ ]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - PUM
