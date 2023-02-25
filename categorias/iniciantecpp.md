@@ -1,4 +1,4 @@
-# Iniciante (54 / 335)
+# Iniciante (55 / 335)
 
 
 
@@ -58,10 +58,10 @@
   - [x]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Resto 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1075.cpp)
   - [x]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1078.cpp)
   - [x]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1079.cpp)
+  - [x]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1080.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - Maior e Posição
   - [ ]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - Experiências
   - [ ]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - Sequencia IJ 1
   - [ ]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - Sequencia IJ 2
