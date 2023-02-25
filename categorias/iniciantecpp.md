@@ -1,4 +1,4 @@
-# Iniciante (58 / 335)
+# Iniciante (59 / 335)
 
 
 
@@ -62,10 +62,10 @@
   - [x]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1094.cpp)
   - [x]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1095.cpp)
   - [x]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1096.cpp)
+  - [x]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1097.cpp)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - Sequencia IJ 3
   - [ ]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - Sequencia IJ 4
   - [ ]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
   - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
