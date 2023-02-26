@@ -1,4 +1,4 @@
-# Iniciante (74 / 335)
+# Iniciante (75 / 335)
 
 
 
@@ -78,12 +78,12 @@
   - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1143.cpp)
   - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1144.cpp)  
   - [x]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1145.cpp)  
+  - [x]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1146.cpp)  
 
 ## Problemas não resolvidos
 
   - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
-  - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
   - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
