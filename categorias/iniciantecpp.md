@@ -1,4 +1,4 @@
-# Iniciante (71 / 335)
+# Iniciante (72 / 335)
 
 
 
@@ -75,12 +75,12 @@
   - [x]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1133.cpp)
   - [x]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1134.cpp)  
   - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1142.cpp)
+  - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1143.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
-  - [ ]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - Quadrado e ao Cubo
   - [ ]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - Sequência Lógica  
   - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
   - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
