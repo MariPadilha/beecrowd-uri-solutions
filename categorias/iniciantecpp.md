@@ -1,4 +1,4 @@
-# Iniciante (90 / 335)
+# Iniciante (91 / 335)
 
 
 
@@ -94,6 +94,7 @@
   - [x]  [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - [Preenchimento de Vetor I](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1173.cpp)  
   - [x]  [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - [Seleçao em Vetor I](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1174.cpp)
   - [x]  [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1177.cpp)  
+  - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1178.cpp) 
 
 ## Problemas não resolvidos
 
@@ -103,7 +104,6 @@
   - [ ]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos
   - [ ]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - Troca em Vetor I  
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
-  - [ ]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - Preenchimento de Vetor III 
   - [ ]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV
   - [ ]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - Menor e Posição
   - [ ]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - Linha na Matriz
