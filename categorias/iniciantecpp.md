@@ -1,4 +1,4 @@
-# Iniciante (92 / 335)
+# Iniciante (93 / 335)
 
 
 
@@ -96,6 +96,7 @@
   - [x]  [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1177.cpp)  
   - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1178.cpp) 
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1589.cpp)
+  - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1759.cpp)
 
 ## Problemas não resolvidos
 
@@ -123,7 +124,6 @@
   - [ ]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III
   - [ ]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - Vai Ter Copa?
-  - [ ]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - Ho Ho Ho
   - [ ]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV
   - [ ]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - Bazinga!  
