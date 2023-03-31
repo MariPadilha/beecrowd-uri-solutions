@@ -1,4 +1,4 @@
-# Iniciante (94 / 335)
+# Iniciante (95 / 335)
 
 
 
@@ -88,6 +88,7 @@
   - [x]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - [Sequência S II](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1156.cpp)
   - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1157.cpp)  
   - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1158.cpp)
+  - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1159.cpp)  
   - [x]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1160.cpp)
   - [x]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Número Perfeito](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1164.cpp)  
   - [x]  [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - [Número Primo](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1165.cpp)  
@@ -103,7 +104,6 @@
 
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
-  - [ ]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos
   - [ ]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - Troca em Vetor I  
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - Preenchimento de Vetor IV
