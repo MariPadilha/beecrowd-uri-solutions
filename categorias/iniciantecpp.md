@@ -1,4 +1,4 @@
-# Iniciante (97 / 335)
+# Iniciante (98 / 335)
 
 
 
@@ -101,6 +101,7 @@
   - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1759.cpp)
   - [x]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Preenchimento de Vetor IV](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1179.cpp)
   - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1180.cpp)
+  - [x]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1181.cpp)
 
 ## Problemas não resolvidos
 
@@ -108,7 +109,6 @@
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - Troca em Vetor I  
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
-  - [ ]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - Linha na Matriz
   - [ ]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
   - [ ]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
   - [ ]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
