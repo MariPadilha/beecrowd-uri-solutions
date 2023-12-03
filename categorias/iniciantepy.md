@@ -128,8 +128,9 @@
   - [x]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1924.py)  
   - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1929.py)  
   - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1930.py)  
-  - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1933.py)  
+  - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1933.py)
   - [x]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1957.py)  
+  - [x]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1958.py)
   - [x]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1959.py)
   - [x]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1961.py)  
   - [x]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1963.py)  
@@ -209,7 +210,6 @@
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
   - [ ]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - Prefácio
   - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
-  - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - Notação Científica
   - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página
   - [ ]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - Há Muito, Muito Tempo Atrás
   - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
