@@ -1,4 +1,4 @@
-# Iniciante (201 / 336)
+# Iniciante (202 / 336)
 
 
 
@@ -142,6 +142,7 @@
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1985.py)
   - [x]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2006.py)
   - [x]  [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2029.py) 
+  - [x]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2031.py) 
   - [x]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2057.py)  
   - [x]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2059.py)    
   - [x]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2060.py)
@@ -217,7 +218,6 @@
   - [ ]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - O Escolhido  
   - [ ]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - Domingo de Manhã  
   - [ ]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
-  - [ ]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
   - [ ]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - Duas Notas
