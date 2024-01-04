@@ -1,4 +1,4 @@
-# Iniciante (202 / 336)
+# Iniciante (203 / 336)
 
 
 
@@ -140,6 +140,7 @@
   - [x]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1963.py)
   - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1984.py)
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1985.py)
+  - [x]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2003.py)  
   - [x]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2006.py)
   - [x]  [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2029.py) 
   - [x]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2031.py) 
@@ -216,7 +217,6 @@
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
   - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
   - [ ]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - O Escolhido  
-  - [ ]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - Domingo de Manhã  
   - [ ]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
