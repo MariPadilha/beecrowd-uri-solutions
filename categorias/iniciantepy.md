@@ -1,4 +1,4 @@
-# Iniciante (199 / 335)
+# Iniciante (200 / 336)
 
 
 
@@ -136,6 +136,7 @@
   - [x]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1959.py)
   - [x]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - [Numeração Romana para Números de Página](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1960.py)
   - [x]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1961.py)  
+  - [x]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1962.py)
   - [x]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1963.py)
   - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1984.py)
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1985.py)
@@ -211,7 +212,6 @@
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III  
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
-  - [ ]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - Há Muito, Muito Tempo Atrás
   - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
   - [ ]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - O Escolhido  
   - [ ]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - Domingo de Manhã  
