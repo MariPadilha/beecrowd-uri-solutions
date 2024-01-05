@@ -1,4 +1,4 @@
-# Iniciante (203 / 336)
+# Iniciante (204 / 336)
 
 
 
@@ -138,6 +138,7 @@
   - [x]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Pula Sapo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1961.py)  
   - [x]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - [Há Muito, Muito Tempo Atrás](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1962.py)
   - [x]  [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [O Filme](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1963.py)
+  - [x]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - [O Escolhido](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1983.py)   
   - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1984.py)
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1985.py)
   - [x]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2003.py)  
@@ -160,7 +161,7 @@
   - [x]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2334.py)
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.py)
   - [x]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2483.py)  
-  - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.py)  
+  - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.py)
   - [x]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2540.py)  
   - [x]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2543.py)  
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.py)
@@ -178,8 +179,8 @@
   - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2765.py)  
   - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.py)  
   - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.py)  
-  - [x]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2787.py)    
-  - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.py)  
+  - [x]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2787.py) 
+  - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.py) 
   - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2861.py)
   - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2862.py)
   - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2936.py)
@@ -216,7 +217,6 @@
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III  
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
   - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
-  - [ ]  [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - O Escolhido  
   - [ ]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
