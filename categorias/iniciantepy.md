@@ -1,4 +1,4 @@
-# Iniciante (207 / 336)
+# Iniciante (208 / 336)
 
 
 
@@ -198,6 +198,7 @@
   - [x]  [3146](https://www.beecrowd.com.br/judge/pt/problems/view/3146) - [Charadas no Escuro](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3146.py)
   - [x]  [3147](https://www.beecrowd.com.br/judge/pt/problems/view/3147) - [A Batalha dos Cinco Exércitos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3147.py)
   - [x]  [3157](https://www.beecrowd.com.br/judge/pt/problems/view/3157) - [Viva a Ciência!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3157.py)  
+  - [x]  [3161](https://www.beecrowd.com.br/judge/pt/problems/view/3161) - [As Frutas Esquecidas](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/3161.py)  
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3170.py) 
   - [x]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - [Estrela de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3173.py)  
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3174.py)    
@@ -315,7 +316,6 @@
   - [ ]  [3089](https://www.beecrowd.com.br/judge/pt/problems/view/3089) - Presentes de Natal  
   - [ ]  [3140](https://www.beecrowd.com.br/judge/pt/problems/view/3140) - Copiando e Colando Código
   - [ ]  [3142](https://www.beecrowd.com.br/judge/pt/problems/view/3142) - Excel Bugado    
-  - [ ]  [3161](https://www.beecrowd.com.br/judge/pt/problems/view/3161) - As Frutas Esquecidas
   - [ ]  [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - Comunicação Espacial
   - [ ]  [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - Fiscalizando Empresa
   - [ ]  [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - Procurando Palavras na Diagonal Principal  
