@@ -1,4 +1,4 @@
-# Iniciante (209 / 336)
+# Iniciante (210 / 336)
 
 
 
@@ -168,6 +168,7 @@
   - [x]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2543.py)  
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.py)
   - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2582.py)  
+  - [x]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2653.py)
   - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2747.py)
   - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2748.py)
   - [x]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2749.py)
@@ -255,7 +256,6 @@
   - [ ]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - Escala de Cinza
   - [ ]  [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ]  [2635](https://www.beecrowd.com.br/judge/pt/problems/view/2635) - Navegador Web
-  - [ ]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - Dijkstra
   - [ ]  [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - Fase
   - [ ]  [2670](https://www.beecrowd.com.br/judge/pt/problems/view/2670) - Máquina de Café
   - [ ]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - A Mudança
