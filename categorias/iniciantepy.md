@@ -1,4 +1,4 @@
-# Iniciante (205 / 336)
+# Iniciante (206 / 336)
 
 
 
@@ -200,6 +200,7 @@
   - [x]  [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Bolinhas de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3170.py) 
   - [x]  [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - [Estrela de Natal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3173.py)  
   - [x]  [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Grupo de Trabalho do Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3174.py)    
+  - [x]  [3209](https://www.beecrowd.com.br/judge/pt/problems/view/3209) - [Tomadas Elétricas](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/3209.py)  
   - [x]  [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3224.py)
   - [x]  [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - [Ajude um Candidato a PhD!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3241.py)  
   - [x]  [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3249.py)  
