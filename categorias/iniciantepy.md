@@ -1,4 +1,4 @@
-# Iniciante (213 / 336)
+# Iniciante (214 / 336)
 
 
 
@@ -150,6 +150,7 @@
   - [x]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2059.py)    
   - [x]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2060.py)
   - [x]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2061.py)  
+  - [x]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2140.py)  
   - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2143.py)    
   - [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2146.py)
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.py)
@@ -228,7 +229,6 @@
   - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
-  - [ ]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - Duas Notas
   - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - Galopeira
   - [ ]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
   - [ ]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - Número Aproximado de Primos  
