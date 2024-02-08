@@ -1,4 +1,4 @@
-# Ad-Hoc (48 / 745)
+# Ad-Hoc (49 / 745)
 
 
 
@@ -20,6 +20,7 @@
   - [x]  [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) - [Zerinho ou Um](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1467.py)    
   - [x]  [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1515.py)    
   - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1533.py)    
+  - [x]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/1546.py)  
   - [x]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1573.py)    
   - [x]  [1715](https://www.beecrowd.com.br/judge/pt/problems/view/1715) - [Handebol](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1715.py)  
   - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1743.py)   
@@ -151,7 +152,6 @@
   - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores  
   - [ ]  [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - Planejando a Energia
   - [ ]  [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - Lendo Livros
-  - [ ]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - Feedback
   - [ ]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - Adivinha
   - [ ]  [1553](https://www.beecrowd.com.br/judge/pt/problems/view/1553) - Perguntas mais Frequentes
   - [ ]  [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - Soma de Dois Quadrados  
