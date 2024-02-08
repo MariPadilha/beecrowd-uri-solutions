@@ -1,4 +1,4 @@
-# Ad-Hoc (45 / 745)
+# Ad-Hoc (46 / 745)
 
 
 
@@ -37,6 +37,7 @@
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2381.py)  
   - [x]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - [Vice-Campeão](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2408.py)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
+  - [x]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - [Campeonato](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/2417.py)
   - [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2451.py) 
   - [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2455.py)  
   - [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2457.py)
@@ -458,7 +459,6 @@
   - [ ]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número  
   - [ ]  [2415](https://www.beecrowd.com.br/judge/pt/problems/view/2415) - Consecutivos
   - [ ]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - Corrida
-  - [ ]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - Campeonato
   - [ ]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - Carnaval  
   - [ ]  [2420](https://www.beecrowd.com.br/judge/pt/problems/view/2420) - Guerra por Território
   - [ ]  [2421](https://www.beecrowd.com.br/judge/pt/problems/view/2421) - Álbum de Fotos
