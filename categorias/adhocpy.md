@@ -1,4 +1,4 @@
-# Ad-Hoc (46 / 745)
+# Ad-Hoc (47 / 745)
 
 
 
@@ -23,6 +23,7 @@
   - [x]  [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Fábrica de Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1573.py)    
   - [x]  [1715](https://www.beecrowd.com.br/judge/pt/problems/view/1715) - [Handebol](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1715.py)  
   - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1743.py)   
+  - [x]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/1793.py)    
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
   - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
@@ -209,7 +210,6 @@
   - [ ]  [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - CPF 2  
   - [ ]  [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - URI
   - [ ]  [1791](https://www.beecrowd.com.br/judge/pt/problems/view/1791) - Descobrindo uma Matriz
-  - [ ]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - Escada Rolante  
   - [ ]  [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - Lavanderia  
   - [ ]  [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - Economia Brasileira  
   - [ ]  [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - Onde Estão Minhas Chaves
