@@ -4,12 +4,6 @@
 
 ## Problemas resolvidos
 
-  - [ ]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - Sedex 
-  - [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada
-  - [ ]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - Busca na Internet
-  - [ ]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - PacMan
-  - [ ]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - Gangorra  
-  - [ ]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - Sinuca
   - [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta
   - [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado
   - [ ]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 2.0
@@ -419,10 +413,12 @@
   - [ ]  [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) - Batalha Naval
   - [ ]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - Garçom   
   - [ ]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - Pneu
+  - [ ]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - Sedex  
   - [ ]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - Copa do Mundo
   - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
   - [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador  
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena
+  - [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada  
   - [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sedex Marciano  
   - [ ]  [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - Altas Aventuras
   - [ ]  [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - Tradutor Alienígena
@@ -452,6 +448,7 @@
   - [ ]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - Colchão  
   - [ ]  [2410](https://www.beecrowd.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
   - [ ]  [2411](https://www.beecrowd.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado
+  - [ ]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - Busca na Internet  
   - [ ]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número  
   - [ ]  [2415](https://www.beecrowd.com.br/judge/pt/problems/view/2415) - Consecutivos
   - [ ]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - Corrida
@@ -483,9 +480,11 @@
   - [ ]  [2448](https://www.beecrowd.com.br/judge/pt/problems/view/2448) - Carteiro
   - [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura  
   - [ ]  [2450](https://www.beecrowd.com.br/judge/pt/problems/view/2450) - Matriz Escada
+  - [ ]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - PacMan  
   - [ ]  [2452](https://www.beecrowd.com.br/judge/pt/problems/view/2452) - Semente
   - [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P
   - [ ]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - Flíper
+  - [ ]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - Gangorra    
   - [ ]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - Cartas
   - [ ]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - Letras  
   - [ ]  [2458](https://www.beecrowd.com.br/judge/pt/problems/view/2458) - Setas
@@ -496,6 +495,7 @@
   - [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
   - [ ]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - Decifra
   - [ ]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - Passa Bolinha
+  - [ ]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - Sinuca  
   - [ ]  [2467](https://www.beecrowd.com.br/judge/pt/problems/view/2467) - Frequência
   - [ ]  [2468](https://www.beecrowd.com.br/judge/pt/problems/view/2468) - Mapa
   - [ ]  [2469](https://www.beecrowd.com.br/judge/pt/problems/view/2469) - Notas 
