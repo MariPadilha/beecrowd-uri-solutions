@@ -1,4 +1,4 @@
-# Iniciante (216 / 336)
+# Iniciante (217 / 336)
 
 
 
@@ -172,6 +172,7 @@
   - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2582.py)  
   - [x]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2653.py)
   - [x]  [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2702.py)  
+  - [x]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2709.py)  
   - [x]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2717.py)  
   - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2747.py)
   - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2748.py)
@@ -265,7 +266,6 @@
   - [ ]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - A Mudança
   - [ ]  [2686](https://www.beecrowd.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
   - [ ]  [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina
-  - [ ]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - As Moedas de Robbie
   - [ ]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - Rodízio Veicular
   - [ ]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - Luzes de Natal
