@@ -1,15 +1,9 @@
-# Ad-Hoc (24 / 745)
+# Ad-Hoc (0 / 745)
 
 
 
 ## Problemas resolvidos
 
-  - [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta
-  - [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado
-  - [ ]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 2.0
-  - [ ]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0
-  - [ ]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - Competição de Códigos
-  - [ ]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - Lista de Treinamento
 
 ## Problemas não resolvidos
 
@@ -672,11 +666,13 @@
   - [ ]  [3034](https://www.beecrowd.com.br/judge/pt/problems/view/3034) - O Caso Douglas 
   - [ ]  [3035](https://www.beecrowd.com.br/judge/pt/problems/view/3035) - Fabrica de Peças
   - [ ]  [3041](https://www.beecrowd.com.br/judge/pt/problems/view/3041) - Distribuição de Artigos
+  - [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta  
   - [ ]  [3050](https://www.beecrowd.com.br/judge/pt/problems/view/3050) - Distância Entre Amigos  
   - [ ]  [3052](https://www.beecrowd.com.br/judge/pt/problems/view/3052) - Chuva
   - [ ]  [3054](https://www.beecrowd.com.br/judge/pt/problems/view/3054) - Matriz Super-legal
   - [ ]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - Ponto do Meio  
   - [ ]  [3057](https://www.beecrowd.com.br/judge/pt/problems/view/3057) - Detetive
+  - [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado  
   - [ ]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - Pares de Números
   - [ ]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - Parcelamento Sem Juros  
   - [ ]  [3062](https://www.beecrowd.com.br/judge/pt/problems/view/3062) - Coleção de Upas
@@ -687,18 +683,22 @@
   - [ ]  [3085](https://www.beecrowd.com.br/judge/pt/problems/view/3085) - O Grande Dia
   - [ ]  [3087](https://www.beecrowd.com.br/judge/pt/problems/view/3087) - O Padawan Jorge
   - [ ]  [3090](https://www.beecrowd.com.br/judge/pt/problems/view/3090) - Campo de Batalha  
+  - [ ]  [3092](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 2.0  
+  - [ ]  [3093](https://www.beecrowd.com.br/judge/pt/problems/view/3093) - Truco da Galera 1.0  
   - [ ]  [3094](https://www.beecrowd.com.br/judge/pt/problems/view/3094) - Truco da Galera 3.0  
   - [ ]  [3105](https://www.beecrowd.com.br/judge/pt/problems/view/3105) - Dobrando Papel
+  - [ ]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - Competição de Códigos  
   - [ ]  [3109](https://www.beecrowd.com.br/judge/pt/problems/view/3109) - Trocando de Mesa  
   - [ ]  [3111](https://www.beecrowd.com.br/judge/pt/problems/view/3111) - A Vitória de Jim
   - [ ]  [3112](https://www.beecrowd.com.br/judge/pt/problems/view/3112) - Decodificação Ambígua
-  - [ ]  [3113](https://www.beecrowd.com.br/judge/pt/problems/view/3113) - Cadeado Insano
+  - [ ]  [3113](https://www.beecrowd.com.br/judge/pt/problems/view/3113) - Cadeado Insano  
   - [ ]  [3117](https://www.beecrowd.com.br/judge/pt/problems/view/3117) - Atrasadinhos  
   - [ ]  [3120](https://www.beecrowd.com.br/judge/pt/problems/view/3120) - Jogada de Marketing
   - [ ]  [3121](https://www.beecrowd.com.br/judge/pt/problems/view/3121) - Acionista Por um Dia
   - [ ]  [3122](https://www.beecrowd.com.br/judge/pt/problems/view/3122) - Festa de Final de Ano
   - [ ]  [3123](https://www.beecrowd.com.br/judge/pt/problems/view/3123) - Pedras do Gênesis
   - [ ]  [3125](https://www.beecrowd.com.br/judge/pt/problems/view/3125) - Princesa das Equações
+  - [ ]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - Lista de Treinamento  
   - [ ]  [3127](https://www.beecrowd.com.br/judge/pt/problems/view/3127) - Kampeonato de Feijão
   - [ ]  [3128](https://www.beecrowd.com.br/judge/pt/problems/view/3128) - Regras do Cinema
   - [ ]  [3129](https://www.beecrowd.com.br/judge/pt/problems/view/3129) - Figurinhas Repetidas
