@@ -1,4 +1,4 @@
-#Ad-Hoc (52 / 745)
+#Ad-Hoc (53 / 745)
 
 
 
@@ -38,6 +38,7 @@
   - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2373.py) 
   - [x]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2374.py)  
   - [x]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2375.py) 
+  - [x]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - [Copa do Mundo](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/2376.py)  
   - [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2381.py)  
   - [x]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - [Vice-Campeão](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2408.py)  
   - [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2413.py)  
@@ -424,7 +425,6 @@
   - [ ]  [2367](https://www.beecrowd.com.br/judge/pt/problems/view/2367) - Competição de Chocolate
   - [ ]  [2368](https://www.beecrowd.com.br/judge/pt/problems/view/2368) - Simulador
   - [ ]  [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) - Batalha Naval
-  - [ ]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - Copa do Mundo
   - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
   - [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador  
   - [ ]  [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - Dança Indígena
