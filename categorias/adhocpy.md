@@ -1,4 +1,4 @@
-# Ad-Hoc (51 / 745)
+#Ad-Hoc (52 / 745)
 
 
 
@@ -34,7 +34,7 @@
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
   - [x]  [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) - [Triângulos e Polígonos Regulares](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2058.py)    
   - [x]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2187.py)    
-  - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2328.py)    
+  - [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2328.py)   - [x]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/2369.py)  
   - [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2373.py) 
   - [x]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2374.py)  
   - [x]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/2375.py) 
@@ -423,7 +423,6 @@
   - [ ]  [2366](https://www.beecrowd.com.br/judge/pt/problems/view/2366) - Maratona
   - [ ]  [2367](https://www.beecrowd.com.br/judge/pt/problems/view/2367) - Competição de Chocolate
   - [ ]  [2368](https://www.beecrowd.com.br/judge/pt/problems/view/2368) - Simulador
-  - [ ]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - Conta de Água  
   - [ ]  [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) - Batalha Naval
   - [ ]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - Copa do Mundo
   - [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
