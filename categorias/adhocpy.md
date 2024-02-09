@@ -1,4 +1,4 @@
-# Ad-Hoc (50 / 745)
+# Ad-Hoc (51 / 745)
 
 
 
@@ -27,7 +27,8 @@
   - [x]  [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - [Escada Rolante](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/1793.py)    
   - [x]  [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Fases da Lua](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1893.py) 
   - [x]  [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Jogo do Limite](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1895.py)  
-  - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py) 
+  - [x]  [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Borboletas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1901.py)
+  - [x]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - [Fatorial](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/1936.py)
   - [x]  [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1943.py)
   - [x]  [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - [Perdido em Marte](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/1986.py)    
   - [x]  [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibilidade Por 3](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1987.py) 
@@ -253,7 +254,6 @@
   - [ ]  [1920](https://www.beecrowd.com.br/judge/pt/problems/view/1920) - Fonte dos Desejos
   - [ ]  [1934](https://www.beecrowd.com.br/judge/pt/problems/view/1934) - Quebra-cabeça
   - [ ]  [1935](https://www.beecrowd.com.br/judge/pt/problems/view/1935) - Espiral
-  - [ ]  [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - Fatorial  
   - [ ]  [1937](https://www.beecrowd.com.br/judge/pt/problems/view/1937) - Guardiões Curiosos
   - [ ]  [1939](https://www.beecrowd.com.br/judge/pt/problems/view/1939) - Ominobox
   - [ ]  [1940](https://www.beecrowd.com.br/judge/pt/problems/view/1940) - Jogo da Estratégia
