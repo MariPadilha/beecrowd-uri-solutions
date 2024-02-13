@@ -72,13 +72,14 @@
   - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1116.js)  
   - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1117.js)
   - [x]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1118.js)  
-  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1131.js)    
+  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1131.js)
   - [x]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1132.js)    
   - [x]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1133.js)
   - [x]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1134.js)
   - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1142.js)
   - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1143.js)
   - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1144.js)
+  - [x]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1145.js)    
   - [x]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - [Ultrapassando Z](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1150.js)  
   - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1153.js)
   - [x]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1154.js)
@@ -165,7 +166,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
   - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - Fibonacci Fácil  
