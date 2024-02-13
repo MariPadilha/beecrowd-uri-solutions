@@ -1,4 +1,4 @@
-# Ad-Hoc (54 / 745)
+# Ad-Hoc (55 / 745)
 
 
 
@@ -7,6 +7,7 @@
   - [x]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1026.py)
   - [x]  [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1103.py)    
   - [x]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1129.py)
+  - [x]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/1140.py)    
   - [x]  [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - [Frequência de Números](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1171.py)    
   - [x]  [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - [O jogo Matemático de Paula](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1192.py)
   - [x]  [1216](https://www.beecrowd.com.br/judge/pt/problems/view/1216) - [Getline One](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1216.py)  
@@ -81,7 +82,6 @@
   - [ ]  [1130](https://www.beecrowd.com.br/judge/pt/problems/view/1130) - Jogo da Velha
   - [ ]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - Bingo!    
   - [ ]  [1139](https://www.beecrowd.com.br/judge/pt/problems/view/1139) - Necessidades Elétricas
-  - [ ]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - Flores Florescem da França  
   - [ ]  [1147](https://www.beecrowd.com.br/judge/pt/problems/view/1147) - Fuga do Cavalo
   - [ ]  [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - WERTYU  
   - [ ]  [1206](https://www.beecrowd.com.br/judge/pt/problems/view/1206) - Desafio de São Petersburgo
