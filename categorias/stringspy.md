@@ -1,11 +1,11 @@
-# Strings (0 / 148)
+# Strings (1 / 148)
 
+  - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1120.py)  
 
 
 ## Problemas não resolvidos
 
   - [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - Criptografia
-  - [ ]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - Revisão de Contrato  
   - [ ]  [1141](https://www.beecrowd.com.br/judge/pt/problems/view/1141) - Cultivando Strings
   - [ ]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - LED
   - [ ]  [1222](https://www.beecrowd.com.br/judge/pt/problems/view/1222) - Concurso de Contos
