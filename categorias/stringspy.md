@@ -1,8 +1,8 @@
-# Strings (2 / 148)
+# Strings (3 / 148)
 
   - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1120.py)  
   - [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1168.py)
-
+  - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1253.py) 
 
 ## Problemas não resolvidos
 
@@ -17,7 +17,6 @@
   - [ ]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - Encaixa ou Não II 
   - [ ]  [1243](https://www.beecrowd.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta
-  - [ ]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - Cifra de César  
   - [ ]  [1254](https://www.beecrowd.com.br/judge/pt/problems/view/1254) - Substituição de Tag
   - [ ]  [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) - Frequência de Letras  
   - [ ]  [1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) - Array Hash  
