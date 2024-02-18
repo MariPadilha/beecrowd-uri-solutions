@@ -1,9 +1,10 @@
-# Strings (4 / 148)
+# Strings (5 / 148)
 
   - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1120.py)  
   - [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1168.py)
   - [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1241.py)  
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1253.py) 
+  - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/MariPadilha/beecrowd-answers/blob/strings/3358.py)
 
 ## Problemas não resolvidos
 
@@ -150,4 +151,3 @@
   - [ ]  [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - Jogo de Palavras  
   - [ ]  [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - Ancestralidade
   - [ ]  [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - Araucárias e a Gralha Azul de Três Olhos
-  - [ ]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - Sobrenome Não é Fácil
