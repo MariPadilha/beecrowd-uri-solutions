@@ -1,6 +1,7 @@
-# Strings (2 / 148)
+# Strings (3 / 148)
 
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1253.js)  
+  - [x]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/MariPadilha/beecrowd-answers/blob/strings/2694.js)    
   - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/MariPadilha/beecrowd-answers/blob/strings/3358.js)
 
 
@@ -116,7 +117,6 @@
   - [ ]  [2678](https://www.beecrowd.com.br/judge/pt/problems/view/2678) - Discagem de Voz
   - [ ]  [2691](https://www.beecrowd.com.br/judge/pt/problems/view/2691) - O Matemático  
   - [ ]  [2692](https://www.beecrowd.com.br/judge/pt/problems/view/2692) - Teclado Zoeiro
-  - [ ]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - Problema com a Calculadora  
   - [ ]  [2697](https://www.beecrowd.com.br/judge/pt/problems/view/2697) - Sequencia Completa de Naebbirac
   - [ ]  [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - Minha Senha Provisória  
   - [ ]  [2722](https://www.beecrowd.com.br/judge/pt/problems/view/2722) - Pegadinha de Evergreen  
