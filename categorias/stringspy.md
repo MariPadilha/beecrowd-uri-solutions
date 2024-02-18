@@ -1,9 +1,10 @@
-# Strings (6 / 148)
+# Strings (7 / 148)
 
   - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1120.py)  
   - [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1168.py)
   - [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1241.py)  
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1253.py) 
+  - [x]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/MariPadilha/beecrowd-answers/blob/strings/2137.py)    
   - [x]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/MariPadilha/beecrowd-answers/blob/strings/2694.py)   
   - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/MariPadilha/beecrowd-answers/blob/strings/3358.py)
 
@@ -89,7 +90,6 @@
   - [ ]  [2097](https://www.beecrowd.com.br/judge/pt/problems/view/2097) - Nome para Número
   - [ ]  [2108](https://www.beecrowd.com.br/judge/pt/problems/view/2108) - Contando Caracters  
   - [ ]  [2132](https://www.beecrowd.com.br/judge/pt/problems/view/2132) - Não é Mais Um Joguinho Canadense!
-  - [ ]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - A Biblioteca do Senhor Severino  
   - [ ]  [2150](https://www.beecrowd.com.br/judge/pt/problems/view/2150) - Vogais Alienígenas  
   - [ ]  [2153](https://www.beecrowd.com.br/judge/pt/problems/view/2153) - Sanduicheiche
   - [ ]  [2157](https://www.beecrowd.com.br/judge/pt/problems/view/2157) - Sequência Espelho  
