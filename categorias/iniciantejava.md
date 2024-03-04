@@ -1,4 +1,4 @@
-# Iniciante (11 / 335)
+# Iniciante (12 / 335)
 
   - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1000.java)
   - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1001.java)
@@ -11,11 +11,11 @@
   - [x]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1008.java)
   - [x]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1009.java)
   - [x]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1010.java)
+  - [x]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1011.java)
 
 
 ## Problemas resolvidos
 
-  - [ ]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - Esfera
   - [ ]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - Área
   - [ ]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - O Maior
   - [ ]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - Consumo
