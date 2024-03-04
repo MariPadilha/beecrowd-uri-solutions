@@ -1,4 +1,4 @@
-# Iniciante (18 / 335)
+# Iniciante (19 / 335)
 
   - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1000.java)
   - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1001.java)
@@ -18,11 +18,11 @@
   - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1015.java)
   - [x]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1016.java)
   - [x]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1017.java)
+  - [x]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1018.java)
 
 
 ## Problemas resolvidos
 
-  - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - Cédulas
   - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo
   - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
   - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
