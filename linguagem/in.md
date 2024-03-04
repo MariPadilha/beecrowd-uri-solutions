@@ -6,6 +6,6 @@
   <a href="https://github.com/MariPadilha/URI-online-answers/blob/main/categorias/iniciantec.md" target="_blank"><img align="center" alt="Mari-c" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
    <a href="https://github.com/MariPadilha/URI-online-answers/blob/main/categorias/iniciantecs.md" target="_blank"><img align="center" alt="Mari-c#" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
   <a href="https://github.com/MariPadilha/URI-online-answers/blob/main/categorias/iniciantecpp.md" target="_blank"><img align="center" alt="Mari-c++" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
-    <a href="https://github.com/MariPadilha/URI-online-answers/blob/main/categorias/iniciantecpp.md" target="_blank"><img align="center" alt="Mari-java" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+    <a href="https://github.com/MariPadilha/URI-online-answers/blob/main/categorias/iniciantejava.md" target="_blank"><img align="center" alt="Mari-java" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 </div>
 <hr>
