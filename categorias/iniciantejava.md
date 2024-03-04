@@ -1,11 +1,11 @@
-# Iniciante (1 / 335)
+# Iniciante (2 / 335)
 
   - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1000.java)
+  - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1001.java)
 
 
 ## Problemas resolvidos
 
-  - [ ]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - Extremamente Básico
   - [ ]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - Área do Círculo
   - [ ]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - Soma Simples
   - [ ]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - Produto Simples
