@@ -1,4 +1,6 @@
-# Iniciante (20 / 335)
+# Iniciante (21 / 335)
+
+## Problemas resolvidos
 
   - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1000.java)
   - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1001.java)
@@ -20,11 +22,9 @@
   - [x]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1017.java)
   - [x]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1018.java)
   - [x]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1019.java)
+  - [x]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1020.java)
 
 
-## Problemas resolvidos
-
-  - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias
   - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas
   - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - Teste de Seleção 1
   - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara
