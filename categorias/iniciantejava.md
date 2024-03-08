@@ -1,4 +1,4 @@
-# Iniciante (27 / 335)
+# Iniciante (28 / 335)
 
 
 ## Problemas resolvidos
@@ -31,7 +31,7 @@
   - [x]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1037.java)
   - [X]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1038.java)
   - [x]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1040.java)
-  - [ ]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto
+  - [x]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1041.java)
   - [ ]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - Sort Simples
   - [ ]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - Triângulo
   - [ ]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - Múltiplos  
