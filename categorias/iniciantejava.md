@@ -1,4 +1,4 @@
-# Iniciante (36 / 335)
+# Iniciante (37 / 335)
 
 
 ## Problemas resolvidos
@@ -41,10 +41,10 @@
   - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1048.java) 
   - [x]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1049.java) 
   - [x]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1050.java)
+  - [x]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1051.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - Mês
   - [ ]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - Números Pares
   - [ ]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - Números Positivos
