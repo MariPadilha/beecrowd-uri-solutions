@@ -1,4 +1,4 @@
-# Iniciante (35 / 335)
+# Iniciante (36 / 335)
 
 
 ## Problemas resolvidos
@@ -40,7 +40,7 @@
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1047.java)
   - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1048.java) 
   - [x]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1049.java) 
-  - [ ]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - DDD
+  - [x]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1050.java)
 
 ## Problemas não resolvidos
 
