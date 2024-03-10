@@ -1,4 +1,4 @@
-# Iniciante (42 / 335)
+# Iniciante (44 / 335)
 
 
 ## Problemas resolvidos
@@ -47,10 +47,10 @@
   - [x]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1060.java)
   - [x]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1061.java)
   - [x]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1064.java)
+  - [x]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1065.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - Pares entre Cinco Números
   - [ ]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - Pares, Ímpares, Positivos e Negativos
   - [ ]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - Números Ímpares
   - [ ]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - Seis Números Ímpares
