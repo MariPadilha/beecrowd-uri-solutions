@@ -39,11 +39,11 @@
   - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1046.java)
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1047.java)
   - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1048.java) 
+  - [x]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1049.java) 
   - [ ]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - DDD
 
 ## Problemas não resolvidos
 
-  - [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - Animal
   - [ ]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - Mês
   - [ ]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - Números Pares
