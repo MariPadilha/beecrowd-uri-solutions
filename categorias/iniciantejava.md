@@ -1,4 +1,4 @@
-# Iniciante (48 / 335)
+# Iniciante (49 / 335)
 
 
 ## Problemas resolvidos
@@ -52,10 +52,10 @@
   - [x]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - [Números Ímpares](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1067.java)
   - [x]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1070.java)
   - [x]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1071.java)
+  - [x]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Intervalo 2](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1072.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - Intervalo 2
   - [ ]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - Quadrado de Pares
   - [ ]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - Par ou Ímpar
   - [ ]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - Resto 2
