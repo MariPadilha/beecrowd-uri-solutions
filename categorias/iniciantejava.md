@@ -1,4 +1,4 @@
-# Iniciante (52 / 335)
+# Iniciante (53 / 335)
 
 
 ## Problemas resolvidos
@@ -56,10 +56,10 @@
   - [x]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1073.java)
   - [x]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) -[Par ou Ímpar](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1074.java)
   - [x]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Resto 2](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1075.java)
+  - [x]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1078.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - Tabuada
   - [ ]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - Médias Ponderadas
   - [ ]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - Maior e Posição
   - [ ]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - Experiências
