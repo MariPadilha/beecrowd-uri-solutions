@@ -1,4 +1,4 @@
-# Iniciante (62 / 335)
+# Iniciante (63 / 335)
 
 
 ## Problemas resolvidos
@@ -66,10 +66,10 @@
   - [x]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1098.java)
   - [x]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1099.java)
   - [x]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1101.java)
+  - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1113.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - Crescente e Decrescente
   - [ ]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - Senha Fixa
   - [ ]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - Quadrante
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
