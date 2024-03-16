@@ -1,4 +1,4 @@
-# Iniciante (158 / 335)
+# Iniciante (159 / 335)
 
 
 
@@ -163,6 +163,7 @@
   - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3302.js)
   - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3303.js)
   - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3342.js)
+  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.js)
 
 ## Problemas não resolvidos
 
@@ -339,6 +340,5 @@
   - [ ]  [3258](https://www.beecrowd.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.beecrowd.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
   - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
-  - [ ]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - Brute
   - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB
   - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas
