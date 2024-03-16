@@ -1,4 +1,4 @@
-# Iniciante (64 / 335)
+# Iniciante (65 / 335)
 
 
 ## Problemas resolvidos
@@ -68,10 +68,10 @@
   - [x]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequência de Números e Soma](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1101.java)
   - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1113.java)
   - [x]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1114.java)
+  - [x]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1115.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - Quadrante
   - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
   - [ ]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - Validação de Nota  
   - [ ]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - Várias Notas Com Validação
