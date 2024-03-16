@@ -1,4 +1,4 @@
-# Iniciante (67 / 335)
+# Iniciante (68 / 335)
 
 
 ## Problemas resolvidos
@@ -72,6 +72,7 @@
   - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1116.java)
   - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1117.java) 
   - [x]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1118.java)
+  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.java)
 
 ## Problemas não resolvidos
 
@@ -342,6 +343,5 @@
   - [ ]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - Palavrão
   - [ ]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - Keanu  
   - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
-  - [ ]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - Brute
   - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB
   - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas
