@@ -1,4 +1,4 @@
-# Iniciante (36 / 335)
+# Iniciante (37 / 335)
 
 
 
@@ -38,7 +38,9 @@
   - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1046.cs)
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1047.cs)
   - [x]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1049.cs)
-  - [x]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1050.cs)   - [x]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1052.cs)
+  - [x]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1050.cs)
+  - [x]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1052.cs)
+  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cs)
 
 ## Problemas não resolvidos
 
@@ -341,6 +343,5 @@
   - [ ]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - Palavrão
   - [ ]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - Keanu  
   - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
-  - [ ]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - Brute
   - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB
   - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas
