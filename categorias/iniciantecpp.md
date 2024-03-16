@@ -1,4 +1,4 @@
-# Iniciante (98 / 335)
+# Iniciante (99 / 335)
 
 
 
@@ -102,6 +102,7 @@
   - [x]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Preenchimento de Vetor IV](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1179.cpp)
   - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1180.cpp)
   - [x]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1181.cpp)
+  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
@@ -339,6 +340,5 @@
   - [ ]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - Palavrão
   - [ ]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - Keanu  
   - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
-  - [ ]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - Brute
   - [ ]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - Flutuação do PIB
   - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas
