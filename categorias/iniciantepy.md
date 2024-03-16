@@ -1,4 +1,4 @@
-# Iniciante (217 / 336)
+# Iniciante (218 / 336)
 
 
 
@@ -220,6 +220,7 @@
   - [x]  [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Resposta Certa](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3302.py)
   - [x]  [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Palavrão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3303.py)
   - [x]  [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3342.py)
+  - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.py)  
   - [x]  [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [Flutuação do PIB](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3346.py)
 
 ## Problemas não resolvidos
@@ -337,5 +338,4 @@
   - [ ]  [3258](https://www.beecrowd.com.br/judge/pt/problems/view/3258) - Fervendo Vegetais
   - [ ]  [3267](https://www.beecrowd.com.br/judge/pt/problems/view/3267) - Passeio no Penhasco
   - [ ]  [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - Attack On Gasparini
-  - [ ]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - Brute
   - [ ]  [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - Jogo das Aranhas  
