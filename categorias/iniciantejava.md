@@ -1,4 +1,4 @@
-# Iniciante (75 / 335)
+# Iniciante (76 / 335)
 
 
 ## Problemas resolvidos
@@ -79,11 +79,11 @@
   - [x]  [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1142.java)  
   - [x]  [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Quadrado e ao Cubo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1143.java)  
   - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1144.java)  
+  - [x]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1145.java)    
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - Sequência Lógica 2  
   - [ ]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - Sequências Crescentes  
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - Ultrapassando Z
