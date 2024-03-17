@@ -1,4 +1,4 @@
-# Iniciante (68 / 335)
+# Iniciante (69 / 335)
 
 
 ## Problemas resolvidos
@@ -72,11 +72,11 @@
   - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1116.java)
   - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1117.java) 
   - [x]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1118.java)
+  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1131.java)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - Grenais  
   - [ ]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - Múltiplos de 13  
   - [ ]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - Resto da Divisão
   - [ ]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - Tipo de Combustível  
