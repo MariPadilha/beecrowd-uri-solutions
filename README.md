@@ -1,6 +1,6 @@
 <h1 align="center"
     <p>
-BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON, C, C# e C++👋
+BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON, C, C#, C++ e JAVA👋
 </h1>
 <br>
 
@@ -17,7 +17,7 @@ BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON, C, C# e C++👋
 
 ## 📖 INFO:
 
-  - Repositório destinado a colocar meus problemas resolvidos no <a href="https://www.beecrowd.com.br/judge/pt/">Beecrowd</a> utilizando JavaScript, Python, C, C# e C++.
+  - Repositório destinado a colocar meus problemas resolvidos no <a href="https://www.beecrowd.com.br/judge/pt/">Beecrowd</a> utilizando JavaScript, Python, C, C#, C++ e Java.
   
   - As outras branches, estão separadas por categorias para sua melhor experiência neste repositório.
 
@@ -27,6 +27,7 @@ BEECROWD / URI - PROBLEMAS RESOLVIDOS COM JAVASCRIPT, PYTHON, C, C# e C++👋
   <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Mari-c#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mari-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <a href="https://github.com/MariPadilha/URI-online-answers/blob/main/categorias/iniciantecpp.md" target="_blank"><img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
 </div>
 <hr>
