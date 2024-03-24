@@ -91,9 +91,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - Fatorial Simples
-  - [ ]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - Idades
-  - [ ]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - Sequência S
   - [ ]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - Sequência S II
   - [ ]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - Divisores I  
   - [ ]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
