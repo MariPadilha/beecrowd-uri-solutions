@@ -1,4 +1,4 @@
-# Iniciante (80 / 335)
+# Iniciante (81 / 335)
 
 
 ## Problemas resolvidos
@@ -84,11 +84,11 @@
   - [x]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - [Somando Inteiros Consecutivos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1149.java)  
   - [x]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - [Ultrapassando Z](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1150.java)  
   - [x]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1151.java)  
+  - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1153.java)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - Fatorial Simples
   - [ ]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - Idades
   - [ ]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - Sequência S  
   - [ ]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - Fatorial Simples
