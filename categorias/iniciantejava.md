@@ -1,4 +1,4 @@
-# Iniciante (85 / 335)
+# Iniciante (86 / 335)
 
 
 ## Problemas resolvidos
@@ -89,11 +89,11 @@
   - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1155.java)   
   - [x]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - [Sequência S II](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1156.java)  
   - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1157.java)    
+  - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1158.java)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.java)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - Soma de Ímpares Consecutivos III
   - [ ]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - Soma de Pares Consecutivos
   - [ ]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - Crescimento Populacional
   - [ ]  [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - Número Perfeito  
