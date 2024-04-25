@@ -1,10 +1,11 @@
-# Strings (8 / 148)
+# Strings (9 / 148)
 
   - [x]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1024.py)
   - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1120.py)  
   - [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1168.py)
   - [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1241.py)  
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1253.py) 
+  - [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/strings/1871.py)   
   - [x]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/MariPadilha/beecrowd-answers/blob/strings/2137.py)    
   - [x]  [2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) - [Problema com a Calculadora](https://github.com/MariPadilha/beecrowd-answers/blob/strings/2694.py)   
   - [x]  [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Sobrenome Não é Fácil](https://github.com/MariPadilha/beecrowd-answers/blob/strings/3358.py)
@@ -73,7 +74,6 @@
   - [ ]  [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - O Jogo da Confiança de Daenerys
   - [ ]  [1859](https://www.beecrowd.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
   - [ ]  [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - Espiral Quadrada  
-  - [ ]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - Zero vale Zero  
   - [ ]  [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - Pedra-papel-tesoura-lagarto-Spock  
   - [ ]  [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - Soma de Propina
   - [ ]  [1941](https://www.beecrowd.com.br/judge/pt/problems/view/1941) - Palíndromo
