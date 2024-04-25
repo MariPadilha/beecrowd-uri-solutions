@@ -1,8 +1,9 @@
-# Strings (9 / 148)
+# Strings (10 / 148)
 
   - [x]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1024.py)
   - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1120.py)  
   - [x]  [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1168.py)
+  - [x]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/strings/1238.py)  
   - [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1241.py)  
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1253.py) 
   - [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/strings/1871.py)   
@@ -17,7 +18,6 @@
   - [ ]  [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) - Sentença Dançante
   - [ ]  [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) - De Dentro para Fora  
   - [ ]  [1237](https://www.beecrowd.com.br/judge/pt/problems/view/1237) - Comparação de Substring  
-  - [ ]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - Combinador  
   - [ ]  [1239](https://www.beecrowd.com.br/judge/pt/problems/view/1239) - Atalhos Bloggo  
   - [ ]  [1243](https://www.beecrowd.com.br/judge/pt/problems/view/1243) - O Quão Fácil é...
   - [ ]  [1248](https://www.beecrowd.com.br/judge/pt/problems/view/1248) - Plano de Dieta
