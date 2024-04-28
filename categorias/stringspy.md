@@ -1,4 +1,4 @@
-# Strings (12 / 148)
+# Strings (13 / 148)
 
   - [x]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1024.py)
   - [x]  [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Revisão de Contrato](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1120.py)  
@@ -7,6 +7,7 @@
   - [x]  [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) - [Combinador](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/strings/1238.py)  
   - [x]  [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) - [Encaixa ou Não II](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1241.py)  
   - [x]  [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) - [Cifra de César](https://github.com/MariPadilha/beecrowd-answers/blob/strings/1253.py) 
+  - [x]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - [Variações](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/strings/1632.py)    
   - [x]  [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero vale Zero](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/strings/1871.py)   
   - [x]  [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) - [A Biblioteca do Senhor Severino](https://github.com/MariPadilha/beecrowd-answers/blob/strings/2137.py)    
   - [x]  [2591](https://www.beecrowd.com.br/judge/pt/problems/view/2591) - [HameKameKa](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/strings/2591.py)   
@@ -61,7 +62,6 @@
   - [ ]  [1586](https://www.beecrowd.com.br/judge/pt/problems/view/1586) - Cabo de Guerra
   - [ ]  [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) - Avance as Letras  
   - [ ]  [1629](https://www.beecrowd.com.br/judge/pt/problems/view/1629) - DescompactaFACE
-  - [ ]  [1632](https://www.beecrowd.com.br/judge/pt/problems/view/1632) - Variações  
   - [ ]  [1664](https://www.beecrowd.com.br/judge/pt/problems/view/1664) - Bullshit Bingo
   - [ ]  [1667](https://www.beecrowd.com.br/judge/pt/problems/view/1667) - HTML
   - [ ]  [1686](https://www.beecrowd.com.br/judge/pt/problems/view/1686) - Sequência de Palíndromos
