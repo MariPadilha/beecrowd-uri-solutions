@@ -1,4 +1,4 @@
-# Ad-Hoc (56 / 745)
+# Ad-Hoc (57 / 745)
 
 
 
@@ -15,7 +15,8 @@
   - [x]  [1217](https://www.beecrowd.com.br/judge/pt/problems/view/1217) - [Getline Two - Frutas](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1217.py)
   - [x]  [1218](https://www.beecrowd.com.br/judge/pt/problems/view/1218) - [Getline Three - Calçados](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1218.py) 
   - [x]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1285.py)   
-  - [x]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1329.py)    
+  - [x]  [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) - [Cara ou Coroa](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1329.py) 
+  - [x]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/AD-HOC/1379.py)    
   - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1387.py)  
   - [x]  [1397](https://www.beecrowd.com.br/judge/pt/problems/view/1397) - [Jogo do Maior](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1397.py)    
   - [x]  [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) - [Esquerda, Volver!](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1437.py)  
@@ -120,7 +121,6 @@
   - [ ]  [1369](https://www.beecrowd.com.br/judge/pt/problems/view/1369) - Gerente de Espaço
   - [ ]  [1374](https://www.beecrowd.com.br/judge/pt/problems/view/1374) - Eletricidade
   - [ ]  [1375](https://www.beecrowd.com.br/judge/pt/problems/view/1375) - Painel de Posições
-  - [ ]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - Problema com Mediana e Média  
   - [ ]  [1383](https://www.beecrowd.com.br/judge/pt/problems/view/1383) - Sudoku  
   - [ ]  [1403](https://www.beecrowd.com.br/judge/pt/problems/view/1403) - Meu Avô é Famoso
   - [ ]  [1404](https://www.beecrowd.com.br/judge/pt/problems/view/1404) - MegaDamas
