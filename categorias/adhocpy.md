@@ -1,10 +1,11 @@
-# Ad-Hoc (55 / 745)
+# Ad-Hoc (56 / 745)
 
 
 
 ## Problemas resolvidos
 
   - [x]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1026.py)
+  - [x]  [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/AD-HOC/1091.py)    
   - [x]  [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) - [Alarme Despertador](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1103.py)    
   - [x]  [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - [Leitura Ótica](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/1129.py)
   - [x]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/MariPadilha/beecrowd-answers/blob/AD-HOC/1140.py)    
@@ -70,7 +71,6 @@
   - [ ]  [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) - Dama  
   - [ ]  [1089](https://www.beecrowd.com.br/judge/pt/problems/view/1089) - Loop Musical  
   - [ ]  [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) - Set
-  - [ ]  [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia  
   - [ ]  [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente
   - [ ]  [1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) - Troca de Cartas  
   - [ ]  [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - Sub-prime  
