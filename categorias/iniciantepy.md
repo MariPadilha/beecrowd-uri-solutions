@@ -1,4 +1,4 @@
-# Iniciante (221 / 336)
+# Iniciante (222 / 336)
 
 
 
@@ -205,6 +205,7 @@
   - [x]  [3047](https://www.beecrowd.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3047.py)
   - [x]  [3053](https://www.beecrowd.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3053.py)    
   - [x]  [3055](https://www.beecrowd.com.br/judge/pt/problems/view/3055) - [Nota Esquecida](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3055.py)  
+  - [x]  [3089](https://www.beecrowd.com.br/judge/pt/problems/view/3089) - [Presentes de Natal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3089.py)    
   - [x]  [3091](https://www.beecrowd.com.br/judge/pt/problems/view/3091) - [Resto 1.0](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3091.py)
   - [x]  [3145](https://www.beecrowd.com.br/judge/pt/problems/view/3145) - [Uma Jornada Inesperada](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3145.py)
   - [x]  [3146](https://www.beecrowd.com.br/judge/pt/problems/view/3146) - [Charadas no Escuro](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3146.py)
@@ -314,7 +315,6 @@
   - [ ]  [3068](https://www.beecrowd.com.br/judge/pt/problems/view/3068) - Meteoros
   - [ ]  [3076](https://www.beecrowd.com.br/judge/pt/problems/view/3076) - Exercício de História
   - [ ]  [3084](https://www.beecrowd.com.br/judge/pt/problems/view/3084) - Relógio Antigo
-  - [ ]  [3089](https://www.beecrowd.com.br/judge/pt/problems/view/3089) - Presentes de Natal  
   - [ ]  [3140](https://www.beecrowd.com.br/judge/pt/problems/view/3140) - Copiando e Colando Código
   - [ ]  [3142](https://www.beecrowd.com.br/judge/pt/problems/view/3142) - Excel Bugado    
   - [ ]  [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - Comunicação Espacial
