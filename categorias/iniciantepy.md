@@ -1,4 +1,4 @@
-# Iniciante (222 / 336)
+# Iniciante (223 / 336)
 
 
 
@@ -183,6 +183,7 @@
   - [x]  [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - [Saída 6](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2752.py)
   - [x]  [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - [Saída 7](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2753.py)
   - [x]  [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Saída 8](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2754.py)
+  - [x]  [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2755.py)    
   - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2756.py)  
   - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2759.py)  
   - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.py)  
@@ -275,7 +276,6 @@
   - [ ]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - Indecisão das Renas
   - [ ]  [2724](https://www.beecrowd.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ]  [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - Código Secreto  
-  - [ ]  [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - Saída 9  
   - [ ]  [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - Entrada e Saída de Números Inteiros
   - [ ]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais  
   - [ ]  [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - Entrada e Saída de String
