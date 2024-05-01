@@ -1,4 +1,4 @@
-# Iniciante (225 / 336)
+# Iniciante (226 / 336)
 
 
 
@@ -174,6 +174,7 @@
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.py)
   - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2582.py)  
   - [x]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2653.py)
+  - [x]  [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2663.py)  
   - [x]  [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2702.py)  
   - [x]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2709.py)  
   - [x]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2717.py)  
@@ -266,7 +267,6 @@
   - [ ]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - Escala de Cinza
   - [ ]  [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ]  [2635](https://www.beecrowd.com.br/judge/pt/problems/view/2635) - Navegador Web
-  - [ ]  [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - Fase
   - [ ]  [2670](https://www.beecrowd.com.br/judge/pt/problems/view/2670) - Máquina de Café
   - [ ]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - A Mudança
   - [ ]  [2686](https://www.beecrowd.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
