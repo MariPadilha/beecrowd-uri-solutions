@@ -1,4 +1,4 @@
-# Iniciante (224 / 336)
+# Iniciante (225 / 336)
 
 
 
@@ -168,6 +168,7 @@
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.py)
   - [x]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2483.py)  
   - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.py)
+  - [x]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2523.py)  
   - [x]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2540.py)  
   - [x]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2543.py)  
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2581.py)
@@ -253,7 +254,6 @@
   - [ ]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ]  [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada  
   - [ ]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
-  - [ ]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - A Mensagem de Will
   - [ ]  [2533](https://www.beecrowd.com.br/judge/pt/problems/view/2533) - Estágio
   - [ ]  [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - Exame Geral  
   - [ ]  [2542](https://www.beecrowd.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
