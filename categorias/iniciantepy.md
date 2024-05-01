@@ -1,4 +1,4 @@
-# Iniciante (223 / 336)
+# Iniciante (224 / 336)
 
 
 
@@ -186,6 +186,7 @@
   - [x]  [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - [Saída 9](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2755.py)    
   - [x]  [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Saída 10](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2756.py)  
   - [x]  [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Entrada e Saída de Carácter](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2759.py)  
+  - [x]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - [Entrada e Saída 6](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2762.py)  
   - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.py)  
   - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2765.py)  
   - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.py)  
@@ -280,7 +281,6 @@
   - [ ]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais  
   - [ ]  [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - Entrada e Saída de String
   - [ ]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
-  - [ ]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - Entrada e Saída 6  
   - [ ]  [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data  
   - [ ]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
