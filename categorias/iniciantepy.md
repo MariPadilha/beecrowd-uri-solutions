@@ -1,4 +1,4 @@
-# Iniciante (226 / 336)
+# Iniciante (227 / 336)
 
 
 
@@ -205,6 +205,7 @@
   - [x]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2987.py)
   - [x]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3037.py)
   - [x]  [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3039.py)  
+  - [x]  [3040](https://www.beecrowd.com.br/judge/pt/problems/view/3040) - [A Árvore de Natal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3040.py)  
   - [x]  [3046](https://www.beecrowd.com.br/judge/pt/problems/view/3046) - [Dominó](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3046.py)
   - [x]  [3047](https://www.beecrowd.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3047.py)
   - [x]  [3053](https://www.beecrowd.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3053.py)    
@@ -309,7 +310,6 @@
   - [ ]  [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - Bobo da Corte
   - [ ]  [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - Hora da Corrida
   - [ ]  [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua?  
-  - [ ]  [3040](https://www.beecrowd.com.br/judge/pt/problems/view/3040) - A Árvore de Natal
   - [ ]  [3042](https://www.beecrowd.com.br/judge/pt/problems/view/3042) - Desviando de Árvores de Natal  
   - [ ]  [3065](https://www.beecrowd.com.br/judge/pt/problems/view/3065) - Calculando
   - [ ]  [3068](https://www.beecrowd.com.br/judge/pt/problems/view/3068) - Meteoros
