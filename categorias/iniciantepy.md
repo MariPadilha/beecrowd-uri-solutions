@@ -1,4 +1,4 @@
-# Iniciante (233 / 336)
+# Iniciante (234 / 336)
 
 
 
@@ -207,6 +207,7 @@
   - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2936.py)
   - [x]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2949.py)
   - [x]  [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2950.py)  
+  - [x]  [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2982.py)    
   - [x]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2987.py)
   - [x]  [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Jogando Dardos Por Distância](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3037.py)
   - [x]  [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - [Brinquedos do Papai Noel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/3039.py)  
@@ -310,7 +311,6 @@
   - [ ]  [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
   - [ ]  [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - Bobo da Corte
   - [ ]  [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - Hora da Corrida
-  - [ ]  [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - A Greve para ou Continua?  
   - [ ]  [3042](https://www.beecrowd.com.br/judge/pt/problems/view/3042) - Desviando de Árvores de Natal  
   - [ ]  [3065](https://www.beecrowd.com.br/judge/pt/problems/view/3065) - Calculando
   - [ ]  [3068](https://www.beecrowd.com.br/judge/pt/problems/view/3068) - Meteoros
