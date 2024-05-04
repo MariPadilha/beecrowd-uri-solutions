@@ -1,4 +1,4 @@
-# Iniciante (232 / 336)
+# Iniciante (233 / 336)
 
 
 
@@ -200,6 +200,7 @@
   - [x]  [2850](https://www.beecrowd.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2850.py)  
   - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2861.py)
   - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2862.py)
+  - [x]  [2863](https://www.beecrowd.com.br/judge/pt/problems/view/2863) - [Umil Bolt](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2863.py)  
   - [x]  [2867](https://www.beecrowd.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2867.py)  
   - [x]  [2879](https://www.beecrowd.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2879.py)  
   - [x]  [2896](https://www.beecrowd.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2896.py)  
@@ -305,7 +306,6 @@
   - [ ]  [2845](https://www.beecrowd.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte
   - [ ]  [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - Fibonot
   - [ ]  [2852](https://www.beecrowd.com.br/judge/pt/problems/view/2852) - Troca de Mensagens  
-  - [ ]  [2863](https://www.beecrowd.com.br/judge/pt/problems/view/2863) - Umil Bolt
   - [ ]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
   - [ ]  [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
   - [ ]  [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - Bobo da Corte
