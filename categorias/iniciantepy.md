@@ -1,4 +1,4 @@
-# Iniciante (229 / 336)
+# Iniciante (230 / 336)
 
 
 
@@ -195,6 +195,7 @@
   - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.py)  
   - [x]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2787.py) 
   - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.py) 
+  - [x]  [2813](https://www.beecrowd.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2813.py)  
   - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2861.py)
   - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2862.py)
   - [x]  [2867](https://www.beecrowd.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2867.py)  
@@ -298,7 +299,6 @@
   - [ ]  [2807](https://www.beecrowd.com.br/judge/pt/problems/view/2807) - Iccanobif
   - [ ]  [2808](https://www.beecrowd.com.br/judge/pt/problems/view/2808) - Mais Cavalos
   - [ ]  [2812](https://www.beecrowd.com.br/judge/pt/problems/view/2812) - Laércio
-  - [ ]  [2813](https://www.beecrowd.com.br/judge/pt/problems/view/2813) - Evitando Chuva
   - [ ]  [2823](https://www.beecrowd.com.br/judge/pt/problems/view/2823) - Eearliest Deadline First
   - [ ]  [2826](https://www.beecrowd.com.br/judge/pt/problems/view/2826) - Léxico
   - [ ]  [2845](https://www.beecrowd.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte
