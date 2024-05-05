@@ -1,4 +1,4 @@
-# Iniciante (235 / 336)
+# Iniciante (236 / 336)
 
 
 
@@ -207,6 +207,7 @@
   - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2936.py)
   - [x]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2949.py)
   - [x]  [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2950.py)  
+  - [x]  [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - [O Retorno do Rei](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2951.py)  
   - [x]  [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - [Bobo da Corte](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2963.py)  
   - [x]  [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - [A Greve para ou Continua?](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2982.py)    
   - [x]  [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balão de Honra](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2987.py)
@@ -309,7 +310,6 @@
   - [ ]  [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - Fibonot
   - [ ]  [2852](https://www.beecrowd.com.br/judge/pt/problems/view/2852) - Troca de Mensagens  
   - [ ]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
-  - [ ]  [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - O Retorno do Rei
   - [ ]  [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - Hora da Corrida
   - [ ]  [3042](https://www.beecrowd.com.br/judge/pt/problems/view/3042) - Desviando de Árvores de Natal  
   - [ ]  [3065](https://www.beecrowd.com.br/judge/pt/problems/view/3065) - Calculando
