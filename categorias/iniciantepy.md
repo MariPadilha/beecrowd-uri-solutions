@@ -1,4 +1,4 @@
-# Iniciante (236 / 336)
+# Iniciante (237 / 336)
 
 
 
@@ -204,6 +204,7 @@
   - [x]  [2867](https://www.beecrowd.com.br/judge/pt/problems/view/2867) - [Dígitos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2867.py)  
   - [x]  [2879](https://www.beecrowd.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2879.py)  
   - [x]  [2896](https://www.beecrowd.com.br/judge/pt/problems/view/2896) - [Aproveite a Oferta](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2896.py)  
+  - [x]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - [TCC da Depressão Natalino](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2930.py)  
   - [x]  [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [Quanta Mandioca?](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2936.py)
   - [x]  [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [A Sociedade do Anel](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2949.py)
   - [x]  [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [As Duas Torres](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2950.py)  
@@ -309,7 +310,6 @@
   - [ ]  [2845](https://www.beecrowd.com.br/judge/pt/problems/view/2845) - Festa no Polo Norte
   - [ ]  [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - Fibonot
   - [ ]  [2852](https://www.beecrowd.com.br/judge/pt/problems/view/2852) - Troca de Mensagens  
-  - [ ]  [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - TCC da Depressão Natalino
   - [ ]  [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - Hora da Corrida
   - [ ]  [3042](https://www.beecrowd.com.br/judge/pt/problems/view/3042) - Desviando de Árvores de Natal  
   - [ ]  [3065](https://www.beecrowd.com.br/judge/pt/problems/view/3065) - Calculando
