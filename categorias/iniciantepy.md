@@ -1,4 +1,4 @@
-# Iniciante (237 / 336)
+# Iniciante (238 / 336)
 
 
 
@@ -178,6 +178,7 @@
   - [x]  [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2702.py)  
   - [x]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2709.py)  
   - [x]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2717.py)  
+  - [x]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2721.py)  
   - [x]  [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Saída 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2747.py)
   - [x]  [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Saída 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2748.py)
   - [x]  [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Saída 3](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2749.py)
@@ -285,7 +286,6 @@
   - [ ]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - Rodízio Veicular
   - [ ]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - Luzes de Natal
-  - [ ]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - Indecisão das Renas
   - [ ]  [2724](https://www.beecrowd.com.br/judge/pt/problems/view/2724) - Ajude Patatatitu
   - [ ]  [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - Código Secreto  
   - [ ]  [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - Entrada e Saída de Números Inteiros
