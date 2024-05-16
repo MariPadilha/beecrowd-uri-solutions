@@ -1,4 +1,4 @@
-# Ad-Hoc (57 / 745)
+# Ad-Hoc (58 / 746)
 
 
 
@@ -61,6 +61,7 @@
   - [x]  [3106](https://www.beecrowd.com.br/judge/pt/problems/view/3106) - [Competição de Códigos](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3106.py)  
   - [x]  [3126](https://www.beecrowd.com.br/judge/pt/problems/view/3126) - [Lista de Treinamento](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3126.py)    
   - [x]  [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Língua do Computador](https://github.com/MariPadilha/URI-online-answers/blob/AD-HOC/3315.py)  
+  - [x]  [3456](https://www.beecrowd.com.br/judge/pt/problems/view/3456) - [Divisibilidade por 7](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/AD-HOC/3456.py)
 
 ## Problemas não resolvidos
 
@@ -753,3 +754,4 @@
   - [ ]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - KIARA is a Recursive Acronym
   - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam
   - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way
+
