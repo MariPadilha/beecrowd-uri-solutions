@@ -1,4 +1,4 @@
-# Iniciante (242 / 336)
+# Iniciante (243 / 336)
 
 
 
@@ -168,6 +168,7 @@
   - [x]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Patinhos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2334.py)
   - [x]  [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2344.py)
   - [x]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2483.py)  
+  - [x]  [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2486.py)  
   - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2510.py)
   - [x]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2523.py)  
   - [x]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - [Impeachment do Líder](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2540.py)  
@@ -266,7 +267,6 @@
   - [ ]  [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - Evento  
   - [ ]  [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos  
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo  
-  - [ ]  [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - C Mais ou Menos?
   - [ ]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - Jogo do Operador
   - [ ]  [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada  
   - [ ]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
