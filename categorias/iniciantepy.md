@@ -1,4 +1,4 @@
-# Iniciante (248 / 336)
+# Iniciante (249 / 336)
 
 
 
@@ -202,6 +202,7 @@
   - [x]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - [Entrada e Saída 6](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2762.py)  
   - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.py)  
   - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2765.py)  
+  - [x]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2779.py)    
   - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.py)  
   - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.py)  
   - [x]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2787.py) 
@@ -298,7 +299,6 @@
   - [ ]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
   - [ ]  [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - Precisão do Sensor
   - [ ]  [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - Preparando a Produção
-  - [ ]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - Álbum da Copa  
   - [ ]  [2782](https://www.beecrowd.com.br/judge/pt/problems/view/2782) - Escadinha
   - [ ]  [2783](https://www.beecrowd.com.br/judge/pt/problems/view/2783) - Figurinhas da Copa
   - [ ]  [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - Pirâmide  
