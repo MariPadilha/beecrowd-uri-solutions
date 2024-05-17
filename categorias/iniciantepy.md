@@ -1,4 +1,4 @@
-# Iniciante (240 / 336)
+# Iniciante (241 / 336)
 
 
 
@@ -177,6 +177,7 @@
   - [x]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2653.py)
   - [x]  [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2663.py)  
   - [x]  [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2702.py)  
+  - [x]  [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2708.py)
   - [x]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2709.py)  
   - [x]  [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Tempo do Duende](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2717.py)  
   - [x]  [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - [Indecisão das Renas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2721.py)  
@@ -283,7 +284,6 @@
   - [ ]  [2670](https://www.beecrowd.com.br/judge/pt/problems/view/2670) - Máquina de Café
   - [ ]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - A Mudança
   - [ ]  [2686](https://www.beecrowd.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
-  - [ ]  [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - Turistas no Parque Huacachina
   - [ ]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - Rodízio Veicular
   - [ ]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
   - [ ]  [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - Luzes de Natal
