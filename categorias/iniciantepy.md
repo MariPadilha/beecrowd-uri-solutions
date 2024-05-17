@@ -1,4 +1,4 @@
-# Iniciante (243 / 336)
+# Iniciante (244 / 336)
 
 
 
@@ -178,6 +178,7 @@
   - [x]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - [Escala de Cinza](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2630.py)  
   - [x]  [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - [Dijkstra](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2653.py)
   - [x]  [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - [Fase](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2663.py)  
+  - [x]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - [A Mudança](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2685.py)  
   - [x]  [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Escolha Difícil](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2702.py)  
   - [x]  [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - [Turistas no Parque Huacachina](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2708.py)
   - [x]  [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [As Moedas de Robbie](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2709.py)  
@@ -282,7 +283,6 @@
   - [ ]  [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - Magic and Sword
   - [ ]  [2635](https://www.beecrowd.com.br/judge/pt/problems/view/2635) - Navegador Web
   - [ ]  [2670](https://www.beecrowd.com.br/judge/pt/problems/view/2670) - Máquina de Café
-  - [ ]  [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - A Mudança
   - [ ]  [2686](https://www.beecrowd.com.br/judge/pt/problems/view/2686) - A Mudança Continua!!
   - [ ]  [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - Rodízio Veicular
   - [ ]  [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - Dividindo os Trabalhos I
