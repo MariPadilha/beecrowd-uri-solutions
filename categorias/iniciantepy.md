@@ -1,4 +1,4 @@
-# Iniciante (247 / 336)
+# Iniciante (248 / 336)
 
 
 
@@ -161,6 +161,7 @@
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2160.py)
   - [x]  [2164](https://www.beecrowd.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2164.py)  
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2165.py)
+  - [x]  [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - [Evento](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2172.py)    
   - [x]  [2176](https://www.beecrowd.com.br/judge/pt/problems/view/2176) - [Paridade](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2176.py)
   - [x]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2221.py)
   - [x]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2234.py)  
@@ -266,7 +267,6 @@
   - [ ]  [2166](https://www.beecrowd.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2
   - [ ]  [2167](https://www.beecrowd.com.br/judge/pt/problems/view/2167) - Falha do Motor
   - [ ]  [2168](https://www.beecrowd.com.br/judge/pt/problems/view/2168) - Crepúsculo em Portland
-  - [ ]  [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - Evento  
   - [ ]  [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - Tempestade de Corvos  
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo  
   - [ ]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - Jogo do Operador
