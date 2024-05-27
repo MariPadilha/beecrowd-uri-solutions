@@ -1,4 +1,4 @@
-# Matemática (4 / 269)
+# Matemática (5 / 269)
 
 
 
@@ -7,6 +7,7 @@
   - [x]  [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Volta à Faculdade de Física](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1197.py)
   - [x]  [1323](https://www.beecrowd.com.br/judge/pt/problems/view/1323) - [Feynman](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1323.py)
   - [x]  [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Fazendo Pandorgas](https://github.com/MariPadilha/URI-online-answers/blob/matematica/1585.py)  
+  - [x]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Soma Natural](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/matematica/1805.py)    
   - [x]  [2497](https://www.beecrowd.com.br/judge/pt/problems/view/2497) - [Contando Ciclos](https://github.com/MariPadilha/URI-online-answers/blob/matematica/2497.py)  
 
 ## Problemas não resolvidos
@@ -125,7 +126,6 @@
   - [ ]  [1785](https://www.beecrowd.com.br/judge/pt/problems/view/1785) - Kaprekar
   - [ ]  [1795](https://www.beecrowd.com.br/judge/pt/problems/view/1795) - Triângulo Trinomial  
   - [ ]  [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - Brincando com Números
-  - [ ]  [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - Soma Natural  
   - [ ]  [1807](https://www.beecrowd.com.br/judge/pt/problems/view/1807) - Triângulo Trinomial, a Vingança
   - [ ]  [1812](https://www.beecrowd.com.br/judge/pt/problems/view/1812) - Um Cluster Para Evitar Enchentes
   - [ ]  [1815](https://www.beecrowd.com.br/judge/pt/problems/view/1815) - Drunk People?
