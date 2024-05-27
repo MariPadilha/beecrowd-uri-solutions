@@ -1,4 +1,4 @@
-# Iniciante (249 / 336)
+# Iniciante (250 / 336)
 
 
 
@@ -202,6 +202,7 @@
   - [x]  [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - [Entrada e Saída 6](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2762.py)  
   - [x]  [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [Entrada e Saída CPF](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2763.py)  
   - [x]  [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Entrada e Saída com Virgula](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2765.py)  
+  - [x]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - [Entrada e Saída Lendo e Pulando Nomes](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2766.py)    
   - [x]  [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - [Álbum da Copa](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2779.py)    
   - [x]  [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Basquete de Robôs](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2780.py)  
   - [x]  [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [Piso da Escola](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2786.py)  
@@ -294,7 +295,6 @@
   - [ ]  [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - Entrada e Saída de Números Reais  
   - [ ]  [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - Entrada e Saída de Vários Tipos
   - [ ]  [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - Entrada e Saída de Data  
-  - [ ]  [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - Entrada e Saída Lendo e Pulando Nomes  
   - [ ]  [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - Linha de Montagem
   - [ ]  [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - Tamanho da Placa
   - [ ]  [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - Precisão do Sensor
