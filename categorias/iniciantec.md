@@ -1,4 +1,4 @@
-# Iniciante (34 / 335)
+# Iniciante (35 / 335)
 
 
 
@@ -35,13 +35,13 @@
   - [x]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1042.c)
   - [x]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1043.c)
   - [x]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1044.c)  
+  - [x]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1045.c)  
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1047.c)
   - [x]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1050.c)
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.c)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos
   - [ ]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - Tempo de Jogo
   - [ ]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - Aumento de Salário
   - [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - Animal
