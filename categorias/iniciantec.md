@@ -1,4 +1,4 @@
-# Iniciante (36 / 335)
+# Iniciante (37 / 335)
 
 
 
@@ -38,12 +38,12 @@
   - [x]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1045.c)  
   - [x]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1046.c)  
   - [x]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1047.c)
+  - [x]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1048.c)  
   - [x]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1050.c)
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.c)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - Aumento de Salário
   - [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - Animal
   - [ ]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - Imposto de Renda
   - [ ]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - Mês
