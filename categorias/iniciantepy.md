@@ -1,4 +1,4 @@
-# Iniciante (251 / 336)
+# Iniciante (252 / 336)
 
 
 
@@ -153,6 +153,7 @@
   - [x]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2059.py)    
   - [x]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2060.py)
   - [x]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2061.py)  
+  - [x]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - [Procurando Subsequências](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2126.py)  
   - [x]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2139.py)  
   - [x]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/2140.py)  
   - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2143.py)    
@@ -210,7 +211,7 @@
   - [x]  [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Xadrez](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2787.py) 
   - [x]  [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Feijão](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2791.py) 
   - [x]  [2813](https://www.beecrowd.com.br/judge/pt/problems/view/2813) - [Evitando Chuva](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2813.py)  
-  - [x]  [2826](https://www.beecrowd.com.br/judge/pt/problems/view/2826) - [Léxico](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2826.py)  
+  - [x]  [2826](https://www.beecrowd.com.br/judge/pt/problems/view/2826) - [Léxico](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2826.py) 
   - [x]  [2850](https://www.beecrowd.com.br/judge/pt/problems/view/2850) - [Papagaio Poliglota](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2850.py)  
   - [x]  [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [A Saída](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2861.py)
   - [x]  [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Inseto!](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/2862.py)
@@ -261,7 +262,6 @@
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III  
   - [ ]  [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - Matriz Quadrada IV  
   - [ ]  [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - Jornada nas Estrelas
-  - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - Galopeira
   - [ ]  [2161](https://www.beecrowd.com.br/judge/pt/problems/view/2161) - Raiz Quadrada de 10
   - [ ]  [2162](https://www.beecrowd.com.br/judge/pt/problems/view/2162) - Picos e Vales
