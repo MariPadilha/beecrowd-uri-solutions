@@ -1,4 +1,4 @@
-# Iniciante (42 / 335)
+# Iniciante (43 / 335)
 
 
 
@@ -9,8 +9,8 @@
   - [x]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1002.c)  
   - [x]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1003.c)
   - [x]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1004.c)
-  - [x]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1005.c)  
-  - [x]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1006.c)  
+  - [x]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1005.c) 
+  - [x]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1006.c) 
   - [x]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - [Diferença](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1007.c)
   - [x]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1008.c)
   - [x]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/MariPadilha/URI-online-answers/blob/iniciante/1009.c)
@@ -45,11 +45,11 @@
   - [x]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1052.c) 
   - [x]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1059.c)  
   - [x]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1060.c)  
+  - [x]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1061.c)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.c)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - Tempo de um Evento
   - [ ]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - Positivos e Média
   - [ ]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - Pares entre Cinco Números
   - [ ]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - Pares, Ímpares, Positivos e Negativos
