@@ -1,4 +1,4 @@
-# Iniciante (57 / 335)
+# Iniciante (58 / 335)
 
 
 
@@ -60,11 +60,11 @@
   - [x]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1079.c)  
   - [x]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1080.c) 
   - [x]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1094.c)  
+  - [x]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1095.c)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.c)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - Sequencia IJ 1
   - [ ]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - Sequencia IJ 2
   - [ ]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - Sequencia IJ 3
   - [ ]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - Sequencia IJ 4
