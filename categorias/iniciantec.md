@@ -1,4 +1,4 @@
-# Iniciante (61 / 334)
+# Iniciante (62 / 334)
 
 
 
@@ -64,11 +64,11 @@
   - [x]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1096.c)  
   - [x]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1097.c)  
   - [x]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1098.c)  
+  - [x]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1099.c)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.c)
 
 ## Problemas não resolvidos
 
-  - [ ]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II
   - [ ]  [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - Sequência de Números e Soma
   - [ ]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - Crescente e Decrescente
   - [ ]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - Senha Fixa
