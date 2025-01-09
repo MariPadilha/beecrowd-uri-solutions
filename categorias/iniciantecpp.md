@@ -1,4 +1,4 @@
-# Iniciante (99 / 335)
+# Iniciante (100 / 335)
 
 
 
@@ -69,9 +69,10 @@
   - [x]  [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Crescente e Decrescente](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1113.cpp)
   - [x]  [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Senha Fixa](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1114.cpp)
   - [x]  [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrante](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1115.cpp)
+  - [x]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividindo X por Y](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1116.cpp)
   - [x]  [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Validação de Nota](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1117.cpp)  
   - [x]  [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Várias Notas Com Validação](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1118.cpp)
-  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1131.cpp)  
+  - [x]  [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1131.cpp) 
   - [x]  [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Múltiplos de 13](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1132.cpp)  
   - [x]  [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Resto da Divisão](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1133.cpp)
   - [x]  [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Tipo de Combustível](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1134.cpp)  
@@ -106,7 +107,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - Dividindo X por Y
   - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - Troca em Vetor I  
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
