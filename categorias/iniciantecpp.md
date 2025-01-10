@@ -1,4 +1,4 @@
-# Iniciante (109 / 335)
+# Iniciante (110 / 335)
 
 
 
@@ -112,12 +112,12 @@
   - [x]  [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - [Abaixo da Diagonal Secundária](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1186.cpp)  
   - [x]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - [Área Superior](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1187.cpp)  
   - [x]  [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - [Área Inferior](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1188.cpp)  
+  - [x]  [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - [Área Esquerda](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1189.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
-  - [ ]  [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - Área Esquerda
   - [ ]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - Área Direita
   - [ ]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - Matriz Quadrada I
   - [ ]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - Matriz Quadrada II
