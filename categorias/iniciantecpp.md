@@ -1,4 +1,4 @@
-# Iniciante (100 / 335)
+# Iniciante (101 / 335)
 
 
 
@@ -81,6 +81,7 @@
   - [x]  [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Sequência Lógica](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1144.cpp)  
   - [x]  [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - [Sequência Lógica 2](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1145.cpp)  
   - [x]  [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - [Sequências Crescentes](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1146.cpp)  
+  - [x]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - [Somando Inteiros Consecutivos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1149.cpp)  
   - [x]  [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - [Ultrapassando Z](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1150.cpp)
   - [x]  [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - [Fibonacci Fácil](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1151.cpp)  
   - [x]  [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Fatorial Simples](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1153.cpp)
@@ -107,7 +108,6 @@
 
 ## Problemas não resolvidos
 
-  - [ ]  [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - Somando Inteiros Consecutivos
   - [ ]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - Troca em Vetor I  
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
