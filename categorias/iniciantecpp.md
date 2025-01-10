@@ -1,4 +1,4 @@
-# Iniciante (102 / 335)
+# Iniciante (103 / 335)
 
 
 
@@ -100,6 +100,7 @@
   - [x]  [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - [Troca em Vetor I](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1175.cpp)   
   - [x]  [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Preenchimento de Vetor II](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1177.cpp)  
   - [x]  [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Preenchimento de Vetor III](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1178.cpp) 
+  - [x]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - [Coluna na Matriz](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1182.cpp)  
   - [x]  [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduite](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1589.cpp)
   - [x]  [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1759.cpp)
   - [x]  [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Preenchimento de Vetor IV](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1179.cpp)
@@ -110,7 +111,6 @@
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
-  - [ ]  [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - Coluna na Matriz
   - [ ]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - Acima da Diagonal Principal
   - [ ]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
   - [ ]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - Acima da Diagonal Secundária
