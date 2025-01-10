@@ -1,4 +1,4 @@
-# Iniciante (104 / 335)
+# Iniciante (105 / 335)
 
 
 
@@ -107,12 +107,12 @@
   - [x]  [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Menor e Posição](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1180.cpp)
   - [x]  [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Linha na Matriz](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1181.cpp)
   - [x]  [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - [Acima da Diagonal Principal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1183.cpp)  
+  - [x]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - [Abaixo da Diagonal Principal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1184.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
-  - [ ]  [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - Abaixo da Diagonal Principal
   - [ ]  [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - Acima da Diagonal Secundária
   - [ ]  [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - Abaixo da Diagonal Secundária
   - [ ]  [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - Área Superior
