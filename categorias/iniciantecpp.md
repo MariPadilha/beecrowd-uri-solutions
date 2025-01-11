@@ -1,4 +1,4 @@
-# Iniciante (113 / 335)
+# Iniciante (114 / 335)
 
 
 
@@ -116,13 +116,13 @@
   - [x]  [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Área Direita](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1190.cpp)  
   - [x]  [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - [Matriz Quadrada I](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1435.cpp)  
   - [x]  [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - [Matriz Quadrada II](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1478.cpp)  
+  - [x]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Construindo Casas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1541.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - Construindo Casas
   - [ ]  [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - Matriz Quadrada III
   - [ ]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - Vai Ter Copa?
   - [ ]  [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - A Corrida de Lesmas
