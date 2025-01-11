@@ -1,4 +1,4 @@
-# Iniciante (121 / 335)
+# Iniciante (122 / 335)
 
 
 
@@ -124,13 +124,13 @@
   - [x]  [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1828.cpp)    
   - [x]  [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Prefácio](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1837.cpp)  
   - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1847.cpp)  
+  - [x]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1848.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - Corvo Contador
   - [ ]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - A Resposta de Theon
   - [ ]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - Nossos Dias Nunca Voltarão
   - [ ]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - Mjölnir  
