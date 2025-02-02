@@ -126,7 +126,8 @@
   - [x]  [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Bem-vindos e Bem-vindas ao Inverno!](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1847.cpp)  
   - [x]  [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Corvo Contador](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1848.cpp)  
   - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1858.cpp)  
-  - [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1864.cpp)  
+  - [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1864.cpp)
+  - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1865.cpp)   
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
