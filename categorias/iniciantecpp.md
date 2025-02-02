@@ -134,7 +134,6 @@
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - Mjölnir  
   - [ ]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - Conta
   - [ ]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - De Quem é a Vez?
   - [ ]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão
