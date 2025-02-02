@@ -1,4 +1,4 @@
-# Iniciante (125 / 335)
+# Iniciante (126 / 335)
 
 
 
@@ -128,13 +128,13 @@
   - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1858.cpp)  
   - [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1864.cpp)
   - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1865.cpp)   
+  - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1866.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - Conta
   - [ ]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - De Quem é a Vez?
   - [ ]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - Vitória e a Indecisão
   - [ ]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - Triângulo
