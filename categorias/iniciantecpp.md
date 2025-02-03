@@ -1,4 +1,4 @@
-# Iniciante (132 / 335)
+# Iniciante (133 / 335)
 
 
 
@@ -134,13 +134,13 @@
   - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1929.cpp)  
   - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1930.cpp)  
   - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1933.cpp)  
+  - [x]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1957.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - Converter para Hexadecimal
   - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - Notação Científica
   - [ ]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - Polígonos Regulares Simples
   - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página
