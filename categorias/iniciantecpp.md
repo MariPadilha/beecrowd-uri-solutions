@@ -1,4 +1,4 @@
-# Iniciante (134 / 335)
+# Iniciante (135 / 335)
 
 
 
@@ -135,6 +135,7 @@
   - [x]  [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Tomadas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1930.cpp)  
   - [x]  [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1933.cpp)  
   - [x]  [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converter para Hexadecimal](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1957.cpp)  
+  - [x]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - [Notação Científica](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1958.cpp)  
   - [x]  [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Polígonos Regulares Simples](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1959.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
@@ -142,7 +143,6 @@
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - Notação Científica
   - [ ]  [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - Numeração Romana para Números de Página
   - [ ]  [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - Pula Sapo
   - [ ]  [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - Há Muito, Muito Tempo Atrás
