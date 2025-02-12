@@ -1,4 +1,4 @@
-# Iniciante (144 / 335)
+# Iniciante (145 / 335)
 
 
 
@@ -146,13 +146,13 @@
   - [x]  [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [O Enigma do Pronalândia](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1984.cpp)   
   - [x]  [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1985.cpp)  
   - [x]  [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - [Domingo de Manhã](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2003.cpp)  
+  - [x]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2006.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - Identificando o Chá
   - [ ]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - Sequência de Sequência
   - [ ]  [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - Reservatório de Mel
   - [ ]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
