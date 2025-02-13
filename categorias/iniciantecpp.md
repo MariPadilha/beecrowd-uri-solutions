@@ -1,4 +1,4 @@
-# Iniciante (147 / 335)
+# Iniciante (148 / 335)
 
 
 
@@ -149,13 +149,13 @@
   - [x]  [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identificando o Chá](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2006.cpp)  
   - [x]  [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - [Sequência de Sequência](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2028.cpp)  
   - [x]  [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - [Reservatório de Mel](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2029.cpp)  
+  - [x]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2031.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - Pedra, Papel, Ataque Aéreo
   - [ ]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - Fuso Horário
   - [ ]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - Ímpar, Par ou Roubo
   - [ ]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - Desafio de Bino
