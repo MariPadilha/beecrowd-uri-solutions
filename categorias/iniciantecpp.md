@@ -1,4 +1,4 @@
-# Iniciante (150 / 335)
+# Iniciante (151 / 335)
 
 
 
@@ -152,13 +152,13 @@
   - [x]  [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - [Pedra, Papel, Ataque Aéreo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2031.cpp)  
   - [x]  [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - [Fuso Horário](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2057.cpp)  
   - [x]  [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - [Ímpar, Par ou Roubo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2059.cpp)  
+  - [x]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2060.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
 
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
-  - [ ]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - Desafio de Bino
   - [ ]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - As Abas de Péricles
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
   - [ ]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - Natal de Pedrinho
