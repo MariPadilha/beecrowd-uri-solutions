@@ -1,4 +1,4 @@
-# Iniciante (153 / 335)
+# Iniciante (154 / 335)
 
 
 
@@ -155,6 +155,7 @@
   - [x]  [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Desafio de Bino](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2060.cpp)  
   - [x]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2061.cpp)  
   - [x]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2139.cpp)  
+  - [x]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2140.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -162,7 +163,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - Duas Notas
   - [ ]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - A Volta do Radar
   - [ ]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - Senha
   - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - Galopeira
