@@ -157,7 +157,7 @@
   - [x]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2139.cpp)  
   - [x]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2140.cpp)  
   - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2143.cpp)  
-  - [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2146.cpp  
+  - [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2146.cpp)  
   - [x]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2147.cpp)  
   - [x]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2152.cpp)  
   - [x]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2159.cpp)    
