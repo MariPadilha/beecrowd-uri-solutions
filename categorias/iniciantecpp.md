@@ -1,4 +1,4 @@
-# Iniciante (154 / 335)
+# Iniciante (155 / 335)
 
 
 
@@ -88,7 +88,7 @@
   - [x]  [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Idades](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1154.cpp)
   - [x]  [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [Sequência S](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1155.cpp)
   - [x]  [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - [Sequência S II](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1156.cpp)
-  - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1157.cpp)  
+  - [x]  [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisores I](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1157.cpp) 
   - [x]  [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Soma de Ímpares Consecutivos III](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1158.cpp)
   - [x]  [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Soma de Pares Consecutivos](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1159.cpp)  
   - [x]  [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Crescimento Populacional](https://github.com/MariPadilha/beecrowd-answers/blob/iniciante/1160.cpp)
@@ -128,7 +128,7 @@
   - [x]  [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [A Resposta de Theon](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1858.cpp)  
   - [x]  [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Nossos Dias Nunca Voltarão](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1864.cpp)
   - [x]  [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1865.cpp)   
-  - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1866.cpp)  
+  - [x]  [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Conta](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1866.cpp) 
   - [x]  [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [De Quem é a Vez?](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1914.cpp)  
   - [x]  [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória e a Indecisão](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1924.cpp)  
   - [x]  [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triângulo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/1929.cpp)  
@@ -156,6 +156,7 @@
   - [x]  [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - [As Abas de Péricles](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2061.cpp)  
   - [x]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2139.cpp)  
   - [x]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2140.cpp)  
+  - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2143.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -163,7 +164,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - A Volta do Radar
   - [ ]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - Senha
   - [ ]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - Galopeira
   - [ ]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - Pepe, Já Tirei a Vela!
