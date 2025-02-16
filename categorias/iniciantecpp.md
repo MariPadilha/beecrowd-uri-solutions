@@ -1,4 +1,4 @@
-# Iniciante (173 / 335)
+# Iniciante (174 / 335)
 
 
 
@@ -157,7 +157,7 @@
   - [x]  [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Natal de Pedrinho](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2139.cpp)  
   - [x]  [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Duas Notas](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2140.cpp)  
   - [x]  [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [A Volta do Radar](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2143.cpp)  
-  - [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2146.cpp)  
+  - [x]  [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Senha](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2146.cpp) 
   - [x]  [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - [Galopeira](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2147.cpp)  
   - [x]  [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - [Pepe, Já Tirei a Vela!](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2152.cpp)  
   - [x]  [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - [Número Aproximado de Primos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2159.cpp)    
@@ -175,6 +175,7 @@
   - [x]  [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - [Tempestade de Corvos](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2203.cpp)  
   - [x]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2221.cpp)  
   - [x]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2234.cpp)  
+  - [x]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2235.cpp)    
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -182,7 +183,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - Andando no Tempo  
   - [ ]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - Voleibol  
   - [ ]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo
