@@ -1,4 +1,4 @@
-# Iniciante (166 / 335)
+# Iniciante (167 / 335)
 
 
 
@@ -168,6 +168,7 @@
   - [x]  [2164](https://www.beecrowd.com.br/judge/pt/problems/view/2164) - [Fibonacci Rápido](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2164.cpp)    
   - [x]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Tuitando](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2165.cpp)   
   - [x]  [2166](https://www.beecrowd.com.br/judge/pt/problems/view/2166) - [Raiz Quadrada de 2](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2166.cpp)  
+  - [x]  [2167](https://www.beecrowd.com.br/judge/pt/problems/view/2167) - [Falha do Motor](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2167.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -175,7 +176,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2167](https://www.beecrowd.com.br/judge/pt/problems/view/2167) - Falha do Motor
   - [ ]  [2168](https://www.beecrowd.com.br/judge/pt/problems/view/2168) - Crepúsculo em Portland
   - [ ]  [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - Evento
   - [ ]  [2176](https://www.beecrowd.com.br/judge/pt/problems/view/2176) - Paridade
