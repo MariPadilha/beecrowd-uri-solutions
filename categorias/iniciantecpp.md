@@ -1,4 +1,4 @@
-# Iniciante (162 / 335)
+# Iniciante (163 / 335)
 
 
 
@@ -164,6 +164,7 @@
   - [x]  [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Nome no Formulário](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2160.cpp)    
   - [x]  [2161](https://www.beecrowd.com.br/judge/pt/problems/view/2161) - [Raiz Quadrada de 10](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2161.cpp)  
   - [x]  [2162](https://www.beecrowd.com.br/judge/pt/problems/view/2162) - [Picos e Vales](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2162.cpp)  
+  - [x]  [2163](https://www.beecrowd.com.br/judge/pt/problems/view/2163) - [O Despertar da Força](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2163.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -171,7 +172,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2163](https://www.beecrowd.com.br/judge/pt/problems/view/2163) - O Despertar da Força
   - [ ]  [2164](https://www.beecrowd.com.br/judge/pt/problems/view/2164) - Fibonacci Rápido  
   - [ ]  [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - Tuitando 
   - [ ]  [2166](https://www.beecrowd.com.br/judge/pt/problems/view/2166) - Raiz Quadrada de 2
