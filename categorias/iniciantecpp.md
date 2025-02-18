@@ -1,4 +1,4 @@
-# Iniciante (174 / 335)
+# Iniciante (175 / 335)
 
 
 
@@ -176,6 +176,7 @@
   - [x]  [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - [Batalha de Pomekons](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2221.cpp)  
   - [x]  [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - [Cachorros-Quentes](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2234.cpp)  
   - [x]  [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - [Andando no Tempo](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2235.cpp)    
+  - [x]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Voleibol](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2310.cpp)    
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -183,7 +184,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - Voleibol  
   - [ ]  [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - Saltos Ornamentais
   - [ ]  [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - Qual Triângulo
   - [ ]  [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - Patinhos  
