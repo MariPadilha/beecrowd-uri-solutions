@@ -1,4 +1,4 @@
-# Iniciante (187 / 335)
+# Iniciante (188 / 335)
 
 
 
@@ -188,6 +188,7 @@
   - [x]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2510.cpp)    
   - [x]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - [O Último Analógimôn](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2520.cpp)  
   - [x]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - [A Mensagem de Will](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2523.cpp)  
+  - [x]  [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - [Exame Geral](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2534.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -195,7 +196,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - Exame Geral
   - [ ]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - Impeachment do Líder
   - [ ]  [2542](https://www.beecrowd.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
   - [ ]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - Jogatina UFPR
