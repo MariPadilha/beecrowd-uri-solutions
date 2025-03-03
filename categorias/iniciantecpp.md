@@ -1,4 +1,4 @@
-# Iniciante (182 / 335)
+# Iniciante (183 / 335)
 
 
 
@@ -184,6 +184,7 @@
   - [x]  [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Feliz Nataaal!](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2483.cpp)  
   - [x]  [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2486.cpp)  
   - [x]  [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - [Jogo do Operador](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2493.cpp)  
+  - [x]  [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - [Decifrando a Carta Criptografada](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2502.cpp)    
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -191,7 +192,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - Decifrando a Carta Criptografada  
   - [ ]  [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - Batmain  
   - [ ]  [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - O Último Analógimôn
   - [ ]  [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - A Mensagem de Will
