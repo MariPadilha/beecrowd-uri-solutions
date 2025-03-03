@@ -1,4 +1,4 @@
-# Iniciante (186 / 335)
+# Iniciante (187 / 335)
 
 
 
@@ -195,7 +195,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2533](https://www.beecrowd.com.br/judge/pt/problems/view/2533) - Estágio
   - [ ]  [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - Exame Geral
   - [ ]  [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - Impeachment do Líder
   - [ ]  [2542](https://www.beecrowd.com.br/judge/pt/problems/view/2542) - Iu-Di-Oh!
