@@ -1,4 +1,4 @@
-# Iniciante (193 / 335)
+# Iniciante (194 / 335)
 
 
 
@@ -194,6 +194,7 @@
   - [x]  [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - [Jogatina UFPR](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2543.cpp)  
   - [x]  [2544](https://www.beecrowd.com.br/judge/pt/problems/view/2544) - [Kage Bunshin no Jutsu](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2544.cpp)  
   - [x]  [2547](https://www.beecrowd.com.br/judge/pt/problems/view/2547) - [Montanha-Russa](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2547.cpp)  
+  - [x]  [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - [Novo Recorde](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2551.cpp)  
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -201,7 +202,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - Novo Recorde
   - [ ]  [2552](https://www.beecrowd.com.br/judge/pt/problems/view/2552) - PãodeQuejoSweeper
   - [ ]  [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - Pizza Antes de BH  
   - [ ]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - I am Toorg!
