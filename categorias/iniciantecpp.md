@@ -1,4 +1,4 @@
-# Iniciante (197 / 335)
+# Iniciante (198 / 335)
 
 
 
@@ -198,6 +198,7 @@
   - [x]  [2552](https://www.beecrowd.com.br/judge/pt/problems/view/2552) - [PãodeQuejoSweeper](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2552.cpp)  
   - [x]  [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - [Pizza Antes de BH](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2554.cpp)    
   - [x]  [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2581.cpp)  
+  - [x]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/2582.cpp)    
   - [x]  [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/iniciante/3344.cpp)
 
 ## Problemas não resolvidos
@@ -205,7 +206,6 @@
   - [ ]  [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - Fibonacci em Vetor
   - [ ]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - Matriz 123
   - [ ]  [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - Procurando Subsequências
-  - [ ]  [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - System of a Download  
   - [ ]  [2626](https://www.beecrowd.com.br/judge/pt/problems/view/2626) - Turma do JB6
   - [ ]  [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - Escala de Cinza
   - [ ]  [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - Magic and Sword
