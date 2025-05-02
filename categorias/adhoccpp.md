@@ -1,9 +1,10 @@
-# Ad-Hoc (0 / 745)
+# Ad-Hoc (1 / 746)
 
 
 
 ## Problemas resolvidos
 
+  - [x]  [3422](https://judge.beecrowd.com/pt/problems/view/3422) - [José e Súmula](https://github.com/MariPadilha/beecrowd-uri-solutions/blob/AD-HOC/3422.cpp)
 
 ## Problemas não resolvidos
 
